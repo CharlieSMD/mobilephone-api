@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "AJLWLBKIgweLi8bZIYv2R9g3/uRNkaQZ2BjbDMs2XHk=",
+  "Source": "MobilePhoneAPI",
+  "BasePath": "_content/MobilePhoneAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
