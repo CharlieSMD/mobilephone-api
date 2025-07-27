@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shenmeidun/Desktop/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {}
+    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {}
   },
   "projects": {
-    "/Users/shenmeidun/Desktop/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {
+    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shenmeidun/Desktop/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
+        "projectUniqueName": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
         "projectName": "MobilePhoneAPI",
-        "projectPath": "/Users/shenmeidun/Desktop/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
+        "projectPath": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
         "packagesPath": "/Users/shenmeidun/.nuget/packages/",
-        "outputPath": "/Users/shenmeidun/Desktop/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/",
+        "outputPath": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shenmeidun/.nuget/NuGet/NuGet.Config"
@@ -45,13 +45,33 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.7, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.3.0, )"
             }
           },
           "imports": [
