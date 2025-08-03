@@ -40,6 +40,12 @@ public class PhoneService : IPhoneService
                 PropertyNameCaseInsensitive = true
             }) ?? new List<Phone>();
 
+            // Update image URLs to use more realistic phone images
+            foreach (var phone in _phones)
+            {
+                phone.ImageUrl = GeneratePhoneImageUrl(phone.Brand, phone.Model);
+            }
+
             return _phones;
         }
         catch (Exception ex)
@@ -83,5 +89,13 @@ public class PhoneService : IPhoneService
         return phones.Where(p => 
             p.Brand.Equals(brand, StringComparison.OrdinalIgnoreCase)
         ).ToList();
+    }
+
+    private string GeneratePhoneImageUrl(string brand, string model)
+    {
+        // Use Unsplash API for realistic phone images
+        var searchTerm = $"{brand} {model} phone";
+        var encodedSearch = Uri.EscapeDataString(searchTerm);
+        return $"https://source.unsplash.com/400x600/?{encodedSearch}";
     }
 } 

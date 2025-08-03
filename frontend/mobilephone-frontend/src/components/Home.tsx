@@ -39,6 +39,7 @@ const Home: React.FC = () => {
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
+  const [imageErrors, setImageErrors] = useState<Set<number>>(new Set());
 
   useEffect(() => {
     fetchPhones();
@@ -70,6 +71,10 @@ const Home: React.FC = () => {
       );
       setFilteredPhones(filtered);
     }
+  };
+
+  const handleImageError = (phoneId: number) => {
+    setImageErrors(prev => new Set(prev).add(phoneId));
   };
 
   const handleMenuOpen = (event: React.MouseEvent<HTMLElement>) => {
@@ -169,12 +174,25 @@ const Home: React.FC = () => {
                 <Box
                   sx={{
                     height: 200,
-                    backgroundImage: `url(${phone.imageUrl})`,
+                    backgroundImage: imageErrors.has(phone.id) 
+                      ? 'url(https://via.placeholder.com/400x600/cccccc/666666?text=Phone)' 
+                      : `url(${phone.imageUrl})`,
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
-                    backgroundRepeat: 'no-repeat'
+                    backgroundRepeat: 'no-repeat',
+                    backgroundColor: '#f5f5f5',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center'
                   }}
-                />
+                  onError={() => handleImageError(phone.id)}
+                >
+                  {imageErrors.has(phone.id) && (
+                    <Typography variant="body2" color="text.secondary" align="center">
+                      {phone.brand} {phone.model}
+                    </Typography>
+                  )}
+                </Box>
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Typography variant="h6" component="h2" gutterBottom>
                     {phone.brand}

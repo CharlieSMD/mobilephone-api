@@ -9,7 +9,7 @@
     "camera": "12 + 12 + 12",
     "battery": "3095",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+13+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2013%20Pro%20phone"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "camera": "108 + 10 + 10 + 12",
     "battery": "5000",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21+Ultra"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20Ultra%20phone"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "camera": "48 + 50 + 8 + 2",
     "battery": "4500",
     "price": 899.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+9+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%209%20Pro%20phone"
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
     "camera": "64 + 8 + 5 + 2",
     "battery": "5020",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20phone"
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
     "camera": "50 + 12.2",
     "battery": "4614",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+6"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%206%20phone"
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
     "camera": "12 + 12",
     "battery": "2815",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+13"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2013%20phone"
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
     "camera": "12 + 12",
     "battery": "3300",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Z+Flip3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Z%20Flip3%20phone"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "5160",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "camera": "50 + 13 + 16 + 2",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno6+Pro++5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno6%20Pro%2B%205G%20phone"
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
     "camera": "50 + 48 + 12 + 8",
     "battery": "4500",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+X70+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20X70%20Pro%2B%20phone"
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
     "camera": "64 + 8 + 2",
     "battery": "4500",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord+CE+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%20CE%205G%20phone"
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
     "camera": "64 + 12 + 5 + 5",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52s%205G%20phone"
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
     "camera": "64 + 8 + 2",
     "battery": "5000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+GT+Neo2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20GT%20Neo2%20phone"
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
     "camera": "12 + 12",
     "battery": "2227",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12+Mini"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20Mini%20phone"
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
     "camera": "50 + 50 + 13 + 3",
     "battery": "4500",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Find+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Find%20X3%20Pro%20phone"
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
     "camera": "64 + 8 + 5",
     "battery": "4250",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite+5G+NE"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%205G%20NE%20phone"
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
     "camera": "64 + 12 + 12",
     "battery": "4000",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20phone"
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
     "camera": "50 + 2 + 2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20s+(G)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20s%20%28G%29%20phone"
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
     "camera": "48 + 2 + 2",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+8s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%208s%205G%20phone"
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "4310",
     "price": 379.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A94"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A94%20phone"
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
     "camera": "50 + 8 + 2 + 2",
     "battery": "6000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10+Prime"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20Prime%20phone"
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
     "camera": "48 + 5",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A22+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A22%205G%20phone"
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
     "camera": "48 + 50 + 2",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050%20Pro%205G%20phone"
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
     "camera": "48 + 50 + 2",
     "battery": "4500",
     "price": 729.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+9"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%209%20phone"
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
     "camera": "108 + 8 + 5 + 2",
     "battery": "5020",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20Max%20phone"
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
     "camera": "12 + 12",
     "battery": "3110",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20phone"
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A03s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A03s%20phone"
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@
     "camera": "48 + 2 + 2",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A74+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A74%205G%20phone"
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
     "camera": "13 + 2",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y12s+(2021)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y12s%20%282021%29%20phone"
   },
   {
     "id": 30,
@@ -357,7 +357,7 @@
     "camera": "50 + 2 + 2",
     "battery": "6000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+9i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%209i%20phone"
   },
   {
     "id": 31,
@@ -369,7 +369,7 @@
     "camera": "64 + 12 + 5 + 5",
     "battery": "5000",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M52%205G%20phone"
   },
   {
     "id": 32,
@@ -381,7 +381,7 @@
     "camera": "50 + 8 + 2 + 2",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20phone"
   },
   {
     "id": 33,
@@ -393,7 +393,7 @@
     "camera": "12",
     "battery": "1821",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+SE+(2nd+Gen)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20SE%20%282nd%20Gen%29%20phone"
   },
   {
     "id": 34,
@@ -405,7 +405,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 259.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53s%20phone"
   },
   {
     "id": 35,
@@ -417,7 +417,7 @@
     "camera": "50 + 2 + 2",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33s%20phone"
   },
   {
     "id": 36,
@@ -429,7 +429,7 @@
     "camera": "13 + 2 + 2",
     "battery": "6000",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C25s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C25s%20phone"
   },
   {
     "id": 37,
@@ -441,7 +441,7 @@
     "camera": "48 + 5 + 2",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A22+4G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A22%204G%20phone"
   },
   {
     "id": 38,
@@ -453,7 +453,7 @@
     "camera": "50 + 8 + 2",
     "battery": "4500",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord+2+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%202%205G%20phone"
   },
   {
     "id": 39,
@@ -465,7 +465,7 @@
     "camera": "48 + 2 + 2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20Pro%205G%20phone"
   },
   {
     "id": 40,
@@ -477,7 +477,7 @@
     "camera": "12",
     "battery": "2942",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XR"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XR%20phone"
   },
   {
     "id": 41,
@@ -489,7 +489,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16%20phone"
   },
   {
     "id": 42,
@@ -501,7 +501,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 129.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21Y"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21Y%20phone"
   },
   {
     "id": 43,
@@ -513,7 +513,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "6000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+F22"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20F22%20phone"
   },
   {
     "id": 44,
@@ -525,7 +525,7 @@
     "camera": "64 + 8 + 2 + 2",
     "battery": "4310",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+F19+Pro++5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20F19%20Pro%2B%205G%20phone"
   },
   {
     "id": 45,
@@ -537,7 +537,7 @@
     "camera": "48 + 8 + 5",
     "battery": "4520",
     "price": 529.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11X"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011X%20phone"
   },
   {
     "id": 46,
@@ -549,7 +549,7 @@
     "camera": "12 + 12",
     "battery": "2227",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12+Mini"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20Mini%20phone"
   },
   {
     "id": 47,
@@ -561,7 +561,7 @@
     "camera": "64 + 8",
     "battery": "4000",
     "price": 369.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21e"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21e%20phone"
   },
   {
     "id": 48,
@@ -573,7 +573,7 @@
     "camera": "48 + 2 + 2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+8+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%208%205G%20phone"
   },
   {
     "id": 49,
@@ -585,7 +585,7 @@
     "camera": "48 + 5 + 2 + 2",
     "battery": "6000",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M12%20phone"
   },
   {
     "id": 50,
@@ -597,7 +597,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16s%20phone"
   },
   {
     "id": 51,
@@ -609,7 +609,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "6000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20Power%20phone"
   },
   {
     "id": 52,
@@ -621,7 +621,7 @@
     "camera": "12 + 12 + 12",
     "battery": "3969",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20Pro%20Max%20phone"
   },
   {
     "id": 53,
@@ -633,7 +633,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20G%20phone"
   },
   {
     "id": 54,
@@ -645,7 +645,7 @@
     "camera": "50 + 2",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050i%20phone"
   },
   {
     "id": 55,
@@ -657,7 +657,7 @@
     "camera": "64 + 12 + 5 + 5",
     "battery": "4500",
     "price": 459.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52s%205G%20phone"
   },
   {
     "id": 56,
@@ -669,7 +669,7 @@
     "camera": "13 + 2 + 2",
     "battery": "5000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54%20phone"
   },
   {
     "id": 57,
@@ -681,7 +681,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9T"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209T%20phone"
   },
   {
     "id": 58,
@@ -693,7 +693,7 @@
     "camera": "12 + 12 + 12",
     "battery": "4352",
     "price": 1299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+13+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2013%20Pro%20Max%20phone"
   },
   {
     "id": 59,
@@ -705,7 +705,7 @@
     "camera": "50 + 2 + 2",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33%20phone"
   },
   {
     "id": 60,
@@ -717,7 +717,7 @@
     "camera": "64 + 12 + 8 + 5",
     "battery": "5000",
     "price": 429.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A72"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A72%20phone"
   },
   {
     "id": 61,
@@ -729,7 +729,7 @@
     "camera": "64 + 8 + 2 + 2",
     "battery": "4500",
     "price": 659.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno6+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno6%20Pro%205G%20phone"
   },
   {
     "id": 62,
@@ -741,7 +741,7 @@
     "camera": "48 + 2 + 2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20Pro%205G%20phone"
   },
   {
     "id": 63,
@@ -753,7 +753,7 @@
     "camera": "12",
     "battery": "1821",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+SE+(2020)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20SE%20%282020%29%20phone"
   },
   {
     "id": 64,
@@ -765,7 +765,7 @@
     "camera": "64 + 2",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y53s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y53s%20phone"
   },
   {
     "id": 65,
@@ -777,7 +777,7 @@
     "camera": "64 + 8 + 2 + 2",
     "battery": "5000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+7i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%207i%20phone"
   },
   {
     "id": 66,
@@ -789,7 +789,7 @@
     "camera": "64 + 12 + 5 + 5",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52%205G%20phone"
   },
   {
     "id": 67,
@@ -801,7 +801,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "4310",
     "price": 359.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+F19+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20F19%20Pro%20phone"
   },
   {
     "id": 68,
@@ -813,7 +813,7 @@
     "camera": "64 + 8 + 2 + 2",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10S"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010S%20phone"
   },
   {
     "id": 69,
@@ -825,7 +825,7 @@
     "camera": "12 + 12",
     "battery": "2942",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XR"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XR%20phone"
   },
   {
     "id": 70,
@@ -837,7 +837,7 @@
     "camera": "50 + 2",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y21s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y21s%20phone"
   },
   {
     "id": 71,
@@ -849,7 +849,7 @@
     "camera": "13 + 2 + 2",
     "battery": "6000",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C25s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C25s%20phone"
   },
   {
     "id": 72,
@@ -861,7 +861,7 @@
     "camera": "48 + 5 + 2",
     "battery": "5000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A22+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A22%205G%20phone"
   },
   {
     "id": 73,
@@ -873,7 +873,7 @@
     "camera": "48 + 8 + 2 + 2",
     "battery": "4310",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A94"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A94%20phone"
   },
   {
     "id": 74,
@@ -885,7 +885,7 @@
     "camera": "64 + 8 + 5",
     "battery": "4250",
     "price": 369.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%205G%20phone"
   },
   {
     "id": 75,
@@ -897,7 +897,7 @@
     "camera": "12 + 12",
     "battery": "3110",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20phone"
   },
   {
     "id": 76,
@@ -909,7 +909,7 @@
     "camera": "48 + 13 + 13",
     "battery": "4200",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+X60+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20X60%20Pro%20phone"
   },
   {
     "id": 77,
@@ -921,7 +921,7 @@
     "camera": "50 + 2",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050A%20phone"
   },
   {
     "id": 78,
@@ -933,7 +933,7 @@
     "camera": "12MP + 12MP",
     "battery": "2815",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+13"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2013%20phone"
   },
   {
     "id": 79,
@@ -945,7 +945,7 @@
     "camera": "64MP + 12MP + 12MP",
     "battery": "4000",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20phone"
   },
   {
     "id": 80,
@@ -957,7 +957,7 @@
     "camera": "50MP + 8MP + 2MP",
     "battery": "4500",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord+2"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%202%20phone"
   },
   {
     "id": 81,
@@ -969,7 +969,7 @@
     "camera": "50MP + 12MP",
     "battery": "4600",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+6"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%206%20phone"
   },
   {
     "id": 82,
@@ -981,7 +981,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5160",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X4+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X4%20Pro%20phone"
   },
   {
     "id": 83,
@@ -993,7 +993,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4300",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+GT+Master+Edition"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20GT%20Master%20Edition%20phone"
   },
   {
     "id": 84,
@@ -1005,7 +1005,7 @@
     "camera": "50MP + 48MP + 12MP + 8MP",
     "battery": "4450",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+X70+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20X70%20Pro%2B%20phone"
   },
   {
     "id": 85,
@@ -1017,7 +1017,7 @@
     "camera": "50MP + 16MP + 13MP + 2MP",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno6+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno6%20Pro%2B%20phone"
   },
   {
     "id": 86,
@@ -1029,7 +1029,7 @@
     "camera": "108MP + 16MP + 8MP",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Edge+20+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Edge%2020%20Pro%20phone"
   },
   {
     "id": 87,
@@ -1041,7 +1041,7 @@
     "camera": "48MP + 13MP",
     "battery": "4630",
     "price": 549.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+XR20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20XR20%20phone"
   },
   {
     "id": 88,
@@ -1053,7 +1053,7 @@
     "camera": "12MP + 12MP + 12MP",
     "battery": "4500",
     "price": 0.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Sony+Xperia+5+III"
+    "imageUrl": "https://source.unsplash.com/400x600/?Sony%20Xperia%205%20III%20phone"
   },
   {
     "id": 89,
@@ -1065,7 +1065,7 @@
     "camera": "64MP + 13MP + 12MP",
     "battery": "4000",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=LG+Wing"
+    "imageUrl": "https://source.unsplash.com/400x600/?LG%20Wing%20phone"
   },
   {
     "id": 90,
@@ -1077,7 +1077,7 @@
     "camera": "64MP + 12MP + 8MP",
     "battery": "5000",
     "price": 899.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Asus+Zenfone+8+Flip"
+    "imageUrl": "https://source.unsplash.com/400x600/?Asus%20Zenfone%208%20Flip%20phone"
   },
   {
     "id": 91,
@@ -1089,7 +1089,7 @@
     "camera": "13MP + 5MP",
     "battery": "3000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Blackberry+KEY2+LE"
+    "imageUrl": "https://source.unsplash.com/400x600/?Blackberry%20KEY2%20LE%20phone"
   },
   {
     "id": 92,
@@ -1101,7 +1101,7 @@
     "camera": "64MP + 12MP + 8MP + 5MP",
     "battery": "5000",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A72"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A72%20phone"
   },
   {
     "id": 93,
@@ -1113,7 +1113,7 @@
     "camera": "108MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 319.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20Max%20phone"
   },
   {
     "id": 94,
@@ -1125,7 +1125,7 @@
     "camera": "48MP + 50MP + 2MP",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050%20Pro%205G%20phone"
   },
   {
     "id": 95,
@@ -1137,7 +1137,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "4310",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+F19+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20F19%20Pro%2B%20phone"
   },
   {
     "id": 96,
@@ -1149,7 +1149,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33s%20phone"
   },
   {
     "id": 97,
@@ -1161,7 +1161,7 @@
     "camera": "108MP + 8MP + 2MP",
     "battery": "6000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G60"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G60%20phone"
   },
   {
     "id": 98,
@@ -1173,7 +1173,7 @@
     "camera": "48MP + 5MP + 2MP",
     "battery": "4000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+5.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%205.4%20phone"
   },
   {
     "id": 99,
@@ -1185,7 +1185,7 @@
     "camera": "64MP + 5MP + 2MP + 2MP",
     "battery": "4000",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=LG+K92+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?LG%20K92%205G%20phone"
   },
   {
     "id": 100,
@@ -1197,7 +1197,7 @@
     "camera": "64MP + 12MP",
     "battery": "4000",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Asus+Zenfone+8"
+    "imageUrl": "https://source.unsplash.com/400x600/?Asus%20Zenfone%208%20phone"
   },
   {
     "id": 101,
@@ -1209,7 +1209,7 @@
     "camera": "12MP + 12MP",
     "battery": "3500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Blackberry+KEY2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Blackberry%20KEY2%20phone"
   },
   {
     "id": 102,
@@ -1221,7 +1221,7 @@
     "camera": "13MP + 5MP",
     "battery": "4200",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=CAT+S42"
+    "imageUrl": "https://source.unsplash.com/400x600/?CAT%20S42%20phone"
   },
   {
     "id": 103,
@@ -1233,7 +1233,7 @@
     "camera": "12MP + 12MP",
     "battery": "3300",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Z+Flip+3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Z%20Flip%203%20phone"
   },
   {
     "id": 104,
@@ -1245,7 +1245,7 @@
     "camera": "48MP + 50MP + 8MP",
     "battery": "4500",
     "price": 969.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+9+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%209%20Pro%20phone"
   },
   {
     "id": 105,
@@ -1257,7 +1257,7 @@
     "camera": "50MP + 48MP + 48MP",
     "battery": "5000",
     "price": 0.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Ultra"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Ultra%20phone"
   },
   {
     "id": 106,
@@ -1269,7 +1269,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16%20phone"
   },
   {
     "id": 107,
@@ -1281,7 +1281,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y12A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y12A%20phone"
   },
   {
     "id": 108,
@@ -1293,7 +1293,7 @@
     "camera": "8MP + 2MP",
     "battery": "4950",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+C20+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20C20%20Plus%20phone"
   },
   {
     "id": 109,
@@ -1305,7 +1305,7 @@
     "camera": "12MP + 12MP + 8MP",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S20+FE+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S20%20FE%205G%20phone"
   },
   {
     "id": 110,
@@ -1317,7 +1317,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+E7i+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20E7i%20Power%20phone"
   },
   {
     "id": 111,
@@ -1329,7 +1329,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20Pro%205G%20phone"
   },
   {
     "id": 112,
@@ -1341,7 +1341,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21Y"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21Y%20phone"
   },
   {
     "id": 113,
@@ -1353,7 +1353,7 @@
     "camera": "64MP + 13MP + 5MP",
     "battery": "6000",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Asus+ROG+Phone+5"
+    "imageUrl": "https://source.unsplash.com/400x600/?Asus%20ROG%20Phone%205%20phone"
   },
   {
     "id": 114,
@@ -1365,7 +1365,7 @@
     "camera": "48MP + 8MP + 5MP",
     "battery": "4300",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=LG+Velvet+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?LG%20Velvet%205G%20phone"
   },
   {
     "id": 115,
@@ -1377,7 +1377,7 @@
     "camera": "12MP + 13MP",
     "battery": "4000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Blackberry+Evolve"
+    "imageUrl": "https://source.unsplash.com/400x600/?Blackberry%20Evolve%20phone"
   },
   {
     "id": 116,
@@ -1389,7 +1389,7 @@
     "camera": "50MP + 13MP + 16MP + 2MP",
     "battery": "4500",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno+6+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno%206%20Pro%2B%20phone"
   },
   {
     "id": 117,
@@ -1401,7 +1401,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A03s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A03s%20phone"
   },
   {
     "id": 118,
@@ -1413,7 +1413,7 @@
     "camera": "50MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10+Prime"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20Prime%20phone"
   },
   {
     "id": 119,
@@ -1425,7 +1425,7 @@
     "camera": "48MP + 5MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G50"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G50%20phone"
   },
   {
     "id": 120,
@@ -1437,7 +1437,7 @@
     "camera": "50MP + 2MP",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050A%20phone"
   },
   {
     "id": 121,
@@ -1449,7 +1449,7 @@
     "camera": "48MP + 5MP",
     "battery": "5050",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+G20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20G20%20phone"
   },
   {
     "id": 122,
@@ -1461,7 +1461,7 @@
     "camera": "64MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M32"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M32%20phone"
   },
   {
     "id": 123,
@@ -1473,7 +1473,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20G%20phone"
   },
   {
     "id": 124,
@@ -1485,7 +1485,7 @@
     "camera": "64MP + 12MP + 12MP",
     "battery": "5000",
     "price": 899.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Asus+Zenfone+8+Flip"
+    "imageUrl": "https://source.unsplash.com/400x600/?Asus%20Zenfone%208%20Flip%20phone"
   },
   {
     "id": 125,
@@ -1497,7 +1497,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54%20phone"
   },
   {
     "id": 126,
@@ -1509,7 +1509,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+F22"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20F22%20phone"
   },
   {
     "id": 127,
@@ -1521,7 +1521,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "4250",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%205G%20phone"
   },
   {
     "id": 128,
@@ -1533,7 +1533,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+8i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%208i%20phone"
   },
   {
     "id": 129,
@@ -1545,7 +1545,7 @@
     "camera": "13MP + 2MP",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+C30"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20C30%20phone"
   },
   {
     "id": 130,
@@ -1557,7 +1557,7 @@
     "camera": "64MP + 8MP + 5MP + 5MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%20phone"
   },
   {
     "id": 131,
@@ -1569,7 +1569,7 @@
     "camera": "108MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20Max%20phone"
   },
   {
     "id": 132,
@@ -1581,7 +1581,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21Y"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21Y%20phone"
   },
   {
     "id": 133,
@@ -1593,7 +1593,7 @@
     "camera": "48MP + 13MP",
     "battery": "4630",
     "price": 549.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+XR20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20XR20%20phone"
   },
   {
     "id": 134,
@@ -1605,7 +1605,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52s%205G%20phone"
   },
   {
     "id": 135,
@@ -1617,7 +1617,7 @@
     "camera": "50MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33s%20phone"
   },
   {
     "id": 136,
@@ -1629,7 +1629,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16s%20phone"
   },
   {
     "id": 137,
@@ -1641,7 +1641,7 @@
     "camera": "48MP + 8MP + 5MP",
     "battery": "5000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Stylus+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Stylus%205G%20phone"
   },
   {
     "id": 138,
@@ -1653,7 +1653,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20Pro%205G%20phone"
   },
   {
     "id": 139,
@@ -1665,7 +1665,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "5000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+GT+Neo2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20GT%20Neo2%20phone"
   },
   {
     "id": 140,
@@ -1677,7 +1677,7 @@
     "camera": "8MP + 2MP",
     "battery": "4950",
     "price": 109.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+C20+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20C20%20Plus%20phone"
   },
   {
     "id": 141,
@@ -1689,7 +1689,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A21s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A21s%20phone"
   },
   {
     "id": 142,
@@ -1701,7 +1701,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y12s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y12s%20phone"
   },
   {
     "id": 143,
@@ -1713,7 +1713,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+F19s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20F19s%20phone"
   },
   {
     "id": 144,
@@ -1725,7 +1725,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+30+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2030%20Pro%205G%20phone"
   },
   {
     "id": 145,
@@ -1737,7 +1737,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A03s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A03s%20phone"
   },
   {
     "id": 146,
@@ -1749,7 +1749,7 @@
     "camera": "50MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10+Prime"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20Prime%20phone"
   },
   {
     "id": 147,
@@ -1761,7 +1761,7 @@
     "camera": "48MP + 2MP",
     "battery": "5000",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Pure"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Pure%20phone"
   },
   {
     "id": 148,
@@ -1773,7 +1773,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4310",
     "price": 389.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno6+Z+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno6%20Z%205G%20phone"
   },
   {
     "id": 149,
@@ -1785,7 +1785,7 @@
     "camera": "108MP + 12MP + 10MP + 10MP",
     "battery": "5000",
     "price": 0.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21+Ultra+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20Ultra%205G%20phone"
   },
   {
     "id": 150,
@@ -1797,7 +1797,7 @@
     "camera": "64MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y53s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y53s%20phone"
   },
   {
     "id": 151,
@@ -1809,7 +1809,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+8i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%208i%20phone"
   },
   {
     "id": 152,
@@ -1821,7 +1821,7 @@
     "camera": "48MP + 5MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+G50"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20G50%20phone"
   },
   {
     "id": 153,
@@ -1833,7 +1833,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9+Activ"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20Activ%20phone"
   },
   {
     "id": 154,
@@ -1845,7 +1845,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54s%20phone"
   },
   {
     "id": 155,
@@ -1857,7 +1857,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M22"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M22%20phone"
   },
   {
     "id": 156,
@@ -1869,7 +1869,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Power+2022"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Power%202022%20phone"
   },
   {
     "id": 157,
@@ -1881,7 +1881,7 @@
     "camera": "50MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y21s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y21s%20phone"
   },
   {
     "id": 158,
@@ -1893,7 +1893,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+GT"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20GT%20phone"
   },
   {
     "id": 159,
@@ -1905,7 +1905,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "5000",
     "price": 309.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+F42+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20F42%205G%20phone"
   },
   {
     "id": 160,
@@ -1917,7 +1917,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16s%20phone"
   },
   {
     "id": 161,
@@ -1929,7 +1929,7 @@
     "camera": "64MP + 8MP",
     "battery": "4000",
     "price": 369.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21e"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21e%20phone"
   },
   {
     "id": 162,
@@ -1941,7 +1941,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4300",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+GT+Master+Edition"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20GT%20Master%20Edition%20phone"
   },
   {
     "id": 163,
@@ -1953,7 +1953,7 @@
     "camera": "108MP + 8MP + 2MP",
     "battery": "5000",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Edge+20+Fusion"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Edge%2020%20Fusion%20phone"
   },
   {
     "id": 164,
@@ -1965,7 +1965,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A21s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A21s%20phone"
   },
   {
     "id": 165,
@@ -1977,7 +1977,7 @@
     "camera": "64MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10S"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010S%20phone"
   },
   {
     "id": 166,
@@ -1989,7 +1989,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A74+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A74%205G%20phone"
   },
   {
     "id": 167,
@@ -2001,7 +2001,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 129.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21%20phone"
   },
   {
     "id": 168,
@@ -2013,7 +2013,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "5000",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M52%205G%20phone"
   },
   {
     "id": 169,
@@ -2025,7 +2025,7 @@
     "camera": "64MP + 8MP",
     "battery": "4000",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21%205G%20phone"
   },
   {
     "id": 170,
@@ -2037,7 +2037,7 @@
     "camera": "64MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+9+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%209%20Pro%20Max%20phone"
   },
   {
     "id": 171,
@@ -2049,7 +2049,7 @@
     "camera": "48MP + 8MP + 5MP",
     "battery": "5000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Stylus+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Stylus%205G%20phone"
   },
   {
     "id": 172,
@@ -2061,7 +2061,7 @@
     "camera": "50MP + 16MP + 13MP + 2MP",
     "battery": "4500",
     "price": 849.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno6+Pro++5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno6%20Pro%2B%205G%20phone"
   },
   {
     "id": 173,
@@ -2073,7 +2073,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+30+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2030%20Pro%205G%20phone"
   },
   {
     "id": 174,
@@ -2085,7 +2085,7 @@
     "camera": "64MP + 8MP + 5MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%20phone"
   },
   {
     "id": 175,
@@ -2097,7 +2097,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5160",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 176,
@@ -2109,7 +2109,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C25s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C25s%20phone"
   },
   {
     "id": 177,
@@ -2121,7 +2121,7 @@
     "camera": "48MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Power+2021"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Power%202021%20phone"
   },
   {
     "id": 178,
@@ -2133,7 +2133,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "4500",
     "price": 469.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52s%205G%20phone"
   },
   {
     "id": 179,
@@ -2145,7 +2145,7 @@
     "camera": "64MP + 8MP",
     "battery": "4000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21e+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21e%205G%20phone"
   },
   {
     "id": 180,
@@ -2157,7 +2157,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53s%205G%20phone"
   },
   {
     "id": 181,
@@ -2169,7 +2169,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "5000",
     "price": 369.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+GT+Neo2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20GT%20Neo2%20phone"
   },
   {
     "id": 182,
@@ -2181,7 +2181,7 @@
     "camera": "64MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M32"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M32%20phone"
   },
   {
     "id": 183,
@@ -2193,7 +2193,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "4250",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite+NE"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%20NE%20phone"
   },
   {
     "id": 184,
@@ -2205,7 +2205,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "4000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Stylus+2021"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Stylus%202021%20phone"
   },
   {
     "id": 185,
@@ -2217,7 +2217,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54s+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54s%205G%20phone"
   },
   {
     "id": 186,
@@ -2229,7 +2229,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "6000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+F41"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20F41%20phone"
   },
   {
     "id": 187,
@@ -2241,7 +2241,7 @@
     "camera": "64MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20phone"
   },
   {
     "id": 188,
@@ -2253,7 +2253,7 @@
     "camera": "50MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050A%20phone"
   },
   {
     "id": 189,
@@ -2265,7 +2265,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16s%20phone"
   },
   {
     "id": 190,
@@ -2277,7 +2277,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "5000",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M52"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M52%20phone"
   },
   {
     "id": 191,
@@ -2289,7 +2289,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21%205G%20phone"
   },
   {
     "id": 192,
@@ -2301,7 +2301,7 @@
     "camera": "48MP + 5MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G50s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G50s%20phone"
   },
   {
     "id": 193,
@@ -2313,7 +2313,7 @@
     "camera": "50MP + 5MP",
     "battery": "5000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A13"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A13%20phone"
   },
   {
     "id": 194,
@@ -2325,7 +2325,7 @@
     "camera": "50MP + 2MP",
     "battery": "5000",
     "price": 209.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9+Activ"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20Activ%20phone"
   },
   {
     "id": 195,
@@ -2337,7 +2337,7 @@
     "camera": "64MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+7i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%207i%20phone"
   },
   {
     "id": 196,
@@ -2349,7 +2349,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A74+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A74%205G%20phone"
   },
   {
     "id": 197,
@@ -2361,7 +2361,7 @@
     "camera": "48MP + 8MP + 5MP + 5MP",
     "battery": "5000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A42+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A42%205G%20phone"
   },
   {
     "id": 198,
@@ -2373,7 +2373,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33s%20phone"
   },
   {
     "id": 199,
@@ -2385,7 +2385,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G9+Power+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G9%20Power%20Lite%20phone"
   },
   {
     "id": 200,
@@ -2397,7 +2397,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 119.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21Y"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21Y%20phone"
   },
   {
     "id": 201,
@@ -2409,7 +2409,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A22"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A22%20phone"
   },
   {
     "id": 202,
@@ -2421,7 +2421,7 @@
     "camera": "64MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10S"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010S%20phone"
   },
   {
     "id": 203,
@@ -2433,7 +2433,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A74"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A74%20phone"
   },
   {
     "id": 204,
@@ -2445,7 +2445,7 @@
     "camera": "64MP + 8MP + 5MP + 5MP",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%20phone"
   },
   {
     "id": 205,
@@ -2457,7 +2457,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "5000",
     "price": 339.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y72+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y72%205G%20phone"
   },
   {
     "id": 206,
@@ -2469,7 +2469,7 @@
     "camera": "108MP + 8MP + 2MP",
     "battery": "6000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G60"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G60%20phone"
   },
   {
     "id": 207,
@@ -2481,7 +2481,7 @@
     "camera": "108MP + 8MP + 2MP + 2MP",
     "battery": "4820",
     "price": 319.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+10i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2010i%20phone"
   },
   {
     "id": 208,
@@ -2493,7 +2493,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+30+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2030%20Pro%20phone"
   },
   {
     "id": 209,
@@ -2505,7 +2505,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "7000",
     "price": 429.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M62"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M62%20phone"
   },
   {
     "id": 210,
@@ -2517,7 +2517,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 269.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53s%20phone"
   },
   {
     "id": 211,
@@ -2529,7 +2529,7 @@
     "camera": "50MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10+Prime"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20Prime%20phone"
   },
   {
     "id": 212,
@@ -2541,7 +2541,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "6000",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C25s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C25s%20phone"
   },
   {
     "id": 213,
@@ -2553,7 +2553,7 @@
     "camera": "48MP + 5MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A12%20phone"
   },
   {
     "id": 214,
@@ -2565,7 +2565,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5160",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 215,
@@ -2577,7 +2577,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A03s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A03s%20phone"
   },
   {
     "id": 216,
@@ -2589,7 +2589,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "4230",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A15s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A15s%20phone"
   },
   {
     "id": 217,
@@ -2601,7 +2601,7 @@
     "camera": "8MP + 2MP",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C11+2021"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C11%202021%20phone"
   },
   {
     "id": 218,
@@ -2613,7 +2613,7 @@
     "camera": "13MP + 2MP",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+C30"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20C30%20phone"
   },
   {
     "id": 219,
@@ -2625,7 +2625,7 @@
     "camera": "13MP",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209i%20phone"
   },
   {
     "id": 220,
@@ -2637,7 +2637,7 @@
     "camera": "48MP + 5MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A22+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A22%205G%20phone"
   },
   {
     "id": 221,
@@ -2649,7 +2649,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53%20phone"
   },
   {
     "id": 222,
@@ -2661,7 +2661,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y12s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y12s%20phone"
   },
   {
     "id": 223,
@@ -2673,7 +2673,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "4250",
     "price": 429.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%205G%20phone"
   },
   {
     "id": 224,
@@ -2685,7 +2685,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+7+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%207%205G%20phone"
   },
   {
     "id": 225,
@@ -2697,7 +2697,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "6000",
     "price": 379.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M31s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M31s%20phone"
   },
   {
     "id": 226,
@@ -2709,7 +2709,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "4230",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A15"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A15%20phone"
   },
   {
     "id": 227,
@@ -2721,7 +2721,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5050",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+G10"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20G10%20phone"
   },
   {
     "id": 228,
@@ -2733,7 +2733,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "5000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+GT"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20GT%20phone"
   },
   {
     "id": 229,
@@ -2745,7 +2745,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "6000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C25"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C25%20phone"
   },
   {
     "id": 230,
@@ -2757,7 +2757,7 @@
     "camera": "108MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20Max%20phone"
   },
   {
     "id": 231,
@@ -2769,7 +2769,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52%205G%20phone"
   },
   {
     "id": 232,
@@ -2781,7 +2781,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "4310",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A94"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A94%20phone"
   },
   {
     "id": 233,
@@ -2793,7 +2793,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 289.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y33s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y33s%20phone"
   },
   {
     "id": 234,
@@ -2805,7 +2805,7 @@
     "camera": "50MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+50A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2050A%20phone"
   },
   {
     "id": 235,
@@ -2817,7 +2817,7 @@
     "camera": "64MP + 5MP + 2MP + 2MP",
     "battery": "4470",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+X20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20X20%20phone"
   },
   {
     "id": 236,
@@ -2829,7 +2829,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20Power%20phone"
   },
   {
     "id": 237,
@@ -2841,7 +2841,7 @@
     "camera": "48MP + 5MP + 2MP + 2MP",
     "battery": "6000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M12%20phone"
   },
   {
     "id": 238,
@@ -2853,7 +2853,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53s%20phone"
   },
   {
     "id": 239,
@@ -2865,7 +2865,7 @@
     "camera": "50MP + 2MP + 2MP",
     "battery": "5000",
     "price": 209.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20s+G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20s%20G%20phone"
   },
   {
     "id": 240,
@@ -2877,7 +2877,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C21Y"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C21Y%20phone"
   },
   {
     "id": 241,
@@ -2889,7 +2889,7 @@
     "camera": "8MP + 2MP",
     "battery": "4950",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+C20+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20C20%20Plus%20phone"
   },
   {
     "id": 242,
@@ -2901,7 +2901,7 @@
     "camera": "50MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10+Prime"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20Prime%20phone"
   },
   {
     "id": 243,
@@ -2913,7 +2913,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4500",
     "price": 549.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno+6+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno%206%20Pro%205G%20phone"
   },
   {
     "id": 244,
@@ -2925,7 +2925,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 239.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y31s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y31s%20phone"
   },
   {
     "id": 245,
@@ -2937,7 +2937,7 @@
     "camera": "48MP + 2MP",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+8+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%208%205G%20phone"
   },
   {
     "id": 246,
@@ -2949,7 +2949,7 @@
     "camera": "48MP + 5MP + 2MP + 2MP",
     "battery": "5050",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+G20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20G20%20phone"
   },
   {
     "id": 247,
@@ -2961,7 +2961,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5160",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 248,
@@ -2973,7 +2973,7 @@
     "camera": "48MP + 8MP + 5MP + 2MP",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%205G%20phone"
   },
   {
     "id": 249,
@@ -2985,7 +2985,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A16"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A16%20phone"
   },
   {
     "id": 250,
@@ -2997,7 +2997,7 @@
     "camera": "64MP + 8MP + 2MP",
     "battery": "4000",
     "price": 469.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V21+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V21%205G%20phone"
   },
   {
     "id": 251,
@@ -3009,7 +3009,7 @@
     "camera": "8MP + 2MP",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C11+2021"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C11%202021%20phone"
   },
   {
     "id": 252,
@@ -3021,7 +3021,7 @@
     "camera": "48MP + 5MP + 2MP + 2MP",
     "battery": "4000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+5.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%205.4%20phone"
   },
   {
     "id": 253,
@@ -3033,7 +3033,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20phone"
   },
   {
     "id": 254,
@@ -3045,7 +3045,7 @@
     "camera": "64MP + 8MP + 5MP",
     "battery": "6000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+F41"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20F41%20phone"
   },
   {
     "id": 255,
@@ -3057,7 +3057,7 @@
     "camera": "48MP + 2MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54%20phone"
   },
   {
     "id": 256,
@@ -3069,7 +3069,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "4100",
     "price": 319.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+V20+SE"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20V20%20SE%20phone"
   },
   {
     "id": 257,
@@ -3081,7 +3081,7 @@
     "camera": "13MP + 5MP + 2MP",
     "battery": "4000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+3.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%203.4%20phone"
   },
   {
     "id": 258,
@@ -3093,7 +3093,7 @@
     "camera": "64MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+9+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%209%20Pro%20Max%20phone"
   },
   {
     "id": 259,
@@ -3105,7 +3105,7 @@
     "camera": "64MP + 12MP + 5MP + 5MP",
     "battery": "6000",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M31s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M31s%20phone"
   },
   {
     "id": 260,
@@ -3117,7 +3117,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 219.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54%20phone"
   },
   {
     "id": 261,
@@ -3129,7 +3129,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y12s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y12s%20phone"
   },
   {
     "id": 262,
@@ -3141,7 +3141,7 @@
     "camera": "8MP",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C20%20phone"
   },
   {
     "id": 263,
@@ -3153,7 +3153,7 @@
     "camera": "8MP + 2MP",
     "battery": "4000",
     "price": 119.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+1.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%201.4%20phone"
   },
   {
     "id": 264,
@@ -3165,7 +3165,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 169.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20Power%20phone"
   },
   {
     "id": 265,
@@ -3177,7 +3177,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A02s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A02s%20phone"
   },
   {
     "id": 266,
@@ -3189,7 +3189,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "4230",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A15s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A15s%20phone"
   },
   {
     "id": 267,
@@ -3201,7 +3201,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "5000",
     "price": 289.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y51A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y51A%20phone"
   },
   {
     "id": 268,
@@ -3213,7 +3213,7 @@
     "camera": "48MP + 8MP + 2MP",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+20"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2020%20phone"
   },
   {
     "id": 269,
@@ -3225,7 +3225,7 @@
     "camera": "13MP + 5MP + 2MP + 2MP",
     "battery": "4000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+5.3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%205.3%20phone"
   },
   {
     "id": 270,
@@ -3237,7 +3237,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "4000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+8"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%208%20phone"
   },
   {
     "id": 271,
@@ -3249,7 +3249,7 @@
     "camera": "13MP + 5MP + 2MP",
     "battery": "5000",
     "price": 130.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M11%20phone"
   },
   {
     "id": 272,
@@ -3261,7 +3261,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A54"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A54%20phone"
   },
   {
     "id": 273,
@@ -3273,7 +3273,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20s%20phone"
   },
   {
     "id": 274,
@@ -3285,7 +3285,7 @@
     "camera": "13MP + 2MP",
     "battery": "5000",
     "price": 99.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C11%20phone"
   },
   {
     "id": 275,
@@ -3297,7 +3297,7 @@
     "camera": "8MP + 2MP",
     "battery": "4500",
     "price": 129.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+2.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%202.4%20phone"
   },
   {
     "id": 276,
@@ -3309,7 +3309,7 @@
     "camera": "13MP + 8MP + 5MP + 2MP",
     "battery": "5020",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20phone"
   },
   {
     "id": 277,
@@ -3321,7 +3321,7 @@
     "camera": "13MP + 5MP + 2MP",
     "battery": "4000",
     "price": 129.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A11%20phone"
   },
   {
     "id": 278,
@@ -3333,7 +3333,7 @@
     "camera": "13MP + 2MP",
     "battery": "4230",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A12%20phone"
   },
   {
     "id": 279,
@@ -3345,7 +3345,7 @@
     "camera": "13MP + 2MP + 2MP",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y20G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y20G%20phone"
   },
   {
     "id": 280,
@@ -3357,7 +3357,7 @@
     "camera": "13MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+C15"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20C15%20phone"
   },
   {
     "id": 281,
@@ -3369,7 +3369,7 @@
     "camera": "13MP + 5MP",
     "battery": "3500",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+3.1+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%203.1%20Plus%20phone"
   },
   {
     "id": 282,
@@ -3381,7 +3381,7 @@
     "camera": "48MP + 5MP",
     "battery": "4000",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+7"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%207%20phone"
   },
   {
     "id": 283,
@@ -3393,7 +3393,7 @@
     "camera": "48MP + 5MP + 2MP + 2MP",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A12%20phone"
   },
   {
     "id": 284,
@@ -3405,7 +3405,7 @@
     "camera": "12MP + 2MP + 2MP",
     "battery": "4230",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A31"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A31%20phone"
   },
   {
     "id": 285,
@@ -3417,7 +3417,7 @@
     "camera": "13MP + 8MP + 2MP",
     "battery": "5000",
     "price": 189.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Vivo+Y15"
+    "imageUrl": "https://source.unsplash.com/400x600/?Vivo%20Y15%20phone"
   },
   {
     "id": 286,
@@ -3429,7 +3429,7 @@
     "camera": "12MP + 2MP + 2MP",
     "battery": "5000",
     "price": 129.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+Narzo+10A"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%20Narzo%2010A%20phone"
   },
   {
     "id": 287,
@@ -3441,7 +3441,7 @@
     "camera": "48MP + 8MP + 2MP + 2MP",
     "battery": "6000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9T"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209T%20phone"
   },
   {
     "id": 288,
@@ -3453,7 +3453,7 @@
     "camera": "25MP + 8MP + 5MP",
     "battery": "4000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A30s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A30s%20phone"
   },
   {
     "id": 289,
@@ -3465,7 +3465,7 @@
     "camera": "108+12+12",
     "battery": "4500",
     "price": 1299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Note+20+Ultra"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Note%2020%20Ultra%20phone"
   },
   {
     "id": 290,
@@ -3477,7 +3477,7 @@
     "camera": "12",
     "battery": "1821",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+SE+(2020)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20SE%20%282020%29%20phone"
   },
   {
     "id": 291,
@@ -3489,7 +3489,7 @@
     "camera": "48+8+2+2",
     "battery": "5160",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 292,
@@ -3501,7 +3501,7 @@
     "camera": "12.2+16",
     "battery": "4080",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+5"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%205%20phone"
   },
   {
     "id": 293,
@@ -3513,7 +3513,7 @@
     "camera": "50+20+12+3D",
     "battery": "4400",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Mate+40+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Mate%2040%20Pro%20phone"
   },
   {
     "id": 294,
@@ -3525,7 +3525,7 @@
     "camera": "64+8+2+2",
     "battery": "4300",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord+N10+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%20N10%205G%20phone"
   },
   {
     "id": 295,
@@ -3537,7 +3537,7 @@
     "camera": "64+8+2+2",
     "battery": "4350",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno+5+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno%205%20Pro%205G%20phone"
   },
   {
     "id": 296,
@@ -3549,7 +3549,7 @@
     "camera": "64+12+5+5",
     "battery": "4500",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A71"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A71%20phone"
   },
   {
     "id": 297,
@@ -3561,7 +3561,7 @@
     "camera": "64+12+2+2",
     "battery": "4500",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+8.3+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%208.3%205G%20phone"
   },
   {
     "id": 298,
@@ -3573,7 +3573,7 @@
     "camera": "12+12+12",
     "battery": "3969",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20Pro%20Max%20phone"
   },
   {
     "id": 299,
@@ -3585,7 +3585,7 @@
     "camera": "108+13+5",
     "battery": "4600",
     "price": 749.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20phone"
   },
   {
     "id": 300,
@@ -3597,7 +3597,7 @@
     "camera": "48+2+2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Power+(2021)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Power%20%282021%29%20phone"
   },
   {
     "id": 301,
@@ -3609,7 +3609,7 @@
     "camera": "12.2+16",
     "battery": "3885",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+4a+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%204a%205G%20phone"
   },
   {
     "id": 302,
@@ -3621,7 +3621,7 @@
     "camera": "64+8+2+2",
     "battery": "4000",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Nova+8+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Nova%208%20Pro%205G%20phone"
   },
   {
     "id": 303,
@@ -3633,7 +3633,7 @@
     "camera": "64+12+5+5",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52%20phone"
   },
   {
     "id": 304,
@@ -3645,7 +3645,7 @@
     "camera": "48+16+5+2",
     "battery": "4500",
     "price": 749.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+8T"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%208T%20phone"
   },
   {
     "id": 305,
@@ -3657,7 +3657,7 @@
     "camera": "13+8+5+2",
     "battery": "5020",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209%20phone"
   },
   {
     "id": 306,
@@ -3669,7 +3669,7 @@
     "camera": "12+12+12",
     "battery": "2815",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+13"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2013%20phone"
   },
   {
     "id": 307,
@@ -3681,7 +3681,7 @@
     "camera": "13+2+2",
     "battery": "4230",
     "price": 159.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A15s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A15s%20phone"
   },
   {
     "id": 308,
@@ -3693,7 +3693,7 @@
     "camera": "48+5+2",
     "battery": "4850",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+G50+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%20G50%205G%20phone"
   },
   {
     "id": 309,
@@ -3705,7 +3705,7 @@
     "camera": "12+7",
     "battery": "2942",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XR"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XR%20phone"
   },
   {
     "id": 310,
@@ -3717,7 +3717,7 @@
     "camera": "108+10+10+12",
     "battery": "5000",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21+Ultra+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20Ultra%205G%20phone"
   },
   {
     "id": 311,
@@ -3729,7 +3729,7 @@
     "camera": "108+8+5+2",
     "battery": "5020",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20phone"
   },
   {
     "id": 312,
@@ -3741,7 +3741,7 @@
     "camera": "50+16+13+2",
     "battery": "4500",
     "price": 899.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Find+X3+Neo+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Find%20X3%20Neo%205G%20phone"
   },
   {
     "id": 313,
@@ -3753,7 +3753,7 @@
     "camera": "50+12+40+3D",
     "battery": "4200",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+P40+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20P40%20Pro%20phone"
   },
   {
     "id": 314,
@@ -3765,7 +3765,7 @@
     "camera": "48+50+8+2",
     "battery": "4500",
     "price": 969.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+9+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%209%20Pro%20phone"
   },
   {
     "id": 315,
@@ -3777,7 +3777,7 @@
     "camera": "48+8+2",
     "battery": "4000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Stylus+(2021)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Stylus%20%282021%29%20phone"
   },
   {
     "id": 316,
@@ -3789,7 +3789,7 @@
     "camera": "12.2+16",
     "battery": "2800",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%204%20phone"
   },
   {
     "id": 317,
@@ -3801,7 +3801,7 @@
     "camera": "48+5+2+2",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A12%20phone"
   },
   {
     "id": 318,
@@ -3813,7 +3813,7 @@
     "camera": "48+5+2+2",
     "battery": "4000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+5.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%205.4%20phone"
   },
   {
     "id": 319,
@@ -3825,7 +3825,7 @@
     "camera": "12+12",
     "battery": "2815",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20phone"
   },
   {
     "id": 320,
@@ -3837,7 +3837,7 @@
     "camera": "50+8+2+2",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+10"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%2010%20phone"
   },
   {
     "id": 321,
@@ -3849,7 +3849,7 @@
     "camera": "48+8+2+2",
     "battery": "4310",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A94+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A94%205G%20phone"
   },
   {
     "id": 322,
@@ -3861,7 +3861,7 @@
     "camera": "50+8+16+2",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Nova+9+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Nova%209%20Pro%205G%20phone"
   },
   {
     "id": 323,
@@ -3873,7 +3873,7 @@
     "camera": "48+12+5",
     "battery": "4500",
     "price": 649.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S10+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S10%20Lite%20phone"
   },
   {
     "id": 324,
@@ -3885,7 +3885,7 @@
     "camera": "48+48+8+5",
     "battery": "4510",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+8+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%208%20Pro%20phone"
   },
   {
     "id": 325,
@@ -3897,7 +3897,7 @@
     "camera": "48+8+5",
     "battery": "3500",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+7.2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%207.2%20phone"
   },
   {
     "id": 326,
@@ -3909,7 +3909,7 @@
     "camera": "108+13+5",
     "battery": "5000",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+10T+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2010T%20Pro%20phone"
   },
   {
     "id": 327,
@@ -3921,7 +3921,7 @@
     "camera": "12+12+12",
     "battery": "3110",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20phone"
   },
   {
     "id": 328,
@@ -3933,7 +3933,7 @@
     "camera": "64+8+2+2",
     "battery": "4310",
     "price": 419.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+F19+Pro++5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20F19%20Pro%2B%205G%20phone"
   },
   {
     "id": 329,
@@ -3945,7 +3945,7 @@
     "camera": "48+2+2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Power+(2021)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Power%20%282021%29%20phone"
   },
   {
     "id": 330,
@@ -3957,7 +3957,7 @@
     "camera": "64+12+5+5",
     "battery": "4500",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A71"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A71%20phone"
   },
   {
     "id": 331,
@@ -3969,7 +3969,7 @@
     "camera": "40+40+8+3D",
     "battery": "4500",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Mate+30+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Mate%2030%20Pro%205G%20phone"
   },
   {
     "id": 332,
@@ -3981,7 +3981,7 @@
     "camera": "48+8+2+2",
     "battery": "5160",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+X3+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20X3%20Pro%20phone"
   },
   {
     "id": 333,
@@ -3993,7 +3993,7 @@
     "camera": "12.2+16",
     "battery": "4080",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+5"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%205%20phone"
   },
   {
     "id": 334,
@@ -4005,7 +4005,7 @@
     "camera": "12",
     "battery": "1821",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+SE+(2020)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20SE%20%282020%29%20phone"
   },
   {
     "id": 335,
@@ -4017,7 +4017,7 @@
     "camera": "64+12+5+5",
     "battery": "7000",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+M51"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20M51%20phone"
   },
   {
     "id": 336,
@@ -4029,7 +4029,7 @@
     "camera": "48+12+13",
     "battery": "4000",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno4+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno4%20Pro%205G%20phone"
   },
   {
     "id": 337,
@@ -4041,7 +4041,7 @@
     "camera": "13+5+2",
     "battery": "4000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+3.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%203.4%20phone"
   },
   {
     "id": 338,
@@ -4053,7 +4053,7 @@
     "camera": "64+8+2+2",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G9+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G9%20Plus%20phone"
   },
   {
     "id": 339,
@@ -4065,7 +4065,7 @@
     "camera": "12+12",
     "battery": "3174",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XS+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XS%20Max%20phone"
   },
   {
     "id": 340,
@@ -4077,7 +4077,7 @@
     "camera": "48+8+5+2",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%205G%20phone"
   },
   {
     "id": 341,
@@ -4089,7 +4089,7 @@
     "camera": "48+8+5+2",
     "battery": "5020",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+9S"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%209S%20phone"
   },
   {
     "id": 342,
@@ -4101,7 +4101,7 @@
     "camera": "48+8+2+2",
     "battery": "5000",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A92"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A92%20phone"
   },
   {
     "id": 343,
@@ -4113,7 +4113,7 @@
     "camera": "40+20+8+ToF",
     "battery": "4200",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+P30+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20P30%20Pro%20phone"
   },
   {
     "id": 344,
@@ -4125,7 +4125,7 @@
     "camera": "12+12+8",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S20+FE+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S20%20FE%205G%20phone"
   },
   {
     "id": 345,
@@ -4137,7 +4137,7 @@
     "camera": "48+16+8",
     "battery": "4000",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+7+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%207%20Pro%20phone"
   },
   {
     "id": 346,
@@ -4149,7 +4149,7 @@
     "camera": "16+8+5",
     "battery": "3500",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+6.2"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%206.2%20phone"
   },
   {
     "id": 347,
@@ -4161,7 +4161,7 @@
     "camera": "64+8+2+2",
     "battery": "4820",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+10T+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2010T%20Lite%20phone"
   },
   {
     "id": 348,
@@ -4173,7 +4173,7 @@
     "camera": "12+12",
     "battery": "2691",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+8+Plus"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%208%20Plus%20phone"
   },
   {
     "id": 349,
@@ -4185,7 +4185,7 @@
     "camera": "13+2+2",
     "battery": "5000",
     "price": 249.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A53"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A53%20phone"
   },
   {
     "id": 350,
@@ -4197,7 +4197,7 @@
     "camera": "16+8+8+2",
     "battery": "5000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G8+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G8%20Power%20phone"
   },
   {
     "id": 351,
@@ -4209,7 +4209,7 @@
     "camera": "48+8+2+2",
     "battery": "4200",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Nova+7i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Nova%207i%20phone"
   },
   {
     "id": 352,
@@ -4221,7 +4221,7 @@
     "camera": "12+64+12",
     "battery": "4800",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21++5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%2B%205G%20phone"
   },
   {
     "id": 353,
@@ -4233,7 +4233,7 @@
     "camera": "64+8+5",
     "battery": "4250",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+11+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2011%20Lite%20phone"
   },
   {
     "id": 354,
@@ -4245,7 +4245,7 @@
     "camera": "64+12+2+2",
     "battery": "4500",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+8.3+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%208.3%205G%20phone"
   },
   {
     "id": 355,
@@ -4257,7 +4257,7 @@
     "camera": "48+8+5+2",
     "battery": "4115",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%20phone"
   },
   {
     "id": 356,
@@ -4269,7 +4269,7 @@
     "camera": "12",
     "battery": "2942",
     "price": 499.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XR"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XR%20phone"
   },
   {
     "id": 357,
@@ -4281,7 +4281,7 @@
     "camera": "48+5+2+2",
     "battery": "5000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A12"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A12%20phone"
   },
   {
     "id": 358,
@@ -4293,7 +4293,7 @@
     "camera": "48+8+2+2",
     "battery": "4310",
     "price": 399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A94+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A94%205G%20phone"
   },
   {
     "id": 359,
@@ -4305,7 +4305,7 @@
     "camera": "48+8+2+2",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9T"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209T%20phone"
   },
   {
     "id": 360,
@@ -4317,7 +4317,7 @@
     "camera": "48+8+2+2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G10"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G10%20phone"
   },
   {
     "id": 361,
@@ -4329,7 +4329,7 @@
     "camera": "64+12+5+5",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52%205G%20phone"
   },
   {
     "id": 362,
@@ -4341,7 +4341,7 @@
     "camera": "50+40+12+3D",
     "battery": "4200",
     "price": 1399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+P40+Pro+"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20P40%20Pro%2B%20phone"
   },
   {
     "id": 363,
@@ -4353,7 +4353,7 @@
     "camera": "12+12+12",
     "battery": "3969",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20Pro%20Max%20phone"
   },
   {
     "id": 364,
@@ -4365,7 +4365,7 @@
     "camera": "12+64+12",
     "battery": "4300",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Note20+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Note20%205G%20phone"
   },
   {
     "id": 365,
@@ -4377,7 +4377,7 @@
     "camera": "48+2+2",
     "battery": "6000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20phone"
   },
   {
     "id": 366,
@@ -4389,7 +4389,7 @@
     "camera": "48+5+2+2",
     "battery": "4000",
     "price": 179.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+5.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%205.4%20phone"
   },
   {
     "id": 367,
@@ -4401,7 +4401,7 @@
     "camera": "50+16+13+2",
     "battery": "4500",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Find+X3+Neo+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Find%20X3%20Neo%205G%20phone"
   },
   {
     "id": 368,
@@ -4413,7 +4413,7 @@
     "camera": "108+48+12+3D",
     "battery": "5000",
     "price": 1399.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S20+Ultra+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S20%20Ultra%205G%20phone"
   },
   {
     "id": 369,
@@ -4425,7 +4425,7 @@
     "camera": "48+8+5+2",
     "battery": "5020",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+9S"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%209S%20phone"
   },
   {
     "id": 370,
@@ -4437,7 +4437,7 @@
     "camera": "12+12",
     "battery": "2227",
     "price": 899.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12+mini"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20mini%20phone"
   },
   {
     "id": 371,
@@ -4449,7 +4449,7 @@
     "camera": "48+8+2+2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A21s"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A21s%20phone"
   },
   {
     "id": 372,
@@ -4461,7 +4461,7 @@
     "camera": "48+50+2",
     "battery": "4500",
     "price": 729.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+9"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%209%20phone"
   },
   {
     "id": 373,
@@ -4473,7 +4473,7 @@
     "camera": "64+2+2",
     "battery": "6000",
     "price": 229.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G9+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G9%20Power%20phone"
   },
   {
     "id": 374,
@@ -4485,7 +4485,7 @@
     "camera": "12+12+12",
     "battery": "4500",
     "price": 1999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Z+Fold2+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Z%20Fold2%205G%20phone"
   },
   {
     "id": 375,
@@ -4497,7 +4497,7 @@
     "camera": "108+13+5",
     "battery": "5000",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+10T+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2010T%20Pro%205G%20phone"
   },
   {
     "id": 376,
@@ -4509,7 +4509,7 @@
     "camera": "48+13+12+2",
     "battery": "4000",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno4+Pro+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno4%20Pro%205G%20phone"
   },
   {
     "id": 377,
@@ -4521,7 +4521,7 @@
     "camera": "50+12+40+3D",
     "battery": "4200",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+P40+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20P40%20Pro%20phone"
   },
   {
     "id": 378,
@@ -4533,7 +4533,7 @@
     "camera": "12+12+8",
     "battery": "4500",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S20+FE+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S20%20FE%205G%20phone"
   },
   {
     "id": 379,
@@ -4545,7 +4545,7 @@
     "camera": "13+2",
     "battery": "4500",
     "price": 139.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Nokia+2.4"
+    "imageUrl": "https://source.unsplash.com/400x600/?Nokia%202.4%20phone"
   },
   {
     "id": 380,
@@ -4557,7 +4557,7 @@
     "camera": "12",
     "battery": "1821",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+SE+(2020)"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20SE%20%282020%29%20phone"
   },
   {
     "id": 381,
@@ -4569,7 +4569,7 @@
     "camera": "13+2+2",
     "battery": "5000",
     "price": 119.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9C"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209C%20phone"
   },
   {
     "id": 382,
@@ -4581,7 +4581,7 @@
     "camera": "48+8+5+2",
     "battery": "5000",
     "price": 279.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A32+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A32%205G%20phone"
   },
   {
     "id": 383,
@@ -4593,7 +4593,7 @@
     "camera": "64+8+2+2",
     "battery": "4300",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+Nord+N10+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%20Nord%20N10%205G%20phone"
   },
   {
     "id": 384,
@@ -4605,7 +4605,7 @@
     "camera": "48+8+2",
     "battery": "4000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Y7p"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Y7p%20phone"
   },
   {
     "id": 385,
@@ -4617,7 +4617,7 @@
     "camera": "12+12+12",
     "battery": "2815",
     "price": 999.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20Pro%20phone"
   },
   {
     "id": 386,
@@ -4629,7 +4629,7 @@
     "camera": "48+8+5+5",
     "battery": "5000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A42+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A42%205G%20phone"
   },
   {
     "id": 387,
@@ -4641,7 +4641,7 @@
     "camera": "108+8+5+2",
     "battery": "5020",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+Note+10+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%20Note%2010%20Pro%20phone"
   },
   {
     "id": 388,
@@ -4653,7 +4653,7 @@
     "camera": "64+12+12",
     "battery": "4000",
     "price": 799.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S21"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S21%20phone"
   },
   {
     "id": 389,
@@ -4665,7 +4665,7 @@
     "camera": "12+12",
     "battery": "3110",
     "price": 749.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+11"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2011%20phone"
   },
   {
     "id": 390,
@@ -4677,7 +4677,7 @@
     "camera": "48+8+2+2",
     "battery": "6000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Redmi+9T"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Redmi%209T%20phone"
   },
   {
     "id": 391,
@@ -4689,7 +4689,7 @@
     "camera": "12.2+16",
     "battery": "4080",
     "price": 699.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Google+Pixel+5"
+    "imageUrl": "https://source.unsplash.com/400x600/?Google%20Pixel%205%20phone"
   },
   {
     "id": 392,
@@ -4701,7 +4701,7 @@
     "camera": "48+8+2+2",
     "battery": "4200",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+Nova+7i"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20Nova%207i%20phone"
   },
   {
     "id": 393,
@@ -4713,7 +4713,7 @@
     "camera": "108+48+12+0.3",
     "battery": "5000",
     "price": 1199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S20+Ultra+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S20%20Ultra%205G%20phone"
   },
   {
     "id": 394,
@@ -4725,7 +4725,7 @@
     "camera": "48+16+5+2",
     "battery": "4500",
     "price": 749.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=OnePlus+8T"
+    "imageUrl": "https://source.unsplash.com/400x600/?OnePlus%208T%20phone"
   },
   {
     "id": 395,
@@ -4737,7 +4737,7 @@
     "camera": "16+8+8+2",
     "battery": "5000",
     "price": 199.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G8+Power"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G8%20Power%20phone"
   },
   {
     "id": 396,
@@ -4749,7 +4749,7 @@
     "camera": "64+8+2+2",
     "battery": "5000",
     "price": 299.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Realme+7"
+    "imageUrl": "https://source.unsplash.com/400x600/?Realme%207%20phone"
   },
   {
     "id": 397,
@@ -4761,7 +4761,7 @@
     "camera": "12+12",
     "battery": "2942",
     "price": 599.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+XR"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%20XR%20phone"
   },
   {
     "id": 398,
@@ -4773,7 +4773,7 @@
     "camera": "48+2+2",
     "battery": "6000",
     "price": 149.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Poco+M3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Poco%20M3%20phone"
   },
   {
     "id": 399,
@@ -4785,7 +4785,7 @@
     "camera": "64+12+5+5",
     "battery": "4500",
     "price": 449.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+A52+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20A52%205G%20phone"
   },
   {
     "id": 400,
@@ -4797,7 +4797,7 @@
     "camera": "48+8+2+2",
     "battery": "4000",
     "price": 319.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+A93"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20A93%20phone"
   },
   {
     "id": 401,
@@ -4809,7 +4809,7 @@
     "camera": "48+16+2",
     "battery": "4000",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Motorola+Moto+G+Pro"
+    "imageUrl": "https://source.unsplash.com/400x600/?Motorola%20Moto%20G%20Pro%20phone"
   },
   {
     "id": 402,
@@ -4821,7 +4821,7 @@
     "camera": "48+8+2",
     "battery": "3340",
     "price": 329.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Huawei+P30+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Huawei%20P30%20Lite%20phone"
   },
   {
     "id": 403,
@@ -4833,7 +4833,7 @@
     "camera": "12+64+12",
     "battery": "4300",
     "price": 1049.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+Note20+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20Note20%205G%20phone"
   },
   {
     "id": 404,
@@ -4845,7 +4845,7 @@
     "camera": "48+8+2+2",
     "battery": "4160",
     "price": 349.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Xiaomi+Mi+10+Lite+5G"
+    "imageUrl": "https://source.unsplash.com/400x600/?Xiaomi%20Mi%2010%20Lite%205G%20phone"
   },
   {
     "id": 405,
@@ -4857,7 +4857,7 @@
     "camera": "12+12+12",
     "battery": "3687",
     "price": 1099.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Apple+iPhone+12+Pro+Max"
+    "imageUrl": "https://source.unsplash.com/400x600/?Apple%20iPhone%2012%20Pro%20Max%20phone"
   },
   {
     "id": 406,
@@ -4869,7 +4869,7 @@
     "camera": "48+13+8+2",
     "battery": "4025",
     "price": 429.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Oppo+Reno3"
+    "imageUrl": "https://source.unsplash.com/400x600/?Oppo%20Reno3%20phone"
   },
   {
     "id": 407,
@@ -4881,6 +4881,6 @@
     "camera": "48+12+5",
     "battery": "4500",
     "price": 649.0,
-    "imageUrl": "https://via.placeholder.com/300x400/cccccc/666666?text=Samsung+Galaxy+S10+Lite"
+    "imageUrl": "https://source.unsplash.com/400x600/?Samsung%20Galaxy%20S10%20Lite%20phone"
   }
 ]
