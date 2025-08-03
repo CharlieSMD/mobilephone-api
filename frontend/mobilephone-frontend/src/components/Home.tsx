@@ -174,42 +174,56 @@ const Home: React.FC = () => {
                 <Box
                   sx={{
                     height: 200,
-                    backgroundImage: imageErrors.has(phone.id) 
-                      ? 'url(https://via.placeholder.com/400x600/cccccc/666666?text=Phone)' 
-                      : `url(${phone.imageUrl})`,
+                    backgroundImage: `url(${phone.imageUrl})`,
                     backgroundSize: 'cover',
                     backgroundPosition: 'center',
                     backgroundRepeat: 'no-repeat',
-                    backgroundColor: '#f5f5f5',
+                    backgroundColor: '#4A90E2',
                     display: 'flex',
                     alignItems: 'center',
-                    justifyContent: 'center'
+                    justifyContent: 'center',
+                    position: 'relative',
+                    '&::before': {
+                      content: '""',
+                      position: 'absolute',
+                      top: 0,
+                      left: 0,
+                      right: 0,
+                      bottom: 0,
+                      background: 'linear-gradient(45deg, rgba(74,144,226,0.8) 0%, rgba(74,144,226,0.6) 100%)',
+                      zIndex: 1
+                    }
                   }}
                   onError={() => handleImageError(phone.id)}
                 >
-                  {imageErrors.has(phone.id) && (
-                    <Typography variant="body2" color="text.secondary" align="center">
-                      {phone.brand} {phone.model}
+                  <Box sx={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
+                    <Typography variant="h6" color="white" fontWeight="bold">
+                      {phone.brand}
                     </Typography>
-                  )}
+                    <Typography variant="body2" color="white">
+                      {phone.model}
+                    </Typography>
+                  </Box>
                 </Box>
                 <CardContent sx={{ flexGrow: 1 }}>
-                  <Typography variant="h6" component="h2" gutterBottom>
+                  <Typography variant="h6" component="h2" gutterBottom color="primary">
                     {phone.brand}
                   </Typography>
-                  <Typography variant="body1" color="text.secondary" gutterBottom>
+                  <Typography variant="body1" color="text.secondary" gutterBottom fontWeight="medium">
                     {phone.model}
                   </Typography>
-                  <Typography variant="body2" color="text.secondary" gutterBottom>
-                    {phone.storage} • {phone.ram} • {phone.screenSize}"
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary" gutterBottom>
-                    Camera: {phone.camera}
-                  </Typography>
-                  <Typography variant="body2" color="text.secondary" gutterBottom>
-                    Battery: {phone.battery}mAh
-                  </Typography>
-                  <Typography variant="h5" component="p" color="primary" sx={{ mt: 2 }}>
+                  <Box sx={{ mb: 2 }}>
+                    <Typography variant="body2" color="text.secondary" gutterBottom>
+                      📱 {phone.storage} • {phone.ram} • {phone.screenSize}"
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary" gutterBottom>
+                      📷 {phone.camera}
+                    </Typography>
+                    <Typography variant="body2" color="text.secondary" gutterBottom>
+                      🔋 {phone.battery}mAh
+                    </Typography>
+                  </Box>
+                  <Typography variant="h5" component="p" color="primary" sx={{ mt: 2, fontWeight: 'bold' }}>
                     ${phone.price}
                   </Typography>
                 </CardContent>

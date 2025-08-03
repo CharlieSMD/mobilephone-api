@@ -93,9 +93,9 @@ public class PhoneService : IPhoneService
 
     private string GeneratePhoneImageUrl(string brand, string model)
     {
-        // Use Unsplash API for realistic phone images
-        var searchTerm = $"{brand} {model} phone";
-        var encodedSearch = Uri.EscapeDataString(searchTerm);
-        return $"https://source.unsplash.com/400x600/?{encodedSearch}";
+        // Use simple placeholder with brand and model text
+        var text = $"{brand} {model}";
+        var encodedText = Uri.EscapeDataString(text);
+        return $"https://via.placeholder.com/400x600/4A90E2/FFFFFF?text={encodedText}";
     }
 } 
