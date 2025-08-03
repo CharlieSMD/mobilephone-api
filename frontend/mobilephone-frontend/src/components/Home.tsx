@@ -11,9 +11,11 @@ import {
   Avatar,
   Menu,
   MenuItem,
-  Chip
+  Chip,
+  TextField,
+  InputAdornment
 } from '@mui/material';
-import { AccountCircle, Logout, Phone } from '@mui/icons-material';
+import { AccountCircle, Logout, Phone, Search } from '@mui/icons-material';
 import { useAuth } from '../contexts/AuthContext';
 import axios from 'axios';
 
@@ -21,13 +23,21 @@ interface Phone {
   id: number;
   brand: string;
   model: string;
+  storage: string;
+  ram: string;
+  screenSize: string;
+  camera: string;
+  battery: string;
   price: number;
+  imageUrl: string;
 }
 
 const Home: React.FC = () => {
   const { user, logout } = useAuth();
   const [phones, setPhones] = useState<Phone[]>([]);
+  const [filteredPhones, setFilteredPhones] = useState<Phone[]>([]);
   const [loading, setLoading] = useState(true);
+  const [searchTerm, setSearchTerm] = useState('');
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
 
   useEffect(() => {
@@ -36,12 +46,29 @@ const Home: React.FC = () => {
 
   const fetchPhones = async () => {
     try {
-      const response = await axios.get('http://localhost:5198/api/phones');
+      const response = await axios.get('http://localhost:5198/api/phone');
       setPhones(response.data);
+      setFilteredPhones(response.data);
     } catch (error) {
       console.error('Failed to fetch phones:', error);
     } finally {
       setLoading(false);
+    }
+  };
+
+  const handleSearch = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const term = event.target.value;
+    setSearchTerm(term);
+    
+    if (!term.trim()) {
+      setFilteredPhones(phones);
+    } else {
+      const filtered = phones.filter(phone =>
+        phone.brand.toLowerCase().includes(term.toLowerCase()) ||
+        phone.model.toLowerCase().includes(term.toLowerCase()) ||
+        phone.storage.toLowerCase().includes(term.toLowerCase())
+      );
+      setFilteredPhones(filtered);
     }
   };
 
@@ -115,20 +142,56 @@ const Home: React.FC = () => {
           Available Phones
         </Typography>
         
+        {/* Search Bar */}
+        <Box sx={{ mb: 3 }}>
+          <TextField
+            fullWidth
+            variant="outlined"
+            placeholder="Search phones by brand, model, or storage..."
+            value={searchTerm}
+            onChange={handleSearch}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                  <Search />
+                </InputAdornment>
+              ),
+            }}
+          />
+        </Box>
+        
         {loading ? (
           <Typography>Loading phones...</Typography>
         ) : (
-          <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', sm: 'repeat(2, 1fr)', md: 'repeat(3, 1fr)' }, gap: 3 }}>
-            {phones.map((phone) => (
-              <Card key={phone.id}>
-                <CardContent>
+          <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', sm: 'repeat(2, 1fr)', md: 'repeat(3, 1fr)', lg: 'repeat(4, 1fr)' }, gap: 3 }}>
+            {filteredPhones.map((phone) => (
+              <Card key={phone.id} sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+                <Box
+                  sx={{
+                    height: 200,
+                    backgroundImage: `url(${phone.imageUrl})`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    backgroundRepeat: 'no-repeat'
+                  }}
+                />
+                <CardContent sx={{ flexGrow: 1 }}>
                   <Typography variant="h6" component="h2" gutterBottom>
                     {phone.brand}
                   </Typography>
                   <Typography variant="body1" color="text.secondary" gutterBottom>
                     {phone.model}
                   </Typography>
-                  <Typography variant="h5" component="p" color="primary">
+                  <Typography variant="body2" color="text.secondary" gutterBottom>
+                    {phone.storage} • {phone.ram} • {phone.screenSize}"
+                  </Typography>
+                  <Typography variant="body2" color="text.secondary" gutterBottom>
+                    Camera: {phone.camera}
+                  </Typography>
+                  <Typography variant="body2" color="text.secondary" gutterBottom>
+                    Battery: {phone.battery}mAh
+                  </Typography>
+                  <Typography variant="h5" component="p" color="primary" sx={{ mt: 2 }}>
                     ${phone.price}
                   </Typography>
                 </CardContent>

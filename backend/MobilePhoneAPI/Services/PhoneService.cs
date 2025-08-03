@@ -18,7 +18,7 @@ public class PhoneService : IPhoneService
 
     public PhoneService(IWebHostEnvironment environment)
     {
-        // 获取JSON文件路径
+        // Get JSON file path
         _dataFilePath = Path.Combine(environment.ContentRootPath, "..", "..", "phones_data.json");
     }
 
@@ -44,7 +44,7 @@ public class PhoneService : IPhoneService
         }
         catch (Exception ex)
         {
-            // 如果读取失败，返回空列表
+            // Return empty list if reading fails
             return new List<Phone>();
         }
     }
