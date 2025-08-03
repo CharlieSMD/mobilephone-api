@@ -43,3 +43,19 @@ Frontend interface code using React 18, TypeScript, and Material UI v7
 Built mobile phone catalogue with search and product cards
 4. README.md
 Wrote project overview, tech stack, and Week 2 tasks
+-------------------------------
+Week 3
+User Authentication System:
+• Implemented user registration and login functionality
+• Added JWT token authentication with 7-day expiration
+• Created secure password encryption using BCrypt
+• Configured CORS for frontend-backend communication
+Backend Development:
+backend/MobilePhoneAPI/
+Added dependencies, created user models, implemented authentication service, and configured API endpoints
+Frontend Development:
+frontend/mobilephone-frontend/
+Added HTTP client, built login/registration forms, implemented authentication state management, and created user dashboard
+Database Integration:
+backend/MobilePhoneAPI/Migrations/
+Generated database migrations for user table creation
