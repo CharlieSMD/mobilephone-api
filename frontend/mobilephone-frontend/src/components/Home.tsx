@@ -148,17 +148,28 @@ const Home: React.FC = () => {
         </Typography>
         
         {/* Search Bar */}
-        <Box sx={{ mb: 3 }}>
+        <Box sx={{ mb: 4 }}>
           <TextField
             fullWidth
             variant="outlined"
             placeholder="Search phones by brand, model, or storage..."
             value={searchTerm}
             onChange={handleSearch}
+            sx={{
+              '& .MuiOutlinedInput-root': {
+                borderRadius: 3,
+                '&:hover fieldset': {
+                  borderColor: '#667eea',
+                },
+                '&.Mui-focused fieldset': {
+                  borderColor: '#667eea',
+                },
+              },
+            }}
             InputProps={{
               startAdornment: (
                 <InputAdornment position="start">
-                  <Search />
+                  <Search sx={{ color: '#667eea' }} />
                 </InputAdornment>
               ),
             }}
@@ -170,62 +181,77 @@ const Home: React.FC = () => {
         ) : (
           <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', sm: 'repeat(2, 1fr)', md: 'repeat(3, 1fr)', lg: 'repeat(4, 1fr)' }, gap: 3 }}>
             {filteredPhones.map((phone) => (
-              <Card key={phone.id} sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+              <Card key={phone.id} sx={{ height: '100%', display: 'flex', flexDirection: 'column', transition: 'transform 0.2s', '&:hover': { transform: 'translateY(-4px)', boxShadow: 3 } }}>
                 <Box
                   sx={{
-                    height: 200,
-                    backgroundImage: `url(${phone.imageUrl})`,
-                    backgroundSize: 'cover',
-                    backgroundPosition: 'center',
-                    backgroundRepeat: 'no-repeat',
-                    backgroundColor: '#4A90E2',
+                    height: 120,
+                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     position: 'relative',
-                    '&::before': {
-                      content: '""',
-                      position: 'absolute',
-                      top: 0,
-                      left: 0,
-                      right: 0,
-                      bottom: 0,
-                      background: 'linear-gradient(45deg, rgba(74,144,226,0.8) 0%, rgba(74,144,226,0.6) 100%)',
-                      zIndex: 1
-                    }
+                    overflow: 'hidden'
                   }}
-                  onError={() => handleImageError(phone.id)}
                 >
-                  <Box sx={{ position: 'relative', zIndex: 2, textAlign: 'center' }}>
-                    <Typography variant="h6" color="white" fontWeight="bold">
+                  <Box sx={{ textAlign: 'center', color: 'white' }}>
+                    <Typography variant="h5" fontWeight="bold" sx={{ mb: 1 }}>
                       {phone.brand}
                     </Typography>
-                    <Typography variant="body2" color="white">
+                    <Typography variant="body1" sx={{ opacity: 0.9 }}>
                       {phone.model}
                     </Typography>
                   </Box>
+                  <Box
+                    sx={{
+                      position: 'absolute',
+                      top: -50,
+                      right: -50,
+                      width: 100,
+                      height: 100,
+                      borderRadius: '50%',
+                      background: 'rgba(255,255,255,0.1)',
+                      zIndex: 1
+                    }}
+                  />
                 </Box>
-                <CardContent sx={{ flexGrow: 1 }}>
-                  <Typography variant="h6" component="h2" gutterBottom color="primary">
-                    {phone.brand}
-                  </Typography>
-                  <Typography variant="body1" color="text.secondary" gutterBottom fontWeight="medium">
-                    {phone.model}
-                  </Typography>
-                  <Box sx={{ mb: 2 }}>
-                    <Typography variant="body2" color="text.secondary" gutterBottom>
-                      📱 {phone.storage} • {phone.ram} • {phone.screenSize}"
+                <CardContent sx={{ flexGrow: 1, p: 3 }}>
+                  <Box sx={{ mb: 3 }}>
+                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
+                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>📱</Box>
+                      {phone.storage} • {phone.ram} • {phone.screenSize}"
                     </Typography>
-                    <Typography variant="body2" color="text.secondary" gutterBottom>
-                      📷 {phone.camera}
+                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
+                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>📷</Box>
+                      {phone.camera}
                     </Typography>
-                    <Typography variant="body2" color="text.secondary" gutterBottom>
-                      🔋 {phone.battery}mAh
+                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center' }}>
+                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>🔋</Box>
+                      {phone.battery}mAh
                     </Typography>
                   </Box>
-                  <Typography variant="h5" component="p" color="primary" sx={{ mt: 2, fontWeight: 'bold' }}>
-                    ${phone.price}
-                  </Typography>
+                  <Box sx={{ 
+                    mt: 'auto', 
+                    pt: 2, 
+                    borderTop: '1px solid #e0e0e0',
+                    display: 'flex',
+                    justifyContent: 'space-between',
+                    alignItems: 'center'
+                  }}>
+                    <Typography variant="h5" component="p" color="primary" sx={{ fontWeight: 'bold', color: '#667eea' }}>
+                      ${phone.price}
+                    </Typography>
+                    <Box sx={{ 
+                      px: 2, 
+                      py: 1, 
+                      borderRadius: 2, 
+                      bgcolor: '#667eea', 
+                      color: 'white',
+                      fontSize: '0.875rem',
+                      fontWeight: 'medium'
+                    }}>
+                      View Details
+                    </Box>
+                  </Box>
                 </CardContent>
               </Card>
             ))}
