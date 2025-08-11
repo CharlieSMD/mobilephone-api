@@ -17,6 +17,7 @@ import {
 } from '@mui/material';
 import { AccountCircle, Logout, Phone, Search } from '@mui/icons-material';
 import { useAuth } from '../contexts/AuthContext';
+import PhoneDetails from './PhoneDetails';
 import axios from 'axios';
 
 interface Phone {
@@ -28,7 +29,6 @@ interface Phone {
   screenSize: string;
   camera: string;
   battery: string;
-  price: number;
   imageUrl: string;
 }
 
@@ -40,6 +40,8 @@ const Home: React.FC = () => {
   const [searchTerm, setSearchTerm] = useState('');
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
   const [imageErrors, setImageErrors] = useState<Set<number>>(new Set());
+  const [selectedPhone, setSelectedPhone] = useState<Phone | null>(null);
+  const [isDetailsModalOpen, setIsDetailsModalOpen] = useState(false);
 
   useEffect(() => {
     fetchPhones();
@@ -88,6 +90,16 @@ const Home: React.FC = () => {
   const handleLogout = () => {
     logout();
     handleMenuClose();
+  };
+
+  const handlePhoneDetailsOpen = (phone: Phone) => {
+    setSelectedPhone(phone);
+    setIsDetailsModalOpen(true);
+  };
+
+  const handlePhoneDetailsClose = () => {
+    setIsDetailsModalOpen(false);
+    setSelectedPhone(null);
   };
 
   const getUserInitials = () => {
@@ -234,12 +246,9 @@ const Home: React.FC = () => {
                     pt: 2, 
                     borderTop: '1px solid #e0e0e0',
                     display: 'flex',
-                    justifyContent: 'space-between',
+                    justifyContent: 'center',
                     alignItems: 'center'
                   }}>
-                    <Typography variant="h5" component="p" color="primary" sx={{ fontWeight: 'bold', color: '#667eea' }}>
-                      ${phone.price}
-                    </Typography>
                     <Box sx={{ 
                       px: 2, 
                       py: 1, 
@@ -247,8 +256,12 @@ const Home: React.FC = () => {
                       bgcolor: '#667eea', 
                       color: 'white',
                       fontSize: '0.875rem',
-                      fontWeight: 'medium'
-                    }}>
+                      fontWeight: 'medium',
+                      cursor: 'pointer',
+                      '&:hover': {
+                        bgcolor: '#5a6fd8'
+                      }
+                    }} onClick={() => handlePhoneDetailsOpen(phone)}>
                       View Details
                     </Box>
                   </Box>
@@ -258,6 +271,14 @@ const Home: React.FC = () => {
           </Box>
         )}
       </Container>
+
+      {selectedPhone && (
+        <PhoneDetails
+          phone={selectedPhone}
+          open={isDetailsModalOpen}
+          onClose={handlePhoneDetailsClose}
+        />
+      )}
     </Box>
   );
 };

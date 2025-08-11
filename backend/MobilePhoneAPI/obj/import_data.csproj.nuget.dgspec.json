@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {}
+    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/import_data.csproj": {}
   },
   "projects": {
-    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj": {
+    "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/import_data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
-        "projectName": "MobilePhoneAPI",
-        "projectPath": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/MobilePhoneAPI.csproj",
+        "projectUniqueName": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/import_data.csproj",
+        "projectName": "import_data",
+        "projectPath": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/import_data.csproj",
         "packagesPath": "/Users/shenmeidun/.nuget/packages/",
         "outputPath": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/",
         "projectStyle": "PackageReference",
@@ -45,37 +45,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "BCrypt.Net-Next": {
-              "target": "Package",
-              "version": "[4.0.3, )"
-            },
             "CsvHelper": {
               "target": "Package",
               "version": "[33.1.0, )"
             },
-            "Microsoft.AspNetCore.Authentication.JwtBearer": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Microsoft.AspNetCore.OpenApi": {
-              "target": "Package",
-              "version": "[9.0.7, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
+            "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[9.0.1, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[9.0.4, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[8.3.0, )"
             }
           },
           "imports": [
@@ -90,9 +70,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -10,6 +10,7 @@ public class ApplicationDbContext : DbContext
     }
 
     public DbSet<User> Users { get; set; }
+    public DbSet<Phone> Phones { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -27,6 +28,39 @@ public class ApplicationDbContext : DbContext
             
             entity.HasIndex(e => e.Username).IsUnique();
             entity.HasIndex(e => e.Email).IsUnique();
+        });
+
+        // Phone configuration
+        modelBuilder.Entity<Phone>(entity =>
+        {
+            entity.HasKey(e => e.Id);
+            entity.Property(e => e.Brand).IsRequired().HasMaxLength(50);
+            entity.Property(e => e.Model).IsRequired().HasMaxLength(100);
+            entity.Property(e => e.Storage).HasMaxLength(50);
+            entity.Property(e => e.Ram).HasMaxLength(20);
+            entity.Property(e => e.ScreenSize).HasMaxLength(20);
+            entity.Property(e => e.Camera).HasMaxLength(100);
+            entity.Property(e => e.Battery).HasMaxLength(20);
+            entity.Property(e => e.ImageUrl).HasMaxLength(255);
+            
+            // New fields configuration
+            entity.Property(e => e.Weight).HasColumnType("decimal(5,2)");
+            entity.Property(e => e.Dimensions).HasMaxLength(50);
+            entity.Property(e => e.Processor).HasMaxLength(100);
+            entity.Property(e => e.Os).HasMaxLength(50);
+            entity.Property(e => e.NetworkType).HasMaxLength(50);
+            entity.Property(e => e.ChargingPower).HasMaxLength(20);
+            entity.Property(e => e.WaterResistance).HasMaxLength(20);
+            entity.Property(e => e.Material).HasMaxLength(50);
+            entity.Property(e => e.Colors).HasMaxLength(200);
+            entity.Property(e => e.ImageFront).HasMaxLength(255);
+            entity.Property(e => e.ImageBack).HasMaxLength(255);
+            entity.Property(e => e.ImageSide).HasMaxLength(255);
+            
+            // Create indexes for better performance
+            entity.HasIndex(e => e.Brand);
+            entity.HasIndex(e => e.Model);
+            entity.HasIndex(e => e.ReleaseYear);
         });
     }
 } 
