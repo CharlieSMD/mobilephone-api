@@ -194,51 +194,74 @@ const Home: React.FC = () => {
           <Box sx={{ display: 'grid', gridTemplateColumns: { xs: '1fr', sm: 'repeat(2, 1fr)', md: 'repeat(3, 1fr)', lg: 'repeat(4, 1fr)' }, gap: 3 }}>
             {filteredPhones.map((phone) => (
               <Card key={phone.id} sx={{ height: '100%', display: 'flex', flexDirection: 'column', transition: 'transform 0.2s', '&:hover': { transform: 'translateY(-4px)', boxShadow: 3 } }}>
+                {/* Phone Image Section */}
                 <Box
                   sx={{
-                    height: 120,
-                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                    height: 180,
+                    background: 'white',
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
                     position: 'relative',
-                    overflow: 'hidden'
+                    overflow: 'hidden',
+                    borderBottom: '1px solid #f0f0f0'
                   }}
                 >
-                  <Box sx={{ textAlign: 'center', color: 'white' }}>
-                    <Typography variant="h5" fontWeight="bold" sx={{ mb: 1 }}>
-                      {phone.brand}
-                    </Typography>
-                    <Typography variant="body1" sx={{ opacity: 0.9 }}>
-                      {phone.model}
-                    </Typography>
-                  </Box>
+                  {phone.imageUrl ? (
+                    <img
+                      src={phone.imageUrl}
+                      alt={`${phone.brand} ${phone.model}`}
+                      style={{
+                        maxWidth: '90%',
+                        maxHeight: '90%',
+                        objectFit: 'contain',
+                        borderRadius: '8px'
+                      }}
+                      onError={(e) => {
+                        const target = e.target as HTMLImageElement;
+                        target.style.display = 'none';
+                        // Show placeholder when image fails to load
+                        const placeholder = target.nextElementSibling as HTMLElement;
+                        if (placeholder) {
+                          placeholder.style.display = 'flex';
+                        }
+                      }}
+                    />
+                  ) : null}
+                  
+                  {/* Placeholder when no image or image fails to load */}
                   <Box
                     sx={{
-                      position: 'absolute',
-                      top: -50,
-                      right: -50,
-                      width: 100,
-                      height: 100,
-                      borderRadius: '50%',
-                      background: 'rgba(255,255,255,0.1)',
-                      zIndex: 1
+                      display: phone.imageUrl ? 'none' : 'flex',
+                      flexDirection: 'column',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      color: '#666',
+                      textAlign: 'center',
+                      width: '100%',
+                      height: '100%',
+                      background: 'linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%)'
                     }}
-                  />
+                  >
+                    <Typography variant="h6" fontWeight="bold" sx={{ mb: 1, color: '#333' }}>
+                      {phone.brand}
+                    </Typography>
+                    <Typography variant="body1" sx={{ color: '#666', mb: 1 }}>
+                      {phone.model}
+                    </Typography>
+                    <Typography variant="body2" sx={{ color: '#999', fontSize: '0.875rem' }}>
+                      📱 No Image Available
+                    </Typography>
+                  </Box>
                 </Box>
                 <CardContent sx={{ flexGrow: 1, p: 3 }}>
-                  <Box sx={{ mb: 3 }}>
-                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
-                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>📱</Box>
-                      {phone.storage} • {phone.ram} • {phone.screenSize}"
+                  {/* Phone Brand and Model Header */}
+                  <Box sx={{ mb: 3, textAlign: 'center' }}>
+                    <Typography variant="h6" fontWeight="bold" sx={{ color: '#333', mb: 0.5 }}>
+                      {phone.brand}
                     </Typography>
-                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center', mb: 1 }}>
-                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>📷</Box>
-                      {phone.camera}
-                    </Typography>
-                    <Typography variant="body2" color="text.secondary" gutterBottom sx={{ display: 'flex', alignItems: 'center' }}>
-                      <Box component="span" sx={{ mr: 1, fontSize: '1.2em' }}>🔋</Box>
-                      {phone.battery}mAh
+                    <Typography variant="body1" sx={{ color: '#666', fontSize: '0.9rem' }}>
+                      {phone.model}
                     </Typography>
                   </Box>
                   <Box sx={{ 

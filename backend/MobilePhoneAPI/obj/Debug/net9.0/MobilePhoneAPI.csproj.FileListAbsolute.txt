@@ -1,5 +1,6 @@
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/appsettings.Development.json
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/appsettings.json
+/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/MobilePhoneAPI.staticwebassets.runtime.json
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/MobilePhoneAPI.staticwebassets.endpoints.json
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/MobilePhoneAPI
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/bin/Debug/net9.0/MobilePhoneAPI.deps.json
@@ -123,6 +124,7 @@
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/MobilePhoneAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/MobilePhoneAPI.MvcApplicationPartsAssemblyInfo.cache
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/scopedcss/bundle/MobilePhoneAPI.styles.css
+/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/compressed/qroopqgkt2-ivwjy2ocl3.gz
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/staticwebassets.build.json
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/staticwebassets.development.json
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/staticwebassets.build.endpoints.json

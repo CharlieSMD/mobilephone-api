@@ -1,0 +1,164 @@
+2025-08-31 15:40:43,083 - INFO - 🚀 Starting Samsung improved crawling
+2025-08-31 15:40:43,083 - INFO - Processing phone 1/27: Samsung Galaxy Note20
+2025-08-31 15:40:43,097 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Note20
+2025-08-31 15:40:44,541 - INFO - ✅ Found match: SamsungGalaxy Note20 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:40:44,541 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:40:44,928 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:40:44,939 - INFO - ✅ Updated phone ID 5149 with 7 fields
+2025-08-31 15:40:47,941 - INFO - Processing phone 2/27: Samsung Galaxy Note20 Ultra
+2025-08-31 15:40:47,947 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Note20 Ultra
+2025-08-31 15:40:48,410 - INFO - ✅ Found match: SamsungGalaxy Note20 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:40:48,410 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:40:48,813 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:40:48,821 - INFO - ✅ Updated phone ID 5148 with 7 fields
+2025-08-31 15:40:51,826 - INFO - Processing phone 3/27: Samsung Galaxy S20
+2025-08-31 15:40:51,834 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S20
+2025-08-31 15:40:52,287 - INFO - ✅ Found match: SamsungGalaxy S20 FE 5G -> https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 15:40:52,288 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 15:40:52,717 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:40:52,725 - INFO - ✅ Updated phone ID 5152 with 7 fields
+2025-08-31 15:40:55,730 - INFO - Processing phone 4/27: Samsung Galaxy S20 Ultra
+2025-08-31 15:40:55,737 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S20 Ultra
+2025-08-31 15:40:56,183 - INFO - ✅ Found match: SamsungGalaxy S20 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php
+2025-08-31 15:40:56,183 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php
+2025-08-31 15:40:56,573 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:40:56,580 - INFO - ✅ Updated phone ID 5150 with 7 fields
+2025-08-31 15:40:59,585 - INFO - Processing phone 5/27: Samsung Galaxy S20+
+2025-08-31 15:40:59,593 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S20+
+2025-08-31 15:41:00,062 - INFO - ✅ Found match: SamsungGalaxy S20+ -> https://www.gsmarena.com/samsung_galaxy_s20+-10080.php
+2025-08-31 15:41:00,062 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s20+-10080.php
+2025-08-31 15:41:00,893 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:00,902 - INFO - ✅ Updated phone ID 5151 with 7 fields
+2025-08-31 15:41:03,907 - INFO - Processing phone 6/27: Samsung Galaxy S21
+2025-08-31 15:41:03,915 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S21
+2025-08-31 15:41:04,373 - INFO - ✅ Found match: SamsungGalaxy S21 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:41:04,373 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:41:04,792 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:04,799 - INFO - ✅ Updated phone ID 5145 with 7 fields
+2025-08-31 15:41:07,804 - INFO - Processing phone 7/27: Samsung Galaxy S21 Ultra
+2025-08-31 15:41:07,813 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S21 Ultra
+2025-08-31 15:41:08,260 - INFO - ✅ Found match: SamsungGalaxy S21 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:41:08,260 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:41:08,680 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:08,688 - INFO - ✅ Updated phone ID 5143 with 7 fields
+2025-08-31 15:41:11,693 - INFO - Processing phone 8/27: Samsung Galaxy S21+
+2025-08-31 15:41:11,700 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S21+
+2025-08-31 15:41:12,201 - INFO - ✅ Found match: SamsungGalaxy S21+ 5G -> https://www.gsmarena.com/samsung_galaxy_s21+_5g-10625.php
+2025-08-31 15:41:12,201 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s21+_5g-10625.php
+2025-08-31 15:41:12,601 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:12,608 - INFO - ✅ Updated phone ID 5144 with 7 fields
+2025-08-31 15:41:15,613 - INFO - Processing phone 9/27: Samsung Galaxy S22
+2025-08-31 15:41:15,622 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S22
+2025-08-31 15:41:16,140 - INFO - ✅ Found match: SamsungGalaxy S22 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:41:16,140 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:41:16,538 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:16,547 - INFO - ✅ Updated phone ID 5140 with 7 fields
+2025-08-31 15:41:19,552 - INFO - Processing phone 10/27: Samsung Galaxy S22 Ultra
+2025-08-31 15:41:19,561 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S22 Ultra
+2025-08-31 15:41:20,935 - INFO - ✅ Found match: SamsungGalaxy S22 Ultra 5G -> https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:41:20,935 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:41:21,378 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:21,386 - INFO - ✅ Updated phone ID 5138 with 7 fields
+2025-08-31 15:41:24,391 - INFO - Processing phone 11/27: Samsung Galaxy S22+
+2025-08-31 15:41:24,400 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S22+
+2025-08-31 15:41:24,863 - INFO - ✅ Found match: SamsungGalaxy S22+ 5G -> https://www.gsmarena.com/samsung_galaxy_s22+_5g-11252.php
+2025-08-31 15:41:24,863 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s22+_5g-11252.php
+2025-08-31 15:41:25,251 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:25,259 - INFO - ✅ Updated phone ID 5139 with 7 fields
+2025-08-31 15:41:28,264 - INFO - Processing phone 12/27: Samsung Galaxy S23
+2025-08-31 15:41:28,271 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S23
+2025-08-31 15:41:28,782 - INFO - ✅ Found match: SamsungGalaxy S23 Ultra -> https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:41:28,782 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:41:29,269 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:29,279 - INFO - ✅ Updated phone ID 5135 with 7 fields
+2025-08-31 15:41:32,284 - INFO - Processing phone 13/27: Samsung Galaxy S23 Ultra
+2025-08-31 15:41:32,292 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S23 Ultra
+2025-08-31 15:41:32,748 - INFO - ✅ Found match: SamsungGalaxy S23 Ultra -> https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:41:32,748 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:41:33,179 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:33,187 - INFO - ✅ Updated phone ID 5133 with 7 fields
+2025-08-31 15:41:36,192 - INFO - Processing phone 14/27: Samsung Galaxy S23+
+2025-08-31 15:41:36,199 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S23+
+2025-08-31 15:41:36,664 - INFO - ✅ Found match: SamsungGalaxy S23+ -> https://www.gsmarena.com/samsung_galaxy_s23+-12083.php
+2025-08-31 15:41:36,664 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s23+-12083.php
+2025-08-31 15:41:37,058 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:37,066 - INFO - ✅ Updated phone ID 5134 with 7 fields
+2025-08-31 15:41:40,071 - INFO - Processing phone 15/27: Samsung Galaxy S24
+2025-08-31 15:41:40,078 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S24
+2025-08-31 15:41:40,555 - INFO - ✅ Found match: SamsungGalaxy S24 Ultra -> https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:41:40,555 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:41:40,947 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:40,955 - INFO - ✅ Updated phone ID 5130 with 7 fields
+2025-08-31 15:41:43,961 - INFO - Processing phone 16/27: Samsung Galaxy S24 Ultra
+2025-08-31 15:41:43,968 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S24 Ultra
+2025-08-31 15:41:44,424 - INFO - ✅ Found match: SamsungGalaxy S24 Ultra -> https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:41:44,424 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:41:44,821 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:44,829 - INFO - ✅ Updated phone ID 5128 with 7 fields
+2025-08-31 15:41:47,834 - INFO - Processing phone 17/27: Samsung Galaxy S24+
+2025-08-31 15:41:47,842 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy S24+
+2025-08-31 15:41:48,296 - INFO - ✅ Found match: SamsungGalaxy S24+ -> https://www.gsmarena.com/samsung_galaxy_s24+-12772.php
+2025-08-31 15:41:48,297 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_s24+-12772.php
+2025-08-31 15:41:48,682 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:48,690 - INFO - ✅ Updated phone ID 5129 with 7 fields
+2025-08-31 15:41:51,692 - INFO - Processing phone 18/27: Samsung Galaxy Z Flip
+2025-08-31 15:41:51,700 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Flip
+2025-08-31 15:41:52,159 - INFO - ✅ Found match: SamsungGalaxy Z Flip7 -> https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:41:52,159 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:41:52,615 - INFO - 📊 Extracted 7 specifications
+2025-08-31 15:41:52,622 - INFO - ✅ Updated phone ID 5154 with 7 fields
+2025-08-31 15:41:55,627 - INFO - Processing phone 19/27: Samsung Galaxy Z Flip3
+2025-08-31 15:41:55,636 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Flip3
+2025-08-31 15:41:56,113 - INFO - ✅ Found match: SamsungGalaxy Z Flip3 5G -> https://www.gsmarena.com/samsung_galaxy_z_flip3_5g-11044.php
+2025-08-31 15:41:56,113 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_flip3_5g-11044.php
+2025-08-31 15:41:56,604 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:41:56,611 - INFO - ✅ Updated phone ID 5147 with 6 fields
+2025-08-31 15:41:59,616 - INFO - Processing phone 20/27: Samsung Galaxy Z Flip4
+2025-08-31 15:41:59,624 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Flip4
+2025-08-31 15:42:00,174 - INFO - ✅ Found match: SamsungGalaxy Z Flip4 -> https://www.gsmarena.com/samsung_galaxy_z_flip4-11538.php
+2025-08-31 15:42:00,174 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_flip4-11538.php
+2025-08-31 15:42:00,705 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:00,713 - INFO - ✅ Updated phone ID 5142 with 6 fields
+2025-08-31 15:42:03,716 - INFO - Processing phone 21/27: Samsung Galaxy Z Flip5
+2025-08-31 15:42:03,725 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Flip5
+2025-08-31 15:42:04,172 - INFO - ✅ Found match: SamsungGalaxy Z Flip5 -> https://www.gsmarena.com/samsung_galaxy_z_flip5-12252.php
+2025-08-31 15:42:04,172 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_flip5-12252.php
+2025-08-31 15:42:04,609 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:04,617 - INFO - ✅ Updated phone ID 5137 with 6 fields
+2025-08-31 15:42:07,622 - INFO - Processing phone 22/27: Samsung Galaxy Z Flip6
+2025-08-31 15:42:07,629 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Flip6
+2025-08-31 15:42:08,075 - INFO - ✅ Found match: SamsungGalaxy Z Flip6 -> https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php
+2025-08-31 15:42:08,075 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_flip6-13192.php
+2025-08-31 15:42:08,477 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:08,485 - INFO - ✅ Updated phone ID 5132 with 6 fields
+2025-08-31 15:42:11,490 - INFO - Processing phone 23/27: Samsung Galaxy Z Fold2
+2025-08-31 15:42:11,498 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Fold2
+2025-08-31 15:42:11,994 - INFO - ✅ Found match: SamsungGalaxy Z Fold2 5G -> https://www.gsmarena.com/samsung_galaxy_z_fold2_5g-10342.php
+2025-08-31 15:42:11,995 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_fold2_5g-10342.php
+2025-08-31 15:42:12,373 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:12,380 - INFO - ✅ Updated phone ID 5153 with 6 fields
+2025-08-31 15:42:15,386 - INFO - Processing phone 24/27: Samsung Galaxy Z Fold3
+2025-08-31 15:42:15,393 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Fold3
+2025-08-31 15:42:15,870 - INFO - ✅ Found match: SamsungGalaxy Z Fold3 5G -> https://www.gsmarena.com/samsung_galaxy_z_fold3_5g-10906.php
+2025-08-31 15:42:15,871 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_fold3_5g-10906.php
+2025-08-31 15:42:16,268 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:16,276 - INFO - ✅ Updated phone ID 5146 with 6 fields
+2025-08-31 15:42:19,282 - INFO - Processing phone 25/27: Samsung Galaxy Z Fold4
+2025-08-31 15:42:19,289 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Fold4
+2025-08-31 15:42:19,741 - INFO - ✅ Found match: SamsungGalaxy Z Fold4 -> https://www.gsmarena.com/samsung_galaxy_z_fold4-11737.php
+2025-08-31 15:42:19,741 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_fold4-11737.php
+2025-08-31 15:42:20,131 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:20,138 - INFO - ✅ Updated phone ID 5141 with 6 fields
+2025-08-31 15:42:23,144 - INFO - Processing phone 26/27: Samsung Galaxy Z Fold5
+2025-08-31 15:42:23,154 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Fold5
+2025-08-31 15:42:23,605 - INFO - ✅ Found match: SamsungGalaxy Z Fold5 -> https://www.gsmarena.com/samsung_galaxy_z_fold5-12418.php
+2025-08-31 15:42:23,606 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_fold5-12418.php
+2025-08-31 15:42:23,999 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:24,007 - INFO - ✅ Updated phone ID 5136 with 6 fields
+2025-08-31 15:42:27,012 - INFO - Processing phone 27/27: Samsung Galaxy Z Fold6
+2025-08-31 15:42:27,019 - INFO - 🔍 Searching GSMArena for: Samsung Galaxy Z Fold6
+2025-08-31 15:42:27,473 - INFO - ✅ Found match: SamsungGalaxy Z Fold6 -> https://www.gsmarena.com/samsung_galaxy_z_fold6-13147.php
+2025-08-31 15:42:27,473 - INFO - 📱 Extracting details from: https://www.gsmarena.com/samsung_galaxy_z_fold6-13147.php
+2025-08-31 15:42:27,939 - INFO - 📊 Extracted 6 specifications
+2025-08-31 15:42:27,946 - INFO - ✅ Updated phone ID 5131 with 6 fields
+2025-08-31 15:42:30,951 - INFO - 🎉 Samsung improved crawling completed: 27 updated, 0 failed

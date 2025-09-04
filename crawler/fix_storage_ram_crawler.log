@@ -1,0 +1,390 @@
+2025-08-31 15:52:39,032 - INFO - Found 48 phones missing Storage/RAM data
+2025-08-31 15:52:39,032 - INFO - 
+📱 Processing phone 1/48: OPPO Find X2
+2025-08-31 15:52:39,032 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X2
+2025-08-31 15:52:40,496 - INFO - Found match: https://www.gsmarena.com/oppo_find_x2_pro-9529.php
+2025-08-31 15:52:40,908 - INFO - Found storage: Card slot
+2025-08-31 15:52:40,913 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x2_pro-9529.php: {'storage': 'Card slot'}
+2025-08-31 15:52:40,921 - INFO - ✅ Updated phone 5207 with 1 storage/RAM fields
+2025-08-31 15:52:40,921 - INFO - ✅ Successfully updated OPPO Find X2
+2025-08-31 15:52:44,926 - INFO - 
+📱 Processing phone 2/48: OPPO Find X2 Pro
+2025-08-31 15:52:44,927 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X2+Pro
+2025-08-31 15:52:45,445 - INFO - Found match: https://www.gsmarena.com/oppo_find_x2_pro-9529.php
+2025-08-31 15:52:45,837 - INFO - Found storage: Card slot
+2025-08-31 15:52:45,842 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x2_pro-9529.php: {'storage': 'Card slot'}
+2025-08-31 15:52:45,850 - INFO - ✅ Updated phone 5206 with 1 storage/RAM fields
+2025-08-31 15:52:45,851 - INFO - ✅ Successfully updated OPPO Find X2 Pro
+2025-08-31 15:52:49,851 - INFO - 
+📱 Processing phone 3/48: OPPO Find X3
+2025-08-31 15:52:49,851 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X3
+2025-08-31 15:52:50,306 - INFO - Found match: https://www.gsmarena.com/oppo_find_x3_pro-10627.php
+2025-08-31 15:52:50,689 - INFO - Found storage: Card slot
+2025-08-31 15:52:50,694 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x3_pro-10627.php: {'storage': 'Card slot'}
+2025-08-31 15:52:50,701 - INFO - ✅ Updated phone 5205 with 1 storage/RAM fields
+2025-08-31 15:52:50,701 - INFO - ✅ Successfully updated OPPO Find X3
+2025-08-31 15:52:54,706 - INFO - 
+📱 Processing phone 4/48: OPPO Find X3 Pro
+2025-08-31 15:52:54,707 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X3+Pro
+2025-08-31 15:52:55,177 - INFO - Found match: https://www.gsmarena.com/oppo_find_x3_pro-10627.php
+2025-08-31 15:52:55,653 - INFO - Found storage: Card slot
+2025-08-31 15:52:55,658 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x3_pro-10627.php: {'storage': 'Card slot'}
+2025-08-31 15:52:55,666 - INFO - ✅ Updated phone 5204 with 1 storage/RAM fields
+2025-08-31 15:52:55,666 - INFO - ✅ Successfully updated OPPO Find X3 Pro
+2025-08-31 15:52:59,671 - INFO - 
+📱 Processing phone 5/48: OPPO Find X5
+2025-08-31 15:52:59,671 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X5
+2025-08-31 15:53:00,132 - INFO - Found match: https://www.gsmarena.com/oppo_find_x5_pro-11236.php
+2025-08-31 15:53:00,604 - INFO - Found storage: Card slot
+2025-08-31 15:53:00,609 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x5_pro-11236.php: {'storage': 'Card slot'}
+2025-08-31 15:53:00,617 - INFO - ✅ Updated phone 5203 with 1 storage/RAM fields
+2025-08-31 15:53:00,617 - INFO - ✅ Successfully updated OPPO Find X5
+2025-08-31 15:53:04,617 - INFO - 
+📱 Processing phone 6/48: OPPO Find X5 Pro
+2025-08-31 15:53:04,618 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X5+Pro
+2025-08-31 15:53:05,116 - INFO - Found match: https://www.gsmarena.com/oppo_find_x5_pro-11236.php
+2025-08-31 15:53:05,583 - INFO - Found storage: Card slot
+2025-08-31 15:53:05,588 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x5_pro-11236.php: {'storage': 'Card slot'}
+2025-08-31 15:53:05,595 - INFO - ✅ Updated phone 5202 with 1 storage/RAM fields
+2025-08-31 15:53:05,595 - INFO - ✅ Successfully updated OPPO Find X5 Pro
+2025-08-31 15:53:09,600 - INFO - 
+📱 Processing phone 7/48: OPPO Find X6
+2025-08-31 15:53:09,601 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X6
+2025-08-31 15:53:10,050 - INFO - Found match: https://www.gsmarena.com/oppo_find_x6_pro-12105.php
+2025-08-31 15:53:10,499 - INFO - Found storage: Card slot
+2025-08-31 15:53:10,503 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x6_pro-12105.php: {'storage': 'Card slot'}
+2025-08-31 15:53:10,511 - INFO - ✅ Updated phone 5201 with 1 storage/RAM fields
+2025-08-31 15:53:10,511 - INFO - ✅ Successfully updated OPPO Find X6
+2025-08-31 15:53:14,516 - INFO - 
+📱 Processing phone 8/48: OPPO Find X6 Pro
+2025-08-31 15:53:14,517 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X6+Pro
+2025-08-31 15:53:14,981 - INFO - Found match: https://www.gsmarena.com/oppo_find_x6_pro-12105.php
+2025-08-31 15:53:15,418 - INFO - Found storage: Card slot
+2025-08-31 15:53:15,423 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x6_pro-12105.php: {'storage': 'Card slot'}
+2025-08-31 15:53:15,430 - INFO - ✅ Updated phone 5200 with 1 storage/RAM fields
+2025-08-31 15:53:15,430 - INFO - ✅ Successfully updated OPPO Find X6 Pro
+2025-08-31 15:53:19,435 - INFO - 
+📱 Processing phone 9/48: OPPO Find X7
+2025-08-31 15:53:19,435 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X7
+2025-08-31 15:53:19,941 - INFO - Found match: https://www.gsmarena.com/oppo_find_x7_ultra-12752.php
+2025-08-31 15:53:20,329 - INFO - Found storage: Card slot
+2025-08-31 15:53:20,334 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x7_ultra-12752.php: {'storage': 'Card slot'}
+2025-08-31 15:53:20,342 - INFO - ✅ Updated phone 5199 with 1 storage/RAM fields
+2025-08-31 15:53:20,342 - INFO - ✅ Successfully updated OPPO Find X7
+2025-08-31 15:53:24,347 - INFO - 
+📱 Processing phone 10/48: OPPO Find X7 Ultra
+2025-08-31 15:53:24,347 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OPPO+Find+X7+Ultra
+2025-08-31 15:53:25,827 - INFO - Found match: https://www.gsmarena.com/oppo_find_x7_ultra-12752.php
+2025-08-31 15:53:26,373 - INFO - Found storage: Card slot
+2025-08-31 15:53:26,378 - INFO - Extracted specs for https://www.gsmarena.com/oppo_find_x7_ultra-12752.php: {'storage': 'Card slot'}
+2025-08-31 15:53:26,386 - INFO - ✅ Updated phone 5197 with 1 storage/RAM fields
+2025-08-31 15:53:26,386 - INFO - ✅ Successfully updated OPPO Find X7 Ultra
+2025-08-31 15:53:30,391 - INFO - 
+📱 Processing phone 11/48: OnePlus 10 Pro
+2025-08-31 15:53:30,392 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+10+Pro
+2025-08-31 15:53:31,164 - INFO - Found match: https://www.gsmarena.com/oneplus_10_pro-11234.php
+2025-08-31 15:53:31,599 - INFO - Found storage: Card slot
+2025-08-31 15:53:31,604 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_10_pro-11234.php: {'storage': 'Card slot'}
+2025-08-31 15:53:31,612 - INFO - ✅ Updated phone 5225 with 1 storage/RAM fields
+2025-08-31 15:53:31,612 - INFO - ✅ Successfully updated OnePlus 10 Pro
+2025-08-31 15:53:35,617 - INFO - 
+📱 Processing phone 12/48: OnePlus 10T
+2025-08-31 15:53:35,617 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+10T
+2025-08-31 15:53:36,078 - INFO - Found match: https://www.gsmarena.com/oneplus_10t-11622.php
+2025-08-31 15:53:36,515 - INFO - Found storage: Card slot
+2025-08-31 15:53:36,520 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_10t-11622.php: {'storage': 'Card slot'}
+2025-08-31 15:53:36,527 - INFO - ✅ Updated phone 5226 with 1 storage/RAM fields
+2025-08-31 15:53:36,528 - INFO - ✅ Successfully updated OnePlus 10T
+2025-08-31 15:53:40,533 - INFO - 
+📱 Processing phone 13/48: OnePlus 11
+2025-08-31 15:53:40,533 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+11
+2025-08-31 15:53:41,139 - INFO - Found match: https://www.gsmarena.com/oneplus_11-11893.php
+2025-08-31 15:53:41,861 - INFO - Found storage: Card slot
+2025-08-31 15:53:41,866 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_11-11893.php: {'storage': 'Card slot'}
+2025-08-31 15:53:41,873 - INFO - ✅ Updated phone 5224 with 1 storage/RAM fields
+2025-08-31 15:53:41,874 - INFO - ✅ Successfully updated OnePlus 11
+2025-08-31 15:53:45,879 - INFO - 
+📱 Processing phone 14/48: OnePlus 12
+2025-08-31 15:53:45,879 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+12
+2025-08-31 15:53:46,534 - INFO - Found match: https://www.gsmarena.com/oneplus_12-12725.php
+2025-08-31 15:53:47,376 - INFO - Found storage: Card slot
+2025-08-31 15:53:47,381 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_12-12725.php: {'storage': 'Card slot'}
+2025-08-31 15:53:47,388 - INFO - ✅ Updated phone 5222 with 1 storage/RAM fields
+2025-08-31 15:53:47,388 - INFO - ✅ Successfully updated OnePlus 12
+2025-08-31 15:53:51,393 - INFO - 
+📱 Processing phone 15/48: OnePlus 12R
+2025-08-31 15:53:51,393 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+12R
+2025-08-31 15:53:51,996 - INFO - Found match: https://www.gsmarena.com/oneplus_12r-12727.php
+2025-08-31 15:53:52,795 - INFO - Found storage: Card slot
+2025-08-31 15:53:52,801 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_12r-12727.php: {'storage': 'Card slot'}
+2025-08-31 15:53:52,808 - INFO - ✅ Updated phone 5223 with 1 storage/RAM fields
+2025-08-31 15:53:52,808 - INFO - ✅ Successfully updated OnePlus 12R
+2025-08-31 15:53:56,813 - INFO - 
+📱 Processing phone 16/48: OnePlus 8
+2025-08-31 15:53:56,813 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+8
+2025-08-31 15:53:57,261 - INFO - Found match: https://www.gsmarena.com/oneplus_8t-10420.php
+2025-08-31 15:53:57,654 - INFO - Found storage: Card slot
+2025-08-31 15:53:57,659 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_8t-10420.php: {'storage': 'Card slot'}
+2025-08-31 15:53:57,667 - INFO - ✅ Updated phone 5231 with 1 storage/RAM fields
+2025-08-31 15:53:57,667 - INFO - ✅ Successfully updated OnePlus 8
+2025-08-31 15:54:01,672 - INFO - 
+📱 Processing phone 17/48: OnePlus 8 Pro
+2025-08-31 15:54:01,673 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+8+Pro
+2025-08-31 15:54:02,145 - INFO - Found match: https://www.gsmarena.com/oneplus_8_pro-9919.php
+2025-08-31 15:54:02,528 - INFO - Found storage: Card slot
+2025-08-31 15:54:02,533 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_8_pro-9919.php: {'storage': 'Card slot'}
+2025-08-31 15:54:02,540 - INFO - ✅ Updated phone 5230 with 1 storage/RAM fields
+2025-08-31 15:54:02,540 - INFO - ✅ Successfully updated OnePlus 8 Pro
+2025-08-31 15:54:06,542 - INFO - 
+📱 Processing phone 18/48: OnePlus 8T
+2025-08-31 15:54:06,542 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+8T
+2025-08-31 15:54:07,133 - INFO - Found match: https://www.gsmarena.com/oneplus_8t-10420.php
+2025-08-31 15:54:07,860 - INFO - Found storage: Card slot
+2025-08-31 15:54:07,865 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_8t-10420.php: {'storage': 'Card slot'}
+2025-08-31 15:54:07,873 - INFO - ✅ Updated phone 5232 with 1 storage/RAM fields
+2025-08-31 15:54:07,873 - INFO - ✅ Successfully updated OnePlus 8T
+2025-08-31 15:54:11,878 - INFO - 
+📱 Processing phone 19/48: OnePlus 9
+2025-08-31 15:54:11,879 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+9
+2025-08-31 15:54:12,419 - INFO - Found match: https://www.gsmarena.com/oneplus_9_pro-10806.php
+2025-08-31 15:54:12,812 - INFO - Found storage: Card slot
+2025-08-31 15:54:12,816 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_9_pro-10806.php: {'storage': 'Card slot'}
+2025-08-31 15:54:12,825 - INFO - ✅ Updated phone 5228 with 1 storage/RAM fields
+2025-08-31 15:54:12,826 - INFO - ✅ Successfully updated OnePlus 9
+2025-08-31 15:54:16,831 - INFO - 
+📱 Processing phone 20/48: OnePlus 9 Pro
+2025-08-31 15:54:16,831 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+9+Pro
+2025-08-31 15:54:17,276 - INFO - Found match: https://www.gsmarena.com/oneplus_9_pro-10806.php
+2025-08-31 15:54:17,993 - INFO - Found storage: Card slot
+2025-08-31 15:54:17,998 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_9_pro-10806.php: {'storage': 'Card slot'}
+2025-08-31 15:54:18,009 - INFO - ✅ Updated phone 5227 with 1 storage/RAM fields
+2025-08-31 15:54:18,009 - INFO - ✅ Successfully updated OnePlus 9 Pro
+2025-08-31 15:54:22,014 - INFO - 
+📱 Processing phone 21/48: OnePlus 9RT
+2025-08-31 15:54:22,015 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=OnePlus+9RT
+2025-08-31 15:54:22,475 - INFO - Found match: https://www.gsmarena.com/oneplus_9rt_5g-11148.php
+2025-08-31 15:54:22,857 - INFO - Found storage: Card slot
+2025-08-31 15:54:22,861 - INFO - Extracted specs for https://www.gsmarena.com/oneplus_9rt_5g-11148.php: {'storage': 'Card slot'}
+2025-08-31 15:54:22,871 - INFO - ✅ Updated phone 5229 with 1 storage/RAM fields
+2025-08-31 15:54:22,871 - INFO - ✅ Successfully updated OnePlus 9RT
+2025-08-31 15:54:26,876 - INFO - 
+📱 Processing phone 22/48: Samsung Galaxy Note20
+2025-08-31 15:54:26,876 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Note20
+2025-08-31 15:54:27,322 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:54:28,055 - INFO - Found storage: Card slot
+2025-08-31 15:54:28,060 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php: {'storage': 'Card slot'}
+2025-08-31 15:54:28,069 - INFO - ✅ Updated phone 5149 with 1 storage/RAM fields
+2025-08-31 15:54:28,069 - INFO - ✅ Successfully updated Samsung Galaxy Note20
+2025-08-31 15:54:32,072 - INFO - 
+📱 Processing phone 23/48: Samsung Galaxy Note20 Ultra
+2025-08-31 15:54:32,072 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Note20+Ultra
+2025-08-31 15:54:32,708 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 15:54:33,475 - INFO - Found storage: Card slot
+2025-08-31 15:54:33,480 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php: {'storage': 'Card slot'}
+2025-08-31 15:54:33,488 - INFO - ✅ Updated phone 5148 with 1 storage/RAM fields
+2025-08-31 15:54:33,488 - INFO - ✅ Successfully updated Samsung Galaxy Note20 Ultra
+2025-08-31 15:54:37,493 - INFO - 
+📱 Processing phone 24/48: Samsung Galaxy S20
+2025-08-31 15:54:37,494 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20
+2025-08-31 15:54:37,953 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 15:54:38,377 - INFO - Found storage: Card slot
+2025-08-31 15:54:38,381 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php: {'storage': 'Card slot'}
+2025-08-31 15:54:38,389 - INFO - ✅ Updated phone 5152 with 1 storage/RAM fields
+2025-08-31 15:54:38,389 - INFO - ✅ Successfully updated Samsung Galaxy S20
+2025-08-31 15:54:42,394 - INFO - 
+📱 Processing phone 25/48: Samsung Galaxy S20 Ultra
+2025-08-31 15:54:42,394 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20+Ultra
+2025-08-31 15:54:42,852 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php
+2025-08-31 15:54:43,685 - INFO - Found storage: Card slot
+2025-08-31 15:54:43,690 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php: {'storage': 'Card slot'}
+2025-08-31 15:54:43,697 - INFO - ✅ Updated phone 5150 with 1 storage/RAM fields
+2025-08-31 15:54:43,698 - INFO - ✅ Successfully updated Samsung Galaxy S20 Ultra
+2025-08-31 15:54:47,698 - INFO - 
+📱 Processing phone 26/48: Samsung Galaxy S20+
+2025-08-31 15:54:47,698 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20+
+2025-08-31 15:54:48,190 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 15:54:49,216 - INFO - Found storage: Card slot
+2025-08-31 15:54:49,221 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php: {'storage': 'Card slot'}
+2025-08-31 15:54:49,229 - INFO - ✅ Updated phone 5151 with 1 storage/RAM fields
+2025-08-31 15:54:49,230 - INFO - ✅ Successfully updated Samsung Galaxy S20+
+2025-08-31 15:54:53,235 - INFO - 
+📱 Processing phone 27/48: Samsung Galaxy S21
+2025-08-31 15:54:53,235 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21
+2025-08-31 15:54:53,728 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:54:54,452 - INFO - Found storage: Card slot
+2025-08-31 15:54:54,457 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: {'storage': 'Card slot'}
+2025-08-31 15:54:54,464 - INFO - ✅ Updated phone 5145 with 1 storage/RAM fields
+2025-08-31 15:54:54,464 - INFO - ✅ Successfully updated Samsung Galaxy S21
+2025-08-31 15:54:58,466 - INFO - 
+📱 Processing phone 28/48: Samsung Galaxy S21 Ultra
+2025-08-31 15:54:58,466 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21+Ultra
+2025-08-31 15:54:58,932 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:54:59,763 - INFO - Found storage: Card slot
+2025-08-31 15:54:59,768 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: {'storage': 'Card slot'}
+2025-08-31 15:54:59,776 - INFO - ✅ Updated phone 5143 with 1 storage/RAM fields
+2025-08-31 15:54:59,776 - INFO - ✅ Successfully updated Samsung Galaxy S21 Ultra
+2025-08-31 15:55:03,781 - INFO - 
+📱 Processing phone 29/48: Samsung Galaxy S21+
+2025-08-31 15:55:03,782 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21+
+2025-08-31 15:55:04,291 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 15:55:05,180 - INFO - Found storage: Card slot
+2025-08-31 15:55:05,185 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: {'storage': 'Card slot'}
+2025-08-31 15:55:05,192 - INFO - ✅ Updated phone 5144 with 1 storage/RAM fields
+2025-08-31 15:55:05,193 - INFO - ✅ Successfully updated Samsung Galaxy S21+
+2025-08-31 15:55:09,198 - INFO - 
+📱 Processing phone 30/48: Samsung Galaxy S22
+2025-08-31 15:55:09,198 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22
+2025-08-31 15:55:09,649 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:55:10,031 - INFO - Found storage: Card slot
+2025-08-31 15:55:10,036 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: {'storage': 'Card slot'}
+2025-08-31 15:55:10,043 - INFO - ✅ Updated phone 5140 with 1 storage/RAM fields
+2025-08-31 15:55:10,043 - INFO - ✅ Successfully updated Samsung Galaxy S22
+2025-08-31 15:55:14,048 - INFO - 
+📱 Processing phone 31/48: Samsung Galaxy S22 Ultra
+2025-08-31 15:55:14,048 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22+Ultra
+2025-08-31 15:55:14,509 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:55:15,221 - INFO - Found storage: Card slot
+2025-08-31 15:55:15,226 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: {'storage': 'Card slot'}
+2025-08-31 15:55:15,233 - INFO - ✅ Updated phone 5138 with 1 storage/RAM fields
+2025-08-31 15:55:15,233 - INFO - ✅ Successfully updated Samsung Galaxy S22 Ultra
+2025-08-31 15:55:19,236 - INFO - 
+📱 Processing phone 32/48: Samsung Galaxy S22+
+2025-08-31 15:55:19,236 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22+
+2025-08-31 15:55:19,712 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 15:55:20,548 - INFO - Found storage: Card slot
+2025-08-31 15:55:20,554 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: {'storage': 'Card slot'}
+2025-08-31 15:55:20,560 - INFO - ✅ Updated phone 5139 with 1 storage/RAM fields
+2025-08-31 15:55:20,561 - INFO - ✅ Successfully updated Samsung Galaxy S22+
+2025-08-31 15:55:24,565 - INFO - 
+📱 Processing phone 33/48: Samsung Galaxy S23
+2025-08-31 15:55:24,566 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23
+2025-08-31 15:55:25,035 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:55:25,871 - INFO - Found storage: Card slot
+2025-08-31 15:55:25,876 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: {'storage': 'Card slot'}
+2025-08-31 15:55:25,883 - INFO - ✅ Updated phone 5135 with 1 storage/RAM fields
+2025-08-31 15:55:25,883 - INFO - ✅ Successfully updated Samsung Galaxy S23
+2025-08-31 15:55:29,888 - INFO - 
+📱 Processing phone 34/48: Samsung Galaxy S23 Ultra
+2025-08-31 15:55:29,888 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23+Ultra
+2025-08-31 15:55:30,394 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:55:31,214 - INFO - Found storage: Card slot
+2025-08-31 15:55:31,218 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: {'storage': 'Card slot'}
+2025-08-31 15:55:31,225 - INFO - ✅ Updated phone 5133 with 1 storage/RAM fields
+2025-08-31 15:55:31,225 - INFO - ✅ Successfully updated Samsung Galaxy S23 Ultra
+2025-08-31 15:55:35,230 - INFO - 
+📱 Processing phone 35/48: Samsung Galaxy S23+
+2025-08-31 15:55:35,231 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23+
+2025-08-31 15:55:35,691 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 15:55:36,444 - INFO - Found storage: Card slot
+2025-08-31 15:55:36,450 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: {'storage': 'Card slot'}
+2025-08-31 15:55:36,458 - INFO - ✅ Updated phone 5134 with 1 storage/RAM fields
+2025-08-31 15:55:36,458 - INFO - ✅ Successfully updated Samsung Galaxy S23+
+2025-08-31 15:55:40,463 - INFO - 
+📱 Processing phone 36/48: Samsung Galaxy S24
+2025-08-31 15:55:40,463 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24
+2025-08-31 15:55:40,966 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:55:41,772 - INFO - Found storage: Card slot
+2025-08-31 15:55:41,778 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: {'storage': 'Card slot'}
+2025-08-31 15:55:41,785 - INFO - ✅ Updated phone 5130 with 1 storage/RAM fields
+2025-08-31 15:55:41,785 - INFO - ✅ Successfully updated Samsung Galaxy S24
+2025-08-31 15:55:45,790 - INFO - 
+📱 Processing phone 37/48: Samsung Galaxy S24 Ultra
+2025-08-31 15:55:45,790 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24+Ultra
+2025-08-31 15:55:46,288 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:55:46,999 - INFO - Found storage: Card slot
+2025-08-31 15:55:47,004 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: {'storage': 'Card slot'}
+2025-08-31 15:55:47,012 - INFO - ✅ Updated phone 5128 with 1 storage/RAM fields
+2025-08-31 15:55:47,012 - INFO - ✅ Successfully updated Samsung Galaxy S24 Ultra
+2025-08-31 15:55:51,017 - INFO - 
+📱 Processing phone 38/48: Samsung Galaxy S24+
+2025-08-31 15:55:51,018 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24+
+2025-08-31 15:55:51,553 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 15:55:52,282 - INFO - Found storage: Card slot
+2025-08-31 15:55:52,287 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: {'storage': 'Card slot'}
+2025-08-31 15:55:52,295 - INFO - ✅ Updated phone 5129 with 1 storage/RAM fields
+2025-08-31 15:55:52,295 - INFO - ✅ Successfully updated Samsung Galaxy S24+
+2025-08-31 15:55:56,300 - INFO - 
+📱 Processing phone 39/48: Samsung Galaxy Z Flip
+2025-08-31 15:55:56,300 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip
+2025-08-31 15:55:56,757 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:55:57,508 - INFO - Found storage: Card slot
+2025-08-31 15:55:57,513 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: {'storage': 'Card slot'}
+2025-08-31 15:55:57,521 - INFO - ✅ Updated phone 5154 with 1 storage/RAM fields
+2025-08-31 15:55:57,521 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip
+2025-08-31 15:56:01,525 - INFO - 
+📱 Processing phone 40/48: Samsung Galaxy Z Flip3
+2025-08-31 15:56:01,526 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip3
+2025-08-31 15:56:02,037 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:56:02,752 - INFO - Found storage: Card slot
+2025-08-31 15:56:02,757 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: {'storage': 'Card slot'}
+2025-08-31 15:56:02,765 - INFO - ✅ Updated phone 5147 with 1 storage/RAM fields
+2025-08-31 15:56:02,765 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip3
+2025-08-31 15:56:06,770 - INFO - 
+📱 Processing phone 41/48: Samsung Galaxy Z Flip4
+2025-08-31 15:56:06,770 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip4
+2025-08-31 15:56:07,234 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:56:07,964 - INFO - Found storage: Card slot
+2025-08-31 15:56:07,969 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: {'storage': 'Card slot'}
+2025-08-31 15:56:07,977 - INFO - ✅ Updated phone 5142 with 1 storage/RAM fields
+2025-08-31 15:56:07,977 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip4
+2025-08-31 15:56:11,978 - INFO - 
+📱 Processing phone 42/48: Samsung Galaxy Z Flip5
+2025-08-31 15:56:11,979 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip5
+2025-08-31 15:56:12,453 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:56:13,287 - INFO - Found storage: Card slot
+2025-08-31 15:56:13,292 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: {'storage': 'Card slot'}
+2025-08-31 15:56:13,299 - INFO - ✅ Updated phone 5137 with 1 storage/RAM fields
+2025-08-31 15:56:13,299 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip5
+2025-08-31 15:56:17,304 - INFO - 
+📱 Processing phone 43/48: Samsung Galaxy Z Flip6
+2025-08-31 15:56:17,305 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip6
+2025-08-31 15:56:17,759 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 15:56:18,491 - INFO - Found storage: Card slot
+2025-08-31 15:56:18,497 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: {'storage': 'Card slot'}
+2025-08-31 15:56:18,505 - INFO - ✅ Updated phone 5132 with 1 storage/RAM fields
+2025-08-31 15:56:18,505 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip6
+2025-08-31 15:56:22,510 - INFO - 
+📱 Processing phone 44/48: Samsung Galaxy Z Fold2
+2025-08-31 15:56:22,511 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold2
+2025-08-31 15:56:23,025 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 15:56:23,936 - INFO - Found storage: Card slot
+2025-08-31 15:56:23,942 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: {'storage': 'Card slot'}
+2025-08-31 15:56:23,949 - INFO - ✅ Updated phone 5153 with 1 storage/RAM fields
+2025-08-31 15:56:23,949 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold2
+2025-08-31 15:56:27,954 - INFO - 
+📱 Processing phone 45/48: Samsung Galaxy Z Fold3
+2025-08-31 15:56:27,955 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold3
+2025-08-31 15:56:28,408 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 15:56:29,217 - INFO - Found storage: Card slot
+2025-08-31 15:56:29,223 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: {'storage': 'Card slot'}
+2025-08-31 15:56:29,230 - INFO - ✅ Updated phone 5146 with 1 storage/RAM fields
+2025-08-31 15:56:29,230 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold3
+2025-08-31 15:56:33,235 - INFO - 
+📱 Processing phone 46/48: Samsung Galaxy Z Fold4
+2025-08-31 15:56:33,236 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold4
+2025-08-31 15:56:33,748 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 15:56:34,591 - INFO - Found storage: Card slot
+2025-08-31 15:56:34,596 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: {'storage': 'Card slot'}
+2025-08-31 15:56:34,603 - INFO - ✅ Updated phone 5141 with 1 storage/RAM fields
+2025-08-31 15:56:34,603 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold4
+2025-08-31 15:56:38,608 - INFO - 
+📱 Processing phone 47/48: Samsung Galaxy Z Fold5
+2025-08-31 15:56:38,609 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold5
+2025-08-31 15:56:39,107 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 15:56:39,949 - INFO - Found storage: Card slot
+2025-08-31 15:56:39,955 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: {'storage': 'Card slot'}
+2025-08-31 15:56:39,962 - INFO - ✅ Updated phone 5136 with 1 storage/RAM fields
+2025-08-31 15:56:39,962 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold5
+2025-08-31 15:56:43,962 - INFO - 
+📱 Processing phone 48/48: Samsung Galaxy Z Fold6
+2025-08-31 15:56:43,962 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold6
+2025-08-31 15:56:44,505 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 15:56:45,441 - INFO - Found storage: Card slot
+2025-08-31 15:56:45,447 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: {'storage': 'Card slot'}
+2025-08-31 15:56:45,454 - INFO - ✅ Updated phone 5131 with 1 storage/RAM fields
+2025-08-31 15:56:45,454 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold6
+2025-08-31 15:56:49,457 - INFO - 
+🎯 Storage/RAM Fix completed!
+2025-08-31 15:56:49,457 - INFO - ✅ Success: 48
+2025-08-31 15:56:49,457 - INFO - ❌ Failed: 0
+2025-08-31 15:56:49,457 - INFO - 📊 Total: 48

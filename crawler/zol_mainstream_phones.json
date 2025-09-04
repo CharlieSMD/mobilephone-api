@@ -1,0 +1,23 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "full_title": "苹果iPhone 15（128GB） 灵动岛，4800万像素主摄，2倍长焦",
+    "price": "",
+    "source": "ZOL"
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "full_title": "苹果iPhone 16（128GB） 4800万像素Fusion摄像头，五款抢眼靓色，搭载A18芯片",
+    "price": "",
+    "source": "ZOL"
+  },
+  {
+    "brand": "apple",
+    "model": "手机",
+    "full_title": "手机",
+    "price": "",
+    "source": "ZOL"
+  }
+]

@@ -143,7 +143,7 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
             }}>
               {phone.imageUrl ? (
                 <img 
-                  src={phone.imageUrl} 
+                  src={phone.imageUrl}
                   alt={`${phone.brand} ${phone.model}`}
                   style={{ 
                     maxWidth: '100%', 

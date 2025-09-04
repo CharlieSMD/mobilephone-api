@@ -1,0 +1,1204 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_11.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m4\u002BTKLThgbsObU20YTgpAcwtyeTDkc48AJDr358YENo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15849"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022m4\u002BTKLThgbsObU20YTgpAcwtyeTDkc48AJDr358YENo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_11.z2rmp14ncy.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z2rmp14ncy"},{"Name":"integrity","Value":"sha256-m4\u002BTKLThgbsObU20YTgpAcwtyeTDkc48AJDr358YENo="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_11.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15849"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022m4\u002BTKLThgbsObU20YTgpAcwtyeTDkc48AJDr358YENo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_11_Pro_Max.6g8yjtwfzu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_11_Pro_Max.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6g8yjtwfzu"},{"Name":"integrity","Value":"sha256-ulk5\u002ButKwt74YFJ8A\u002BWeKarLOHSTkK52GUH4YYbnbeg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_11_Pro_Max.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ulk5\u002ButKwt74YFJ8A\u002BWeKarLOHSTkK52GUH4YYbnbeg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_11_Pro_Max.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_11_Pro_Max.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ulk5\u002ButKwt74YFJ8A\u002BWeKarLOHSTkK52GUH4YYbnbeg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9930"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ulk5\u002ButKwt74YFJ8A\u002BWeKarLOHSTkK52GUH4YYbnbeg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-18uqTice19BeR1vB8BKfGYalf0SWayaIIAYB9nFELBI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"24127"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002218uqTice19BeR1vB8BKfGYalf0SWayaIIAYB9nFELBI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_front.jtrwvyvdjk.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jtrwvyvdjk"},{"Name":"integrity","Value":"sha256-18uqTice19BeR1vB8BKfGYalf0SWayaIIAYB9nFELBI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24127"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002218uqTice19BeR1vB8BKfGYalf0SWayaIIAYB9nFELBI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_mini_front.25c33i4s0g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_mini_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"25c33i4s0g"},{"Name":"integrity","Value":"sha256-NgsqDQNIL\u002BRvqudh6YDiUAofD9sg5rHRrVqvEMsfHIE="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_mini_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14086"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NgsqDQNIL\u002BRvqudh6YDiUAofD9sg5rHRrVqvEMsfHIE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_mini_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_mini_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NgsqDQNIL\u002BRvqudh6YDiUAofD9sg5rHRrVqvEMsfHIE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14086"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NgsqDQNIL\u002BRvqudh6YDiUAofD9sg5rHRrVqvEMsfHIE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_front.ibyjgpqsp5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ibyjgpqsp5"},{"Name":"integrity","Value":"sha256-ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_Max_front.ibyjgpqsp5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ibyjgpqsp5"},{"Name":"integrity","Value":"sha256-ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_Max_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_12_Pro_Max_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_12_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"14500"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ghf6cpKWwwy\u002BCbXBZx1TdSMwZJ8efxjwHJ3hjeUPpQQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Bz4KM5MDm/6PdfV5dpwy1uX9gILj8OInCTzCc6jTDjs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Bz4KM5MDm/6PdfV5dpwy1uX9gILj8OInCTzCc6jTDjs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_front.lxs2nr4fl4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lxs2nr4fl4"},{"Name":"integrity","Value":"sha256-Bz4KM5MDm/6PdfV5dpwy1uX9gILj8OInCTzCc6jTDjs="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Bz4KM5MDm/6PdfV5dpwy1uX9gILj8OInCTzCc6jTDjs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_mini_front.ifh8u5xw9x.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_mini_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ifh8u5xw9x"},{"Name":"integrity","Value":"sha256-wtPdv36rqqu1WLWXM9JAqcum/9FeZLcxJGZ0h4am13Q="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_mini_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5822"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wtPdv36rqqu1WLWXM9JAqcum/9FeZLcxJGZ0h4am13Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_mini_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_mini_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wtPdv36rqqu1WLWXM9JAqcum/9FeZLcxJGZ0h4am13Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5822"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wtPdv36rqqu1WLWXM9JAqcum/9FeZLcxJGZ0h4am13Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_front.wh5ee8usuz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wh5ee8usuz"},{"Name":"integrity","Value":"sha256-rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_Max_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_Max_front.wh5ee8usuz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_13_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wh5ee8usuz"},{"Name":"integrity","Value":"sha256-rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_13_Pro_Max_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5843"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rB4duzatwuqxpEqp3G8U/QO/cTxNVECb3EkD/3Rqlsk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_front.c1ha83li4a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1ha83li4a"},{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Plus_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PVIdBPLouNoW2Hw23hk0srtmPO79FfRi9udg8KkhT/U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6837"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PVIdBPLouNoW2Hw23hk0srtmPO79FfRi9udg8KkhT/U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Plus_front.xjfi3c65u9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xjfi3c65u9"},{"Name":"integrity","Value":"sha256-PVIdBPLouNoW2Hw23hk0srtmPO79FfRi9udg8KkhT/U="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Plus_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6837"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PVIdBPLouNoW2Hw23hk0srtmPO79FfRi9udg8KkhT/U=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_front.c1ha83li4a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1ha83li4a"},{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_Max_front.c1ha83li4a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c1ha83li4a"},{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_Max_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_14_Pro_Max_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_14_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6611"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QMdi55HcFgnbnqdGNQb/gTMfJ\u002BfDPKIq/U\u002Bm8oRkyHA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_front.e7mn2u9wzn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e7mn2u9wzn"},{"Name":"integrity","Value":"sha256-1iWednRbe6GjJGCYKzib6k5XlkpmMWURaQeua2YGL/w="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6776"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221iWednRbe6GjJGCYKzib6k5XlkpmMWURaQeua2YGL/w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1iWednRbe6GjJGCYKzib6k5XlkpmMWURaQeua2YGL/w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6776"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00221iWednRbe6GjJGCYKzib6k5XlkpmMWURaQeua2YGL/w=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Plus_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AIPGfj6AWZm\u002BjXjaXhD0F2Hjj\u002BmqT3JcQDD1LtE42Qg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6449"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AIPGfj6AWZm\u002BjXjaXhD0F2Hjj\u002BmqT3JcQDD1LtE42Qg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Plus_front.sd5jr8od4f.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sd5jr8od4f"},{"Name":"integrity","Value":"sha256-AIPGfj6AWZm\u002BjXjaXhD0F2Hjj\u002BmqT3JcQDD1LtE42Qg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Plus_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6449"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AIPGfj6AWZm\u002BjXjaXhD0F2Hjj\u002BmqT3JcQDD1LtE42Qg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_front.sufqu2rucc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sufqu2rucc"},{"Name":"integrity","Value":"sha256-PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_Max_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_Max_front.sufqu2rucc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_15_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sufqu2rucc"},{"Name":"integrity","Value":"sha256-PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_15_Pro_Max_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7796"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PNcYQcfOmeaHRpikeQgZ1FMpRqiUD1R1ty6V5IRdvKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_front.9ap91y91bc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ap91y91bc"},{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Plus_front.ilab203r5l.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ilab203r5l"},{"Name":"integrity","Value":"sha256-msOtchMgOnSRBe9vQUpoboMGZCJsqRxqVIek9NHS78s="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Plus_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6511"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022msOtchMgOnSRBe9vQUpoboMGZCJsqRxqVIek9NHS78s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Plus_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Plus_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-msOtchMgOnSRBe9vQUpoboMGZCJsqRxqVIek9NHS78s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6511"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022msOtchMgOnSRBe9vQUpoboMGZCJsqRxqVIek9NHS78s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_front.9ap91y91bc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ap91y91bc"},{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_Max_front.9ap91y91bc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ap91y91bc"},{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_Max_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_16_Pro_Max_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_16_Pro_Max_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7144"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022v97ExvIwsP/YrwQERjfE3hcogxiY3zWs8suJqSQC5Dw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_SE_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_SE_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N9SC5rWm9SR/b8udWIZEP1nFeyImjlJWxYrw7DyFUCo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6486"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N9SC5rWm9SR/b8udWIZEP1nFeyImjlJWxYrw7DyFUCo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Apple_iPhone_SE_front.n49cbwzqqw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Apple_iPhone_SE_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n49cbwzqqw"},{"Name":"integrity","Value":"sha256-N9SC5rWm9SR/b8udWIZEP1nFeyImjlJWxYrw7DyFUCo="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Apple_iPhone_SE_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6486"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N9SC5rWm9SR/b8udWIZEP1nFeyImjlJWxYrw7DyFUCo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_3_front.e686flvis4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_3_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e686flvis4"},{"Name":"integrity","Value":"sha256-5sEzu\u002BtVsIQkpAX6rEBPVQLcvb0enCiwHF5VjVFq/PU="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_3_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15222"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225sEzu\u002BtVsIQkpAX6rEBPVQLcvb0enCiwHF5VjVFq/PU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_3_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_3_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5sEzu\u002BtVsIQkpAX6rEBPVQLcvb0enCiwHF5VjVFq/PU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15222"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00225sEzu\u002BtVsIQkpAX6rEBPVQLcvb0enCiwHF5VjVFq/PU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_front.ahk6jcig3j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ahk6jcig3j"},{"Name":"integrity","Value":"sha256-LnBtbft7oHFDWBl2QT35SD3zKtS1raxyG4SzFFvi\u002BvI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LnBtbft7oHFDWBl2QT35SD3zKtS1raxyG4SzFFvi\u002BvI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LnBtbft7oHFDWBl2QT35SD3zKtS1raxyG4SzFFvi\u002BvI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9699"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022LnBtbft7oHFDWBl2QT35SD3zKtS1raxyG4SzFFvi\u002BvI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Pro_front.hreqbpy0pg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hreqbpy0pg"},{"Name":"integrity","Value":"sha256-PdzvFTy3WS9vBGzqkbYthLm9Wy0DviyPd4JN90gArbw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10276"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PdzvFTy3WS9vBGzqkbYthLm9Wy0DviyPd4JN90gArbw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PdzvFTy3WS9vBGzqkbYthLm9Wy0DviyPd4JN90gArbw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10276"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PdzvFTy3WS9vBGzqkbYthLm9Wy0DviyPd4JN90gArbw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Ultimate_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zArQNSuRnKJlpPABfXIFHtXyT/TILTYSsHnM9fIvbGs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9853"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zArQNSuRnKJlpPABfXIFHtXyT/TILTYSsHnM9fIvbGs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Ultimate_front.wregkail37.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_5_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wregkail37"},{"Name":"integrity","Value":"sha256-zArQNSuRnKJlpPABfXIFHtXyT/TILTYSsHnM9fIvbGs="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_5_Ultimate_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9853"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022zArQNSuRnKJlpPABfXIFHtXyT/TILTYSsHnM9fIvbGs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_front.gaqrss5v93.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gaqrss5v93"},{"Name":"integrity","Value":"sha256-2FkVa\u002Bj9y9le4Jrcvp3m6/YWkaW0zJCA5wgArmB6sRc="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7939"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222FkVa\u002Bj9y9le4Jrcvp3m6/YWkaW0zJCA5wgArmB6sRc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2FkVa\u002Bj9y9le4Jrcvp3m6/YWkaW0zJCA5wgArmB6sRc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7939"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222FkVa\u002Bj9y9le4Jrcvp3m6/YWkaW0zJCA5wgArmB6sRc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_Pro_front.7zms146p9v.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7zms146p9v"},{"Name":"integrity","Value":"sha256-UzRsv5IiE3R07W\u002BkNsSPieEz/5bD5c2D5wXzbqdGbvs="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9723"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UzRsv5IiE3R07W\u002BkNsSPieEz/5bD5c2D5wXzbqdGbvs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_6_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UzRsv5IiE3R07W\u002BkNsSPieEz/5bD5c2D5wXzbqdGbvs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9723"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UzRsv5IiE3R07W\u002BkNsSPieEz/5bD5c2D5wXzbqdGbvs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_7_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DN73cZIB8c/6WCmXHf9FP2ZWrn3is1ZTBW8RgjEUxGk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7724"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DN73cZIB8c/6WCmXHf9FP2ZWrn3is1ZTBW8RgjEUxGk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_front.w1fnm8gu24.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_7_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w1fnm8gu24"},{"Name":"integrity","Value":"sha256-DN73cZIB8c/6WCmXHf9FP2ZWrn3is1ZTBW8RgjEUxGk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7724"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DN73cZIB8c/6WCmXHf9FP2ZWrn3is1ZTBW8RgjEUxGk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_Ultimate_front.f93jkaovn2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_7_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f93jkaovn2"},{"Name":"integrity","Value":"sha256-vSwF9hBEeIiVxYjupaGJBNGNqExoKIdqaERlI9HCvU0="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_Ultimate_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7648"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vSwF9hBEeIiVxYjupaGJBNGNqExoKIdqaERlI9HCvU0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_7_Ultimate_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_7_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vSwF9hBEeIiVxYjupaGJBNGNqExoKIdqaERlI9HCvU0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7648"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022vSwF9hBEeIiVxYjupaGJBNGNqExoKIdqaERlI9HCvU0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_front.cw6we755dh.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_8_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cw6we755dh"},{"Name":"integrity","Value":"sha256-7MTr16oeQepHDhmL\u002B1NlZkf7aeNkv\u002BunxPxkD482BdM="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8602"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227MTr16oeQepHDhmL\u002B1NlZkf7aeNkv\u002BunxPxkD482BdM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_8_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7MTr16oeQepHDhmL\u002B1NlZkf7aeNkv\u002BunxPxkD482BdM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8602"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227MTr16oeQepHDhmL\u002B1NlZkf7aeNkv\u002BunxPxkD482BdM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_8_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rrSklLpAtmkP/jm1CmIBFSCda3xVL7fRu2Trq5v\u002BZ\u002B0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8689"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rrSklLpAtmkP/jm1CmIBFSCda3xVL7fRu2Trq5v\u002BZ\u002B0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_Pro_front.us2yigalv9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\ASUS_ROG_Phone_8_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"us2yigalv9"},{"Name":"integrity","Value":"sha256-rrSklLpAtmkP/jm1CmIBFSCda3xVL7fRu2Trq5v\u002BZ\u002B0="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/ASUS_ROG_Phone_8_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8689"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rrSklLpAtmkP/jm1CmIBFSCda3xVL7fRu2Trq5v\u002BZ\u002B0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_4a_front.21yd3d4nkt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_4a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"21yd3d4nkt"},{"Name":"integrity","Value":"sha256-ettC8aU6MCGXR6t7ndb60baO19GMIJjp0M7vN3N85Bk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_4a_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10823"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ettC8aU6MCGXR6t7ndb60baO19GMIJjp0M7vN3N85Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_4a_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_4a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ettC8aU6MCGXR6t7ndb60baO19GMIJjp0M7vN3N85Bk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10823"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ettC8aU6MCGXR6t7ndb60baO19GMIJjp0M7vN3N85Bk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_5a_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_5a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rMMweqrsswWWh8x8xnEcr7bIVvOyf3KyjZ3rTtW8dEE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10587"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rMMweqrsswWWh8x8xnEcr7bIVvOyf3KyjZ3rTtW8dEE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_5a_front.w97yru7ttw.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_5a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w97yru7ttw"},{"Name":"integrity","Value":"sha256-rMMweqrsswWWh8x8xnEcr7bIVvOyf3KyjZ3rTtW8dEE="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_5a_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10587"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rMMweqrsswWWh8x8xnEcr7bIVvOyf3KyjZ3rTtW8dEE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_5_front.gb60udxmqp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gb60udxmqp"},{"Name":"integrity","Value":"sha256-/OHDGRlsAbQNT6ulB0PxDNR0vt5cSlrAejifA0DKshA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_5_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12451"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/OHDGRlsAbQNT6ulB0PxDNR0vt5cSlrAejifA0DKshA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_5_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/OHDGRlsAbQNT6ulB0PxDNR0vt5cSlrAejifA0DKshA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12451"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022/OHDGRlsAbQNT6ulB0PxDNR0vt5cSlrAejifA0DKshA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_6_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_6_front.qmv38whu9g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qmv38whu9g"},{"Name":"integrity","Value":"sha256-4tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_6_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_6_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_6_Pro_front.qmv38whu9g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qmv38whu9g"},{"Name":"integrity","Value":"sha256-4tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_6_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8533"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224tpoC4dc08tTOeEcaJRK1aFyM/k4ov0VAejRMBQzRZ4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7a_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Be0MNsVGeeaod8wZm8OjnWwpUvtsvrTScqubvglHJII="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8314"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Be0MNsVGeeaod8wZm8OjnWwpUvtsvrTScqubvglHJII=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7a_front.n9uzbhcokz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7a_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"n9uzbhcokz"},{"Name":"integrity","Value":"sha256-Be0MNsVGeeaod8wZm8OjnWwpUvtsvrTScqubvglHJII="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_7a_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8314"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Be0MNsVGeeaod8wZm8OjnWwpUvtsvrTScqubvglHJII=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7_front.32wofweq7o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"32wofweq7o"},{"Name":"integrity","Value":"sha256-tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_7_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9622"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9622"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7_Pro_front.32wofweq7o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"32wofweq7o"},{"Name":"integrity","Value":"sha256-tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_7_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9622"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_7_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_7_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9622"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022tfjs\u002BQn5ed3LS0ejc8MWYh\u002B1R7Hjk5PvBGtF2X4ah6g=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_8_front.47l86r1hmo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_8_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"47l86r1hmo"},{"Name":"integrity","Value":"sha256-UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_8_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13073"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_8_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_8_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13073"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_8_Pro_front.47l86r1hmo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_8_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"47l86r1hmo"},{"Name":"integrity","Value":"sha256-UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_8_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13073"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_8_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_8_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13073"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UH827LZYJrhlNxkfKbQUAykv4YLUONf1HkpB6kclnZU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_front.tg0bavxwhs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tg0bavxwhs"},{"Name":"integrity","Value":"sha256-4/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_9_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_front.tg0bavxwhs.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tg0bavxwhs"},{"Name":"integrity","Value":"sha256-4/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8178"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224/ITFRRKO/H46oJI2TZ5ePAZk/q0cR5RFd/r1Wr58xI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_XL_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_Pro_XL_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yZNcJefXsmjkLa//4iy0BdJ4hWMrmjyjwXSDkiHwQUQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8442"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yZNcJefXsmjkLa//4iy0BdJ4hWMrmjyjwXSDkiHwQUQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_XL_front.no0fji05bg.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Google_Pixel_9_Pro_XL_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"no0fji05bg"},{"Name":"integrity","Value":"sha256-yZNcJefXsmjkLa//4iy0BdJ4hWMrmjyjwXSDkiHwQUQ="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Google_Pixel_9_Pro_XL_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8442"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022yZNcJefXsmjkLa//4iy0BdJ4hWMrmjyjwXSDkiHwQUQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_front.fnjo65lqt1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fnjo65lqt1"},{"Name":"integrity","Value":"sha256-hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_30_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6732"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6732"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_Pro_front.fnjo65lqt1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fnjo65lqt1"},{"Name":"integrity","Value":"sha256-hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_30_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6732"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6732"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022hbyv6A8wlxntSxGof7odSZwPgHljd/1Xs30LHHDYAqk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_Pro__front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2a7nfJSxCKM4eFzeR5NWZv/NDJvPWsPaegRuUND2m2c="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12225"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222a7nfJSxCKM4eFzeR5NWZv/NDJvPWsPaegRuUND2m2c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_30_Pro__front.tbjcqa0khz.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_30_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tbjcqa0khz"},{"Name":"integrity","Value":"sha256-2a7nfJSxCKM4eFzeR5NWZv/NDJvPWsPaegRuUND2m2c="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_30_Pro__front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12225"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00222a7nfJSxCKM4eFzeR5NWZv/NDJvPWsPaegRuUND2m2c=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_front.ji9jcpfiuc.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ji9jcpfiuc"},{"Name":"integrity","Value":"sha256-67br62hqDxpmLEtqmU1azo0SDZHX62KOXgkIE5hRrZk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic3_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7995"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002267br62hqDxpmLEtqmU1azo0SDZHX62KOXgkIE5hRrZk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-67br62hqDxpmLEtqmU1azo0SDZHX62KOXgkIE5hRrZk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7995"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002267br62hqDxpmLEtqmU1azo0SDZHX62KOXgkIE5hRrZk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-MGSJel2ZmC4q2zPUHFIrgBWalX4LvK8TwhLwN2osCWk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MGSJel2ZmC4q2zPUHFIrgBWalX4LvK8TwhLwN2osCWk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro_front.kfcd0h4vhp.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kfcd0h4vhp"},{"Name":"integrity","Value":"sha256-MGSJel2ZmC4q2zPUHFIrgBWalX4LvK8TwhLwN2osCWk="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13566"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022MGSJel2ZmC4q2zPUHFIrgBWalX4LvK8TwhLwN2osCWk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro__front.1krjjijylr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1krjjijylr"},{"Name":"integrity","Value":"sha256-QT3YgaKkGjscIaj4O6XlXDLEpxW2sspm/VkPbFXNOnw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro__front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QT3YgaKkGjscIaj4O6XlXDLEpxW2sspm/VkPbFXNOnw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic3_Pro__front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic3_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QT3YgaKkGjscIaj4O6XlXDLEpxW2sspm/VkPbFXNOnw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"12777"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QT3YgaKkGjscIaj4O6XlXDLEpxW2sspm/VkPbFXNOnw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_front.cw3ih8889o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cw3ih8889o"},{"Name":"integrity","Value":"sha256-PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic4_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7389"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7389"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_Pro_front.cw3ih8889o.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cw3ih8889o"},{"Name":"integrity","Value":"sha256-PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic4_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7389"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7389"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022PDUpr2iMS61GOScj0Pam9KSHI9f30NmALYc/zWuxKdE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_Ultimate_front.7e6yh14gva.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7e6yh14gva"},{"Name":"integrity","Value":"sha256-3\u002BlNkUdmkDBQyJdqRbW6HGdjQdMt9RuySrEBnU6Wfzg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic4_Ultimate_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223\u002BlNkUdmkDBQyJdqRbW6HGdjQdMt9RuySrEBnU6Wfzg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic4_Ultimate_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic4_Ultimate_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3\u002BlNkUdmkDBQyJdqRbW6HGdjQdMt9RuySrEBnU6Wfzg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9817"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00223\u002BlNkUdmkDBQyJdqRbW6HGdjQdMt9RuySrEBnU6Wfzg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic5_front.e9go90gky5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"e9go90gky5"},{"Name":"integrity","Value":"sha256-ru6DS\u002BUW0MXDYp2/qyoaP3rv6YcIZS/IF2YxPxRBKyI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic5_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9119"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ru6DS\u002BUW0MXDYp2/qyoaP3rv6YcIZS/IF2YxPxRBKyI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic5_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic5_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ru6DS\u002BUW0MXDYp2/qyoaP3rv6YcIZS/IF2YxPxRBKyI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9119"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ru6DS\u002BUW0MXDYp2/qyoaP3rv6YcIZS/IF2YxPxRBKyI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic5_Pro_front.hoy6c5mvc3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic5_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hoy6c5mvc3"},{"Name":"integrity","Value":"sha256-7yq1Hjx7WVz9fQ21JOKTwdjsrAgexVQx2YC2kl4pa2A="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic5_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9151"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227yq1Hjx7WVz9fQ21JOKTwdjsrAgexVQx2YC2kl4pa2A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic5_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic5_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7yq1Hjx7WVz9fQ21JOKTwdjsrAgexVQx2YC2kl4pa2A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9151"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227yq1Hjx7WVz9fQ21JOKTwdjsrAgexVQx2YC2kl4pa2A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic6_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic6_front.kevic76ve5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic6_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kevic76ve5"},{"Name":"integrity","Value":"sha256-fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic6_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic6_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Honor_Magic6_Pro_front.kevic76ve5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Honor_Magic6_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kevic76ve5"},{"Name":"integrity","Value":"sha256-fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Honor_Magic6_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11554"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fJcR2HEANbhrttDu19Yr7VOx\u002B6evzBo6yPRFA00pXGI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_30_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_30_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-lePnRMqXCHsOghqjGdzh1wpzghh\u002BJlR47v6JCW/gQPI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13612"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lePnRMqXCHsOghqjGdzh1wpzghh\u002BJlR47v6JCW/gQPI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_30_Pro_front.l0snuytuo9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_30_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l0snuytuo9"},{"Name":"integrity","Value":"sha256-lePnRMqXCHsOghqjGdzh1wpzghh\u002BJlR47v6JCW/gQPI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_30_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13612"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022lePnRMqXCHsOghqjGdzh1wpzghh\u002BJlR47v6JCW/gQPI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_40_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8560"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_front.uu7qkcht6w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_40_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uu7qkcht6w"},{"Name":"integrity","Value":"sha256-usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8560"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_40_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8560"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_Pro_front.uu7qkcht6w.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_40_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uu7qkcht6w"},{"Name":"integrity","Value":"sha256-usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_40_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8560"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022usHpZ5bAY87TGJPe0IxQ0kT425RWOpj78sJkE8HDkZg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_50_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10118"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_front.mps0qtwm93.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_50_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mps0qtwm93"},{"Name":"integrity","Value":"sha256-pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10118"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_50_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10118"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_Pro_front.mps0qtwm93.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_50_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mps0qtwm93"},{"Name":"integrity","Value":"sha256-pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_50_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10118"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022pgCApYsiYzCs4lox6Wf\u002Bdej2qIZvR824V5oodMvJabM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_front.6wbomu3k1g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6wbomu3k1g"},{"Name":"integrity","Value":"sha256-ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21756"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21756"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro_front.6wbomu3k1g.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6wbomu3k1g"},{"Name":"integrity","Value":"sha256-ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21756"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21756"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022ym9g2uJ0aC2JviL3MJsxN6WjcSecSmKvCpS9KndaOD4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro__front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-iB5kdRCNxWYrXU3\u002B\u002BOeSUJB9oYNHqmrXtK0RRX\u002Bj66I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9847"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022iB5kdRCNxWYrXU3\u002B\u002BOeSUJB9oYNHqmrXtK0RRX\u002Bj66I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro__front.oopa23hxj8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Mate_60_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oopa23hxj8"},{"Name":"integrity","Value":"sha256-iB5kdRCNxWYrXU3\u002B\u002BOeSUJB9oYNHqmrXtK0RRX\u002Bj66I="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Mate_60_Pro__front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9847"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022iB5kdRCNxWYrXU3\u002B\u002BOeSUJB9oYNHqmrXtK0RRX\u002Bj66I=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9789"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_front.yhzg5jctem.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yhzg5jctem"},{"Name":"integrity","Value":"sha256-Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P40_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9789"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9789"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro_front.yhzg5jctem.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yhzg5jctem"},{"Name":"integrity","Value":"sha256-Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9789"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Spehpcfb3\u002BvW5hIRxZ/iJ7ZUaF/NyuyGlLlvjssUwTg=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro__front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Yy45ilQDpmo19o1OGX9G0W3ngJ2Ey\u002BIjiXdV\u002BBdwwgI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Yy45ilQDpmo19o1OGX9G0W3ngJ2Ey\u002BIjiXdV\u002BBdwwgI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro__front.nbw3ok8ogj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P40_Pro__front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nbw3ok8ogj"},{"Name":"integrity","Value":"sha256-Yy45ilQDpmo19o1OGX9G0W3ngJ2Ey\u002BIjiXdV\u002BBdwwgI="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P40_Pro__front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10838"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Yy45ilQDpmo19o1OGX9G0W3ngJ2Ey\u002BIjiXdV\u002BBdwwgI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P50_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P50_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P50_front.vuu8uo8u3h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P50_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vuu8uo8u3h"},{"Name":"integrity","Value":"sha256-N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P50_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P50_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P50_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P50_Pro_front.vuu8uo8u3h.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P50_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vuu8uo8u3h"},{"Name":"integrity","Value":"sha256-N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P50_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7316"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022N4wBR\u002BficpcjVvoSrsHbZMmqKq1gzdgsfRTDSlCqZlU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P60_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P60_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P60_front.lzxtg6wugq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P60_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lzxtg6wugq"},{"Name":"integrity","Value":"sha256-UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P60_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P60_Pro_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P60_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_P60_Pro_front.lzxtg6wugq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_P60_Pro_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lzxtg6wugq"},{"Name":"integrity","Value":"sha256-UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_P60_Pro_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UbnU8i72s25AKkEfkzkn0Nec7qfbzJ7HrRxWjNWI19E=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Pura_70_front.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Pura_70_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dWK91ZPSXBVAM5/Ekp4qG7OKkrGLtPqXrtrefCyro8k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"6576"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dWK91ZPSXBVAM5/Ekp4qG7OKkrGLtPqXrtrefCyro8k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Huawei_Pura_70_front.tq7l0qe7ry.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Huawei_Pura_70_front.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"tq7l0qe7ry"},{"Name":"integrity","Value":"sha256-dWK91ZPSXBVAM5/Ekp4qG7OKkrGLtPqXrtrefCyro8k="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Huawei_Pura_70_front.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6576"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022dWK91ZPSXBVAM5/Ekp4qG7OKkrGLtPqXrtrefCyro8k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_10T.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_10T.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fLZ0WHojqGd\u002BYA5v2VAEbH7Pp9YwsfXrkRGiCPb55qA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11387"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fLZ0WHojqGd\u002BYA5v2VAEbH7Pp9YwsfXrkRGiCPb55qA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_10T.wfob2ln1x0.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_10T.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wfob2ln1x0"},{"Name":"integrity","Value":"sha256-fLZ0WHojqGd\u002BYA5v2VAEbH7Pp9YwsfXrkRGiCPb55qA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_10T.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11387"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022fLZ0WHojqGd\u002BYA5v2VAEbH7Pp9YwsfXrkRGiCPb55qA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_10_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_10_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Hvf1pSLhJ564PNk7b\u002BVpn9nR2sMiuYar1S\u002BydfKK7X4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Hvf1pSLhJ564PNk7b\u002BVpn9nR2sMiuYar1S\u002BydfKK7X4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_10_Pro.uld4j2f3a1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_10_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uld4j2f3a1"},{"Name":"integrity","Value":"sha256-Hvf1pSLhJ564PNk7b\u002BVpn9nR2sMiuYar1S\u002BydfKK7X4="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_10_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10624"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Hvf1pSLhJ564PNk7b\u002BVpn9nR2sMiuYar1S\u002BydfKK7X4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_11.bi6g8ixd72.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bi6g8ixd72"},{"Name":"integrity","Value":"sha256-82QBKtt/jxFk2cvEGRdnAgWKgVkdDXIs7/yNoTVOLeo="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_11.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002282QBKtt/jxFk2cvEGRdnAgWKgVkdDXIs7/yNoTVOLeo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_11.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_11.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-82QBKtt/jxFk2cvEGRdnAgWKgVkdDXIs7/yNoTVOLeo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7549"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002282QBKtt/jxFk2cvEGRdnAgWKgVkdDXIs7/yNoTVOLeo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_12.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DnECEwkT1fRTv4bNZeegof58NcX2dTprN6vV55Dhaag="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8243"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DnECEwkT1fRTv4bNZeegof58NcX2dTprN6vV55Dhaag=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_12.qxty586gum.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_12.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qxty586gum"},{"Name":"integrity","Value":"sha256-DnECEwkT1fRTv4bNZeegof58NcX2dTprN6vV55Dhaag="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_12.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8243"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DnECEwkT1fRTv4bNZeegof58NcX2dTprN6vV55Dhaag=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_12R.3rvm7cch22.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_12R.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3rvm7cch22"},{"Name":"integrity","Value":"sha256-wZ67pmrAI5/gB\u002Bvc1auWilOm8\u002BTw6/9Al4X/rq/F28Q="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_12R.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8851"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wZ67pmrAI5/gB\u002Bvc1auWilOm8\u002BTw6/9Al4X/rq/F28Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_12R.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_12R.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wZ67pmrAI5/gB\u002Bvc1auWilOm8\u002BTw6/9Al4X/rq/F28Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8851"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wZ67pmrAI5/gB\u002Bvc1auWilOm8\u002BTw6/9Al4X/rq/F28Q=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8.8iougsdpnj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8iougsdpnj"},{"Name":"integrity","Value":"sha256-cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_8.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8T.8iougsdpnj.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8T.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8iougsdpnj"},{"Name":"integrity","Value":"sha256-cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_8T.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8T.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8T.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11015"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022cBgbndm274uBLsz7fNdhyf93zRhGjDpqWb\u002Bq7H1DIu0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8_Pro.cnjuc0k1mr.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cnjuc0k1mr"},{"Name":"integrity","Value":"sha256-\u002BMr2oF4QwfBcdaaB8B4yuEZyNC22y1jwh5B1hjHFQ9A="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_8_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10309"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BMr2oF4QwfBcdaaB8B4yuEZyNC22y1jwh5B1hjHFQ9A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_8_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_8_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BMr2oF4QwfBcdaaB8B4yuEZyNC22y1jwh5B1hjHFQ9A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10309"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022\u002BMr2oF4QwfBcdaaB8B4yuEZyNC22y1jwh5B1hjHFQ9A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7443"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9.twy4xz8n4n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"twy4xz8n4n"},{"Name":"integrity","Value":"sha256-Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_9.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7443"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9RT.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9RT.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rDLTgecv9NHvV5\u002Be5DXim9IzN7Db11kAq1E\u002BpndHOhA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7034"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rDLTgecv9NHvV5\u002Be5DXim9IzN7Db11kAq1E\u002BpndHOhA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9RT.kstieeu7kq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9RT.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kstieeu7kq"},{"Name":"integrity","Value":"sha256-rDLTgecv9NHvV5\u002Be5DXim9IzN7Db11kAq1E\u002BpndHOhA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_9RT.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7034"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022rDLTgecv9NHvV5\u002Be5DXim9IzN7Db11kAq1E\u002BpndHOhA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7443"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OnePlus_9_Pro.twy4xz8n4n.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OnePlus_9_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"twy4xz8n4n"},{"Name":"integrity","Value":"sha256-Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OnePlus_9_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7443"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Qwkasb2CUCW4JBTHoDyU82bT4y5qzR1YoUhv/zclSuw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X2.7yjqgjhb1t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7yjqgjhb1t"},{"Name":"integrity","Value":"sha256-f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X2.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X2.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X2.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X2_Pro.7yjqgjhb1t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X2_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7yjqgjhb1t"},{"Name":"integrity","Value":"sha256-f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X2_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X2_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X2_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022f/MIvi\u002BO5\u002BsgQMrdf0MyTkutNIi1u2UyRYjuNAMLP2k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X3.0gm65o878a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0gm65o878a"},{"Name":"integrity","Value":"sha256-4IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X3.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X3.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X3_Pro.0gm65o878a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X3_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0gm65o878a"},{"Name":"integrity","Value":"sha256-4IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X3_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X3_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X3_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"7525"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00224IM/Q\u002BDzXhCFAcOcTS\u002BnDpa/uEUiJBA7ekPG5MpiP4k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X5.7nx5hkalag.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7nx5hkalag"},{"Name":"integrity","Value":"sha256-bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X5.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10805"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X5.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X5.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10805"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X5_Pro.7nx5hkalag.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X5_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7nx5hkalag"},{"Name":"integrity","Value":"sha256-bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X5_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10805"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X5_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X5_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10805"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022bWW32Cxz\u002BxXi5uDNry0O/XI6yrRcARjI08CioSdmecc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X6.bgrh5sxpq6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bgrh5sxpq6"},{"Name":"integrity","Value":"sha256-xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9179"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9179"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X6_Pro.bgrh5sxpq6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X6_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bgrh5sxpq6"},{"Name":"integrity","Value":"sha256-xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X6_Pro.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9179"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X6_Pro.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X6_Pro.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9179"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022xfVxQB\u002BU/33JLXmSitQjFUoeXMHFDVOWBawjjlUPpUw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X7.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X7.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SYzvtljBb/KfHWHAusD16vKlMBrjh4e9LYfUapsdG/s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8341"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SYzvtljBb/KfHWHAusD16vKlMBrjh4e9LYfUapsdG/s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/OPPO_Find_X7.zlq4gdnh4q.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\OPPO_Find_X7.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zlq4gdnh4q"},{"Name":"integrity","Value":"sha256-SYzvtljBb/KfHWHAusD16vKlMBrjh4e9LYfUapsdG/s="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/OPPO_Find_X7.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8341"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022SYzvtljBb/KfHWHAusD16vKlMBrjh4e9LYfUapsdG/s=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20.29isjon0sq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_Note20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"29isjon0sq"},{"Name":"integrity","Value":"sha256-mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_Note20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20_Ultra.29isjon0sq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_Note20_Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"29isjon0sq"},{"Name":"integrity","Value":"sha256-mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20_Ultra.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_Note20_Ultra.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_Note20_Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10143"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mvFGQ0FlpxuIdY7THoEpDzbayghSMwbicTFiWuAuQnc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_S20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UeZSIBsBDPtRYDS4luDeWE87707RQjA0dq3TCPaos58="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"13039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UeZSIBsBDPtRYDS4luDeWE87707RQjA0dq3TCPaos58=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20.t9rdfvpp2c.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_S20.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"t9rdfvpp2c"},{"Name":"integrity","Value":"sha256-UeZSIBsBDPtRYDS4luDeWE87707RQjA0dq3TCPaos58="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13039"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022UeZSIBsBDPtRYDS4luDeWE87707RQjA0dq3TCPaos58=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20_Ultra.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_S20_Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CllD7I8D3mP0grYh5VKfWfhEU43mTHgUkdWcbNPNKQA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"10503"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CllD7I8D3mP0grYh5VKfWfhEU43mTHgUkdWcbNPNKQA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20_Ultra.ytwrsftrqf.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\phones\Samsung_Galaxy_S20_Ultra.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ytwrsftrqf"},{"Name":"integrity","Value":"sha256-CllD7I8D3mP0grYh5VKfWfhEU43mTHgUkdWcbNPNKQA="},{"Name":"label","Value":"_content/MobilePhoneAPI/images/phones/Samsung_Galaxy_S20_Ultra.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10503"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022CllD7I8D3mP0grYh5VKfWfhEU43mTHgUkdWcbNPNKQA=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:40:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/test.ivwjy2ocl3.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ivwjy2ocl3"},{"Name":"integrity","Value":"sha256-0qhPS4tlCTfsj3PNi\u002BLHSt1akRumTfJ0WO2CKdqASiY="},{"Name":"label","Value":"_content/MobilePhoneAPI/test.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00220qhPS4tlCTfsj3PNi\u002BLHSt1akRumTfJ0WO2CKdqASiY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:42:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MobilePhoneAPI/test.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\test.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0qhPS4tlCTfsj3PNi\u002BLHSt1akRumTfJ0WO2CKdqASiY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u00220qhPS4tlCTfsj3PNi\u002BLHSt1akRumTfJ0WO2CKdqASiY=\u0022"},{"Name":"Last-Modified","Value":"Sun, 31 Aug 2025 05:42:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

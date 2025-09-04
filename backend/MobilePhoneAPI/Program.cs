@@ -18,7 +18,8 @@ builder.Services.AddCors(options =>
     {
         policy.WithOrigins("http://localhost:3000")
               .AllowAnyHeader()
-              .AllowAnyMethod();
+              .AllowAnyMethod()
+              .AllowCredentials();
     });
 });
 
@@ -67,6 +68,9 @@ app.UseHttpsRedirection();
 
 // Use CORS
 app.UseCors("AllowReactApp");
+
+// Configure static files for images
+app.UseStaticFiles();
 
 // Add authentication and authorization middleware
 app.UseAuthentication();

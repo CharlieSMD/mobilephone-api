@@ -1,0 +1,702 @@
+2025-08-31 16:07:50,351 - INFO - Found 20 phones missing comprehensive specs
+2025-08-31 16:07:50,351 - INFO - 
+📱 Processing phone 1/20: ASUS ROG Phone 3
+2025-08-31 16:07:50,351 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+3
+2025-08-31 16:07:51,955 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_3-10296.php
+2025-08-31 16:07:52,341 - INFO - ✅ Screen Size: 6.59"
+2025-08-31 16:07:52,342 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:07:52,342 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:07:52,342 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:07:52,343 - INFO - ✅ Weight: 240g
+2025-08-31 16:07:52,343 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_3-10296.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:07:52,349 - ERROR - Database update error for phone 5242: invalid input syntax for type numeric: "240g"
+LINE 1: ...= '8-16GB RAM', "Battery" = '6000mAh', "Weight" = '240g' WHE...
+                                                             ^
+
+2025-08-31 16:07:52,349 - ERROR - ❌ Failed to update ASUS ROG Phone 3
+2025-08-31 16:07:56,354 - INFO - 
+📱 Processing phone 2/20: ASUS ROG Phone 5
+2025-08-31 16:07:56,354 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5
+2025-08-31 16:07:56,960 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5-10715.php
+2025-08-31 16:07:57,357 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:07:57,358 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:07:57,358 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:07:57,358 - INFO - ✅ Storage Summary: 128GB/256GB storage, no card slot
+2025-08-31 16:07:57,359 - INFO - ✅ Weight: 238g
+2025-08-31 16:07:57,359 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5-10715.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:07:57,365 - ERROR - Database update error for phone 5241: invalid input syntax for type numeric: "238g"
+LINE 1: ...= '8-16GB RAM', "Battery" = '6000mAh', "Weight" = '238g' WHE...
+                                                             ^
+
+2025-08-31 16:07:57,365 - ERROR - ❌ Failed to update ASUS ROG Phone 5
+2025-08-31 16:08:01,370 - INFO - 
+📱 Processing phone 3/20: ASUS ROG Phone 5 Pro
+2025-08-31 16:08:01,370 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5+Pro
+2025-08-31 16:08:01,838 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5s_pro-11053.php
+2025-08-31 16:08:02,213 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:02,213 - INFO - ✅ RAM: 18GB RAM
+2025-08-31 16:08:02,214 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:02,214 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:08:02,214 - INFO - ✅ Weight: 238g
+2025-08-31 16:08:02,214 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5s_pro-11053.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:02,220 - ERROR - Database update error for phone 5240: invalid input syntax for type numeric: "238g"
+LINE 1: ..." = '18GB RAM', "Battery" = '6000mAh', "Weight" = '238g' WHE...
+                                                             ^
+
+2025-08-31 16:08:02,220 - ERROR - ❌ Failed to update ASUS ROG Phone 5 Pro
+2025-08-31 16:08:06,226 - INFO - 
+📱 Processing phone 4/20: ASUS ROG Phone 5 Ultimate
+2025-08-31 16:08:06,226 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5+Ultimate
+2025-08-31 16:08:06,691 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5_ultimate-10785.php
+2025-08-31 16:08:07,071 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:07,072 - INFO - ✅ RAM: 18GB RAM
+2025-08-31 16:08:07,072 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:07,072 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:08:07,072 - INFO - ✅ Weight: 238g
+2025-08-31 16:08:07,072 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5_ultimate-10785.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:07,078 - ERROR - Database update error for phone 5239: invalid input syntax for type numeric: "238g"
+LINE 1: ..." = '18GB RAM', "Battery" = '6000mAh', "Weight" = '238g' WHE...
+                                                             ^
+
+2025-08-31 16:08:07,078 - ERROR - ❌ Failed to update ASUS ROG Phone 5 Ultimate
+2025-08-31 16:08:11,083 - INFO - 
+📱 Processing phone 5/20: ASUS ROG Phone 6
+2025-08-31 16:08:11,084 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+6
+2025-08-31 16:08:11,548 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_6-11647.php
+2025-08-31 16:08:12,018 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:12,018 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:08:12,019 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:12,019 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:08:12,019 - INFO - ✅ Weight: 239g
+2025-08-31 16:08:12,019 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_6-11647.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:12,025 - ERROR - Database update error for phone 5238: invalid input syntax for type numeric: "239g"
+LINE 1: ...= '8-16GB RAM', "Battery" = '6000mAh', "Weight" = '239g' WHE...
+                                                             ^
+
+2025-08-31 16:08:12,025 - ERROR - ❌ Failed to update ASUS ROG Phone 6
+2025-08-31 16:08:16,030 - INFO - 
+📱 Processing phone 6/20: ASUS ROG Phone 6 Pro
+2025-08-31 16:08:16,030 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+6+Pro
+2025-08-31 16:08:16,641 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_6_pro-11648.php
+2025-08-31 16:08:17,015 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:17,016 - INFO - ✅ RAM: 18GB RAM
+2025-08-31 16:08:17,016 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:17,016 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:08:17,016 - INFO - ✅ Weight: 239g
+2025-08-31 16:08:17,017 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_6_pro-11648.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:17,022 - ERROR - Database update error for phone 5237: invalid input syntax for type numeric: "239g"
+LINE 1: ..." = '18GB RAM', "Battery" = '6000mAh', "Weight" = '239g' WHE...
+                                                             ^
+
+2025-08-31 16:08:17,022 - ERROR - ❌ Failed to update ASUS ROG Phone 6 Pro
+2025-08-31 16:08:21,027 - INFO - 
+📱 Processing phone 7/20: ASUS ROG Phone 7
+2025-08-31 16:08:21,028 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+7
+2025-08-31 16:08:21,537 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_7-12223.php
+2025-08-31 16:08:22,001 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:22,002 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:08:22,002 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:22,002 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:08:22,003 - INFO - ✅ Weight: 239g
+2025-08-31 16:08:22,003 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_7-12223.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:22,008 - ERROR - Database update error for phone 5236: invalid input syntax for type numeric: "239g"
+LINE 1: ... '12/16GB RAM', "Battery" = '6000mAh', "Weight" = '239g' WHE...
+                                                             ^
+
+2025-08-31 16:08:22,008 - ERROR - ❌ Failed to update ASUS ROG Phone 7
+2025-08-31 16:08:26,013 - INFO - 
+📱 Processing phone 8/20: ASUS ROG Phone 7 Ultimate
+2025-08-31 16:08:26,014 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+7+Ultimate
+2025-08-31 16:08:26,473 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_7_ultimate-12224.php
+2025-08-31 16:08:26,862 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:26,863 - INFO - ✅ RAM: 16GB RAM
+2025-08-31 16:08:26,863 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:08:26,863 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:08:26,863 - INFO - ✅ Weight: 239g
+2025-08-31 16:08:26,864 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_7_ultimate-12224.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:26,869 - ERROR - Database update error for phone 5235: invalid input syntax for type numeric: "239g"
+LINE 1: ..." = '16GB RAM', "Battery" = '6000mAh', "Weight" = '239g' WHE...
+                                                             ^
+
+2025-08-31 16:08:26,869 - ERROR - ❌ Failed to update ASUS ROG Phone 7 Ultimate
+2025-08-31 16:08:30,871 - INFO - 
+📱 Processing phone 9/20: ASUS ROG Phone 8
+2025-08-31 16:08:30,871 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+8
+2025-08-31 16:08:31,466 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_8-12780.php
+2025-08-31 16:08:31,845 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:31,845 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:08:31,845 - INFO - ✅ Battery: 5500mAh
+2025-08-31 16:08:31,846 - INFO - ✅ Storage Summary: 256GB storage, no card slot
+2025-08-31 16:08:31,846 - INFO - ✅ Weight: 225g
+2025-08-31 16:08:31,846 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_8-12780.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:31,852 - ERROR - Database update error for phone 5234: invalid input syntax for type numeric: "225g"
+LINE 1: ... '12/16GB RAM', "Battery" = '5500mAh', "Weight" = '225g' WHE...
+                                                             ^
+
+2025-08-31 16:08:31,852 - ERROR - ❌ Failed to update ASUS ROG Phone 8
+2025-08-31 16:08:35,857 - INFO - 
+📱 Processing phone 10/20: ASUS ROG Phone 8 Pro
+2025-08-31 16:08:35,857 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+8+Pro
+2025-08-31 16:08:36,303 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_8_pro-12746.php
+2025-08-31 16:08:36,689 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:08:36,689 - INFO - ✅ RAM: 16/24GB RAM
+2025-08-31 16:08:36,689 - INFO - ✅ Battery: 5500mAh
+2025-08-31 16:08:36,690 - INFO - ✅ Storage Summary: 512GB/1TB storage, no card slot
+2025-08-31 16:08:36,690 - INFO - ✅ Weight: 225g
+2025-08-31 16:08:36,690 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_8_pro-12746.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:36,696 - ERROR - Database update error for phone 5233: invalid input syntax for type numeric: "225g"
+LINE 1: ... '16/24GB RAM', "Battery" = '5500mAh', "Weight" = '225g' WHE...
+                                                             ^
+
+2025-08-31 16:08:36,696 - ERROR - ❌ Failed to update ASUS ROG Phone 8 Pro
+2025-08-31 16:08:40,697 - INFO - 
+📱 Processing phone 11/20: Apple iPhone 12
+2025-08-31 16:08:40,697 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12
+2025-08-31 16:08:41,291 - INFO - Found match: https://www.gsmarena.com/apple_iphone_12-10509.php
+2025-08-31 16:08:41,802 - INFO - ✅ Screen Size: 6.1"
+2025-08-31 16:08:41,802 - INFO - ✅ RAM: 4GB RAM
+2025-08-31 16:08:41,802 - INFO - ✅ Battery: 2815mAh
+2025-08-31 16:08:41,802 - INFO - ✅ Storage Summary: 64GB/128GB/256GB storage, no card slot
+2025-08-31 16:08:41,803 - INFO - ✅ Weight: 164g
+2025-08-31 16:08:41,803 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_12-10509.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:41,808 - ERROR - Database update error for phone 5125: invalid input syntax for type numeric: "164g"
+LINE 1: ...m" = '4GB RAM', "Battery" = '2815mAh', "Weight" = '164g' WHE...
+                                                             ^
+
+2025-08-31 16:08:41,808 - ERROR - ❌ Failed to update Apple iPhone 12
+2025-08-31 16:08:45,810 - INFO - 
+📱 Processing phone 12/20: Apple iPhone 12 Pro
+2025-08-31 16:08:45,810 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro
+2025-08-31 16:08:46,267 - INFO - Found match: https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php
+2025-08-31 16:08:46,662 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:08:46,663 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:08:46,663 - INFO - ✅ Battery: 3687mAh
+2025-08-31 16:08:46,663 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:08:46,664 - INFO - ✅ Weight: 228g
+2025-08-31 16:08:46,664 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:46,669 - ERROR - Database update error for phone 5124: invalid input syntax for type numeric: "228g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '3687mAh', "Weight" = '228g' WHE...
+                                                             ^
+
+2025-08-31 16:08:46,670 - ERROR - ❌ Failed to update Apple iPhone 12 Pro
+2025-08-31 16:08:50,675 - INFO - 
+📱 Processing phone 13/20: Apple iPhone 12 Pro Max
+2025-08-31 16:08:50,675 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro+Max
+2025-08-31 16:08:51,211 - INFO - Found match: https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php
+2025-08-31 16:08:51,959 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:08:51,960 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:08:51,960 - INFO - ✅ Battery: 3687mAh
+2025-08-31 16:08:51,960 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:08:51,961 - INFO - ✅ Weight: 228g
+2025-08-31 16:08:51,961 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_12_pro_max-10237.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:51,967 - ERROR - Database update error for phone 5123: invalid input syntax for type numeric: "228g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '3687mAh', "Weight" = '228g' WHE...
+                                                             ^
+
+2025-08-31 16:08:51,967 - ERROR - ❌ Failed to update Apple iPhone 12 Pro Max
+2025-08-31 16:08:55,968 - INFO - 
+📱 Processing phone 14/20: Apple iPhone 12 mini
+2025-08-31 16:08:55,968 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+mini
+2025-08-31 16:08:56,585 - INFO - Found match: https://www.gsmarena.com/apple_iphone_12_mini-10510.php
+2025-08-31 16:08:57,083 - INFO - ✅ Screen Size: 5.4"
+2025-08-31 16:08:57,084 - INFO - ✅ RAM: 4GB RAM
+2025-08-31 16:08:57,084 - INFO - ✅ Battery: 2227mAh
+2025-08-31 16:08:57,085 - INFO - ✅ Storage Summary: 64GB/128GB/256GB storage, no card slot
+2025-08-31 16:08:57,085 - INFO - ✅ Weight: 135g
+2025-08-31 16:08:57,085 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_12_mini-10510.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:08:57,096 - ERROR - Database update error for phone 5126: invalid input syntax for type numeric: "135g"
+LINE 1: ...m" = '4GB RAM', "Battery" = '2227mAh', "Weight" = '135g' WHE...
+                                                             ^
+
+2025-08-31 16:08:57,096 - ERROR - ❌ Failed to update Apple iPhone 12 mini
+2025-08-31 16:09:01,100 - INFO - 
+📱 Processing phone 15/20: Apple iPhone 13
+2025-08-31 16:09:01,100 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13
+2025-08-31 16:09:01,659 - INFO - Found match: https://www.gsmarena.com/apple_iphone_13-11103.php
+2025-08-31 16:09:04,527 - INFO - ✅ Screen Size: 6.1"
+2025-08-31 16:09:04,528 - INFO - ✅ RAM: 4GB RAM
+2025-08-31 16:09:04,528 - INFO - ✅ Battery: 3240mAh
+2025-08-31 16:09:04,528 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:09:04,529 - INFO - ✅ Weight: 174g
+2025-08-31 16:09:04,529 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_13-11103.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:04,534 - ERROR - Database update error for phone 5121: invalid input syntax for type numeric: "174g"
+LINE 1: ...m" = '4GB RAM', "Battery" = '3240mAh', "Weight" = '174g' WHE...
+                                                             ^
+
+2025-08-31 16:09:04,535 - ERROR - ❌ Failed to update Apple iPhone 13
+2025-08-31 16:09:08,540 - INFO - 
+📱 Processing phone 16/20: Apple iPhone 13 Pro
+2025-08-31 16:09:08,540 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro
+2025-08-31 16:09:08,985 - INFO - Found match: https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php
+2025-08-31 16:09:09,452 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:09:09,453 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:09:09,453 - INFO - ✅ Battery: 4352mAh
+2025-08-31 16:09:09,453 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:09:09,454 - INFO - ✅ Weight: 240g
+2025-08-31 16:09:09,454 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:09,459 - ERROR - Database update error for phone 5120: invalid input syntax for type numeric: "240g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '4352mAh', "Weight" = '240g' WHE...
+                                                             ^
+
+2025-08-31 16:09:09,459 - ERROR - ❌ Failed to update Apple iPhone 13 Pro
+2025-08-31 16:09:13,464 - INFO - 
+📱 Processing phone 17/20: Apple iPhone 13 Pro Max
+2025-08-31 16:09:13,465 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro+Max
+2025-08-31 16:09:14,046 - INFO - Found match: https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php
+2025-08-31 16:09:14,577 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:09:14,578 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:09:14,578 - INFO - ✅ Battery: 4352mAh
+2025-08-31 16:09:14,578 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:09:14,578 - INFO - ✅ Weight: 240g
+2025-08-31 16:09:14,578 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_13_pro_max-11089.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:14,585 - ERROR - Database update error for phone 5119: invalid input syntax for type numeric: "240g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '4352mAh', "Weight" = '240g' WHE...
+                                                             ^
+
+2025-08-31 16:09:14,585 - ERROR - ❌ Failed to update Apple iPhone 13 Pro Max
+2025-08-31 16:09:18,590 - INFO - 
+📱 Processing phone 18/20: Apple iPhone 13 mini
+2025-08-31 16:09:18,591 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+mini
+2025-08-31 16:09:21,011 - INFO - Found match: https://www.gsmarena.com/apple_iphone_13_mini-11104.php
+2025-08-31 16:09:21,432 - INFO - ✅ Screen Size: 5.4"
+2025-08-31 16:09:21,432 - INFO - ✅ RAM: 4GB RAM
+2025-08-31 16:09:21,432 - INFO - ✅ Battery: 2438mAh
+2025-08-31 16:09:21,433 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:09:21,433 - INFO - ✅ Weight: 141g
+2025-08-31 16:09:21,433 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_13_mini-11104.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:21,438 - ERROR - Database update error for phone 5122: invalid input syntax for type numeric: "141g"
+LINE 1: ...m" = '4GB RAM', "Battery" = '2438mAh', "Weight" = '141g' WHE...
+                                                             ^
+
+2025-08-31 16:09:21,439 - ERROR - ❌ Failed to update Apple iPhone 13 mini
+2025-08-31 16:09:25,441 - INFO - 
+📱 Processing phone 19/20: Apple iPhone 14
+2025-08-31 16:09:25,441 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14
+2025-08-31 16:09:25,896 - INFO - Found match: https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php
+2025-08-31 16:09:26,395 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:09:26,395 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:09:26,396 - INFO - ✅ Battery: 4323mAh
+2025-08-31 16:09:26,396 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:09:26,396 - INFO - ✅ Weight: 240g
+2025-08-31 16:09:26,396 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_14_pro_max-11773.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:26,401 - ERROR - Database update error for phone 5118: invalid input syntax for type numeric: "240g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '4323mAh', "Weight" = '240g' WHE...
+                                                             ^
+
+2025-08-31 16:09:26,401 - ERROR - ❌ Failed to update Apple iPhone 14
+2025-08-31 16:09:30,407 - INFO - 
+📱 Processing phone 20/20: Apple iPhone 14 Plus
+2025-08-31 16:09:30,407 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Plus
+2025-08-31 16:09:30,868 - INFO - Found match: https://www.gsmarena.com/apple_iphone_14_plus-11862.php
+2025-08-31 16:09:31,270 - INFO - ✅ Screen Size: 6.7"
+2025-08-31 16:09:31,271 - INFO - ✅ RAM: 6GB RAM
+2025-08-31 16:09:31,271 - INFO - ✅ Battery: 4323mAh
+2025-08-31 16:09:31,271 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:09:31,271 - INFO - ✅ Weight: 203g
+2025-08-31 16:09:31,271 - INFO - Extracted specs for https://www.gsmarena.com/apple_iphone_14_plus-11862.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:09:31,277 - ERROR - Database update error for phone 5117: invalid input syntax for type numeric: "203g"
+LINE 1: ...m" = '6GB RAM', "Battery" = '4323mAh', "Weight" = '203g' WHE...
+                                                             ^
+
+2025-08-31 16:09:31,277 - ERROR - ❌ Failed to update Apple iPhone 14 Plus
+2025-08-31 16:09:35,279 - INFO - 
+🎯 Comprehensive Specs Crawling completed!
+2025-08-31 16:09:35,279 - INFO - ✅ Success: 0
+2025-08-31 16:09:35,279 - INFO - ❌ Failed: 20
+2025-08-31 16:09:35,280 - INFO - 📊 Total: 20
+2025-08-31 16:10:13,100 - INFO - Found 5 phones missing comprehensive specs
+2025-08-31 16:10:13,101 - INFO - 
+📱 Processing phone 1/5: ASUS ROG Phone 3
+2025-08-31 16:10:13,101 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+3
+2025-08-31 16:10:14,661 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_3-10296.php
+2025-08-31 16:10:15,094 - INFO - ✅ Screen Size: 6.59"
+2025-08-31 16:10:15,094 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:10:15,094 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:10:15,095 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:10:15,095 - INFO - ✅ Weight: 240g
+2025-08-31 16:10:15,095 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_3-10296.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:10:15,103 - INFO - ✅ Updated phone 5242 with 4 comprehensive specs
+2025-08-31 16:10:15,103 - INFO - ✅ Successfully updated ASUS ROG Phone 3
+2025-08-31 16:10:19,108 - INFO - 
+📱 Processing phone 2/5: ASUS ROG Phone 5
+2025-08-31 16:10:19,108 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5
+2025-08-31 16:10:19,596 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5-10715.php
+2025-08-31 16:10:19,988 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:10:19,988 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:10:19,989 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:10:19,989 - INFO - ✅ Storage Summary: 128GB/256GB storage, no card slot
+2025-08-31 16:10:19,989 - INFO - ✅ Weight: 238g
+2025-08-31 16:10:19,989 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5-10715.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:10:19,997 - INFO - ✅ Updated phone 5241 with 4 comprehensive specs
+2025-08-31 16:10:19,997 - INFO - ✅ Successfully updated ASUS ROG Phone 5
+2025-08-31 16:10:24,002 - INFO - 
+📱 Processing phone 3/5: ASUS ROG Phone 5 Pro
+2025-08-31 16:10:24,002 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5+Pro
+2025-08-31 16:10:24,612 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5s_pro-11053.php
+2025-08-31 16:10:25,088 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:10:25,089 - INFO - ✅ RAM: 18GB RAM
+2025-08-31 16:10:25,089 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:10:25,089 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:10:25,090 - INFO - ✅ Weight: 238g
+2025-08-31 16:10:25,090 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5s_pro-11053.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:10:25,097 - INFO - ✅ Updated phone 5240 with 4 comprehensive specs
+2025-08-31 16:10:25,097 - INFO - ✅ Successfully updated ASUS ROG Phone 5 Pro
+2025-08-31 16:10:29,102 - INFO - 
+📱 Processing phone 4/5: ASUS ROG Phone 5 Ultimate
+2025-08-31 16:10:29,102 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+5+Ultimate
+2025-08-31 16:10:29,626 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_5_ultimate-10785.php
+2025-08-31 16:10:30,010 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:10:30,010 - INFO - ✅ RAM: 18GB RAM
+2025-08-31 16:10:30,011 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:10:30,011 - INFO - ✅ Storage Summary: 512GB storage, no card slot
+2025-08-31 16:10:30,011 - INFO - ✅ Weight: 238g
+2025-08-31 16:10:30,011 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_5_ultimate-10785.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:10:30,020 - INFO - ✅ Updated phone 5239 with 4 comprehensive specs
+2025-08-31 16:10:30,020 - INFO - ✅ Successfully updated ASUS ROG Phone 5 Ultimate
+2025-08-31 16:10:34,025 - INFO - 
+📱 Processing phone 5/5: ASUS ROG Phone 6
+2025-08-31 16:10:34,025 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=ASUS+ROG+Phone+6
+2025-08-31 16:10:34,493 - INFO - Found match: https://www.gsmarena.com/asus_rog_phone_6-11647.php
+2025-08-31 16:10:34,961 - INFO - ✅ Screen Size: 6.78"
+2025-08-31 16:10:34,962 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:10:34,962 - INFO - ✅ Battery: 6000mAh
+2025-08-31 16:10:34,962 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:10:34,963 - INFO - ✅ Weight: 239g
+2025-08-31 16:10:34,963 - INFO - Extracted specs for https://www.gsmarena.com/asus_rog_phone_6-11647.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:10:34,971 - INFO - ✅ Updated phone 5238 with 4 comprehensive specs
+2025-08-31 16:10:34,971 - INFO - ✅ Successfully updated ASUS ROG Phone 6
+2025-08-31 16:10:38,976 - INFO - 
+🎯 Comprehensive Specs Crawling completed!
+2025-08-31 16:10:38,976 - INFO - ✅ Success: 5
+2025-08-31 16:10:38,976 - INFO - ❌ Failed: 0
+2025-08-31 16:10:38,976 - INFO - 📊 Total: 5
+2025-08-31 16:11:30,644 - INFO - Found 27 phones missing comprehensive specs
+2025-08-31 16:11:30,644 - INFO - 
+📱 Processing phone 1/27: Samsung Galaxy Note20
+2025-08-31 16:11:30,644 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Note20
+2025-08-31 16:11:32,156 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 16:11:32,616 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:11:32,616 - INFO - ✅ RAM: 6-12GB RAM
+2025-08-31 16:11:32,617 - INFO - ✅ Battery: 4500mAh
+2025-08-31 16:11:32,617 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, microSDXC
+2025-08-31 16:11:32,617 - INFO - ✅ Weight: 208g
+2025-08-31 16:11:32,617 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:32,627 - INFO - ✅ Updated phone 5149 with 4 comprehensive specs
+2025-08-31 16:11:32,627 - INFO - ✅ Successfully updated Samsung Galaxy Note20
+2025-08-31 16:11:36,629 - INFO - 
+📱 Processing phone 2/27: Samsung Galaxy Note20 Ultra
+2025-08-31 16:11:36,630 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Note20+Ultra
+2025-08-31 16:11:38,020 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php
+2025-08-31 16:11:38,952 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:11:38,952 - INFO - ✅ RAM: 6-12GB RAM
+2025-08-31 16:11:38,953 - INFO - ✅ Battery: 4500mAh
+2025-08-31 16:11:38,953 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, microSDXC
+2025-08-31 16:11:38,953 - INFO - ✅ Weight: 208g
+2025-08-31 16:11:38,953 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_note20_ultra_5g-10261.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:38,960 - INFO - ✅ Updated phone 5148 with 4 comprehensive specs
+2025-08-31 16:11:38,960 - INFO - ✅ Successfully updated Samsung Galaxy Note20 Ultra
+2025-08-31 16:11:42,964 - INFO - 
+📱 Processing phone 3/27: Samsung Galaxy S20
+2025-08-31 16:11:42,965 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20
+2025-08-31 16:11:43,425 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 16:11:43,837 - INFO - ✅ Screen Size: 6.5"
+2025-08-31 16:11:43,837 - INFO - ✅ RAM: 6/8GB RAM
+2025-08-31 16:11:43,838 - INFO - ✅ Battery: 4500mAh
+2025-08-31 16:11:43,838 - INFO - ✅ Storage Summary: 128GB/256GB storage, microSDXC
+2025-08-31 16:11:43,839 - INFO - ✅ Weight: 190g
+2025-08-31 16:11:43,839 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:43,847 - INFO - ✅ Updated phone 5152 with 4 comprehensive specs
+2025-08-31 16:11:43,847 - INFO - ✅ Successfully updated Samsung Galaxy S20
+2025-08-31 16:11:47,852 - INFO - 
+📱 Processing phone 4/27: Samsung Galaxy S20 Ultra
+2025-08-31 16:11:47,852 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20+Ultra
+2025-08-31 16:11:48,364 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php
+2025-08-31 16:11:48,893 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:11:48,893 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:11:48,894 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:11:48,894 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, microSDXC
+2025-08-31 16:11:48,894 - INFO - ✅ Weight: 222g
+2025-08-31 16:11:48,894 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_ultra_5g-10040.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:48,902 - INFO - ✅ Updated phone 5150 with 4 comprehensive specs
+2025-08-31 16:11:48,903 - INFO - ✅ Successfully updated Samsung Galaxy S20 Ultra
+2025-08-31 16:11:52,908 - INFO - 
+📱 Processing phone 5/27: Samsung Galaxy S20+
+2025-08-31 16:11:52,908 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S20+
+2025-08-31 16:11:53,485 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php
+2025-08-31 16:11:53,886 - INFO - ✅ Screen Size: 6.5"
+2025-08-31 16:11:53,887 - INFO - ✅ RAM: 6/8GB RAM
+2025-08-31 16:11:53,887 - INFO - ✅ Battery: 4500mAh
+2025-08-31 16:11:53,887 - INFO - ✅ Storage Summary: 128GB/256GB storage, microSDXC
+2025-08-31 16:11:53,887 - INFO - ✅ Weight: 190g
+2025-08-31 16:11:53,887 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s20_fe_5g-10377.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:53,897 - INFO - ✅ Updated phone 5151 with 4 comprehensive specs
+2025-08-31 16:11:53,897 - INFO - ✅ Successfully updated Samsung Galaxy S20+
+2025-08-31 16:11:57,902 - INFO - 
+📱 Processing phone 6/27: Samsung Galaxy S21
+2025-08-31 16:11:57,902 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21
+2025-08-31 16:11:58,397 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 16:11:58,825 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:11:58,826 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:11:58,826 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:11:58,826 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:11:58,827 - INFO - ✅ Weight: 227g
+2025-08-31 16:11:58,827 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:11:58,835 - INFO - ✅ Updated phone 5145 with 4 comprehensive specs
+2025-08-31 16:11:58,835 - INFO - ✅ Successfully updated Samsung Galaxy S21
+2025-08-31 16:12:02,839 - INFO - 
+📱 Processing phone 7/27: Samsung Galaxy S21 Ultra
+2025-08-31 16:12:02,839 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21+Ultra
+2025-08-31 16:12:03,297 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 16:12:03,731 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:03,732 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:12:03,732 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:03,732 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:12:03,733 - INFO - ✅ Weight: 227g
+2025-08-31 16:12:03,733 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:03,740 - INFO - ✅ Updated phone 5143 with 4 comprehensive specs
+2025-08-31 16:12:03,740 - INFO - ✅ Successfully updated Samsung Galaxy S21 Ultra
+2025-08-31 16:12:07,745 - INFO - 
+📱 Processing phone 8/27: Samsung Galaxy S21+
+2025-08-31 16:12:07,745 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S21+
+2025-08-31 16:12:08,202 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php
+2025-08-31 16:12:08,600 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:08,600 - INFO - ✅ RAM: 8-16GB RAM
+2025-08-31 16:12:08,600 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:08,601 - INFO - ✅ Storage Summary: 128GB/256GB/512GB storage, no card slot
+2025-08-31 16:12:08,601 - INFO - ✅ Weight: 227g
+2025-08-31 16:12:08,601 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s21_ultra_5g-10596.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:08,609 - INFO - ✅ Updated phone 5144 with 4 comprehensive specs
+2025-08-31 16:12:08,609 - INFO - ✅ Successfully updated Samsung Galaxy S21+
+2025-08-31 16:12:12,614 - INFO - 
+📱 Processing phone 9/27: Samsung Galaxy S22
+2025-08-31 16:12:12,614 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22
+2025-08-31 16:12:13,077 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 16:12:13,469 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:13,469 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:13,470 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:13,470 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:12:13,470 - INFO - ✅ Weight: 228g
+2025-08-31 16:12:13,470 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:13,478 - INFO - ✅ Updated phone 5140 with 4 comprehensive specs
+2025-08-31 16:12:13,478 - INFO - ✅ Successfully updated Samsung Galaxy S22
+2025-08-31 16:12:17,483 - INFO - 
+📱 Processing phone 10/27: Samsung Galaxy S22 Ultra
+2025-08-31 16:12:17,483 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22+Ultra
+2025-08-31 16:12:18,060 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 16:12:18,589 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:18,590 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:18,590 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:18,590 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:12:18,591 - INFO - ✅ Weight: 228g
+2025-08-31 16:12:18,591 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:18,598 - INFO - ✅ Updated phone 5138 with 4 comprehensive specs
+2025-08-31 16:12:18,598 - INFO - ✅ Successfully updated Samsung Galaxy S22 Ultra
+2025-08-31 16:12:22,599 - INFO - 
+📱 Processing phone 11/27: Samsung Galaxy S22+
+2025-08-31 16:12:22,600 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S22+
+2025-08-31 16:12:23,164 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php
+2025-08-31 16:12:23,550 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:23,551 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:23,551 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:23,551 - INFO - ✅ Storage Summary: 128GB/256GB/1TB storage, no card slot
+2025-08-31 16:12:23,552 - INFO - ✅ Weight: 228g
+2025-08-31 16:12:23,552 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s22_ultra_5g-11251.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:23,559 - INFO - ✅ Updated phone 5139 with 4 comprehensive specs
+2025-08-31 16:12:23,559 - INFO - ✅ Successfully updated Samsung Galaxy S22+
+2025-08-31 16:12:27,564 - INFO - 
+📱 Processing phone 12/27: Samsung Galaxy S23
+2025-08-31 16:12:27,564 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23
+2025-08-31 16:12:28,040 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 16:12:28,521 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:28,522 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:28,522 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:28,522 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:28,522 - INFO - ✅ Weight: 234g
+2025-08-31 16:12:28,522 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:28,530 - INFO - ✅ Updated phone 5135 with 4 comprehensive specs
+2025-08-31 16:12:28,530 - INFO - ✅ Successfully updated Samsung Galaxy S23
+2025-08-31 16:12:32,535 - INFO - 
+📱 Processing phone 13/27: Samsung Galaxy S23 Ultra
+2025-08-31 16:12:32,535 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23+Ultra
+2025-08-31 16:12:32,994 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 16:12:33,555 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:33,556 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:33,556 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:33,556 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:33,556 - INFO - ✅ Weight: 234g
+2025-08-31 16:12:33,556 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:33,564 - INFO - ✅ Updated phone 5133 with 4 comprehensive specs
+2025-08-31 16:12:33,564 - INFO - ✅ Successfully updated Samsung Galaxy S23 Ultra
+2025-08-31 16:12:37,569 - INFO - 
+📱 Processing phone 14/27: Samsung Galaxy S23+
+2025-08-31 16:12:37,569 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S23+
+2025-08-31 16:12:38,036 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php
+2025-08-31 16:12:38,555 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:38,556 - INFO - ✅ RAM: 8/12GB RAM
+2025-08-31 16:12:38,556 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:38,556 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:38,557 - INFO - ✅ Weight: 234g
+2025-08-31 16:12:38,557 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s23_ultra-12024.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:38,564 - INFO - ✅ Updated phone 5134 with 4 comprehensive specs
+2025-08-31 16:12:38,564 - INFO - ✅ Successfully updated Samsung Galaxy S23+
+2025-08-31 16:12:42,570 - INFO - 
+📱 Processing phone 15/27: Samsung Galaxy S24
+2025-08-31 16:12:42,570 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24
+2025-08-31 16:12:43,020 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 16:12:43,407 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:43,408 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:12:43,408 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:43,408 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:43,409 - INFO - ✅ Weight: 232g
+2025-08-31 16:12:43,409 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:43,416 - INFO - ✅ Updated phone 5130 with 4 comprehensive specs
+2025-08-31 16:12:43,417 - INFO - ✅ Successfully updated Samsung Galaxy S24
+2025-08-31 16:12:47,422 - INFO - 
+📱 Processing phone 16/27: Samsung Galaxy S24 Ultra
+2025-08-31 16:12:47,422 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24+Ultra
+2025-08-31 16:12:47,880 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 16:12:48,488 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:48,489 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:12:48,489 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:48,489 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:48,490 - INFO - ✅ Weight: 232g
+2025-08-31 16:12:48,490 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:48,497 - INFO - ✅ Updated phone 5128 with 4 comprehensive specs
+2025-08-31 16:12:48,497 - INFO - ✅ Successfully updated Samsung Galaxy S24 Ultra
+2025-08-31 16:12:52,499 - INFO - 
+📱 Processing phone 17/27: Samsung Galaxy S24+
+2025-08-31 16:12:52,499 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+S24+
+2025-08-31 16:12:52,998 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php
+2025-08-31 16:12:53,407 - INFO - ✅ Screen Size: 6.8"
+2025-08-31 16:12:53,407 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:12:53,408 - INFO - ✅ Battery: 5000mAh
+2025-08-31 16:12:53,408 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:12:53,408 - INFO - ✅ Weight: 232g
+2025-08-31 16:12:53,408 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_s24_ultra-12771.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:53,417 - INFO - ✅ Updated phone 5129 with 4 comprehensive specs
+2025-08-31 16:12:53,417 - INFO - ✅ Successfully updated Samsung Galaxy S24+
+2025-08-31 16:12:57,417 - INFO - 
+📱 Processing phone 18/27: Samsung Galaxy Z Flip
+2025-08-31 16:12:57,418 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip
+2025-08-31 16:12:57,993 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 16:12:58,526 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:12:58,526 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:12:58,527 - INFO - ✅ Battery: 4300mAh
+2025-08-31 16:12:58,527 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:12:58,527 - INFO - ✅ Weight: 188g
+2025-08-31 16:12:58,527 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:12:58,534 - INFO - ✅ Updated phone 5154 with 4 comprehensive specs
+2025-08-31 16:12:58,535 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip
+2025-08-31 16:13:02,540 - INFO - 
+📱 Processing phone 19/27: Samsung Galaxy Z Flip3
+2025-08-31 16:13:02,540 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip3
+2025-08-31 16:13:02,985 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 16:13:03,383 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:13:03,384 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:13:03,384 - INFO - ✅ Battery: 4300mAh
+2025-08-31 16:13:03,384 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:13:03,385 - INFO - ✅ Weight: 188g
+2025-08-31 16:13:03,385 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:03,393 - INFO - ✅ Updated phone 5147 with 4 comprehensive specs
+2025-08-31 16:13:03,393 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip3
+2025-08-31 16:13:07,398 - INFO - 
+📱 Processing phone 20/27: Samsung Galaxy Z Flip4
+2025-08-31 16:13:07,398 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip4
+2025-08-31 16:13:07,886 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 16:13:08,343 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:13:08,344 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:13:08,344 - INFO - ✅ Battery: 4300mAh
+2025-08-31 16:13:08,344 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:13:08,344 - INFO - ✅ Weight: 188g
+2025-08-31 16:13:08,345 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:08,352 - INFO - ✅ Updated phone 5142 with 4 comprehensive specs
+2025-08-31 16:13:08,352 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip4
+2025-08-31 16:13:12,357 - INFO - 
+📱 Processing phone 21/27: Samsung Galaxy Z Flip5
+2025-08-31 16:13:12,357 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip5
+2025-08-31 16:13:12,937 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 16:13:13,359 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:13:13,359 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:13:13,359 - INFO - ✅ Battery: 4300mAh
+2025-08-31 16:13:13,360 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:13:13,360 - INFO - ✅ Weight: 188g
+2025-08-31 16:13:13,360 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:13,367 - INFO - ✅ Updated phone 5137 with 4 comprehensive specs
+2025-08-31 16:13:13,367 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip5
+2025-08-31 16:13:17,372 - INFO - 
+📱 Processing phone 22/27: Samsung Galaxy Z Flip6
+2025-08-31 16:13:17,372 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Flip6
+2025-08-31 16:13:17,965 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php
+2025-08-31 16:13:18,507 - INFO - ✅ Screen Size: 6.9"
+2025-08-31 16:13:18,508 - INFO - ✅ RAM: 12GB RAM
+2025-08-31 16:13:18,508 - INFO - ✅ Battery: 4300mAh
+2025-08-31 16:13:18,508 - INFO - ✅ Storage Summary: 256GB/512GB storage, no card slot
+2025-08-31 16:13:18,508 - INFO - ✅ Weight: 188g
+2025-08-31 16:13:18,508 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_flip7-13712.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:18,516 - INFO - ✅ Updated phone 5132 with 4 comprehensive specs
+2025-08-31 16:13:18,516 - INFO - ✅ Successfully updated Samsung Galaxy Z Flip6
+2025-08-31 16:13:22,521 - INFO - 
+📱 Processing phone 23/27: Samsung Galaxy Z Fold2
+2025-08-31 16:13:22,521 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold2
+2025-08-31 16:13:22,993 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 16:13:23,455 - INFO - ✅ Screen Size: 8.0"
+2025-08-31 16:13:23,456 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:13:23,456 - INFO - ✅ Battery: 4400mAh
+2025-08-31 16:13:23,456 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:13:23,456 - INFO - ✅ Weight: 215g
+2025-08-31 16:13:23,456 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:23,464 - INFO - ✅ Updated phone 5153 with 4 comprehensive specs
+2025-08-31 16:13:23,464 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold2
+2025-08-31 16:13:27,467 - INFO - 
+📱 Processing phone 24/27: Samsung Galaxy Z Fold3
+2025-08-31 16:13:27,467 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold3
+2025-08-31 16:13:27,946 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 16:13:28,523 - INFO - ✅ Screen Size: 8.0"
+2025-08-31 16:13:28,523 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:13:28,523 - INFO - ✅ Battery: 4400mAh
+2025-08-31 16:13:28,524 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:13:28,524 - INFO - ✅ Weight: 215g
+2025-08-31 16:13:28,524 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:28,531 - INFO - ✅ Updated phone 5146 with 4 comprehensive specs
+2025-08-31 16:13:28,531 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold3
+2025-08-31 16:13:32,533 - INFO - 
+📱 Processing phone 25/27: Samsung Galaxy Z Fold4
+2025-08-31 16:13:32,533 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold4
+2025-08-31 16:13:33,011 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 16:13:33,485 - INFO - ✅ Screen Size: 8.0"
+2025-08-31 16:13:33,485 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:13:33,485 - INFO - ✅ Battery: 4400mAh
+2025-08-31 16:13:33,485 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:13:33,486 - INFO - ✅ Weight: 215g
+2025-08-31 16:13:33,486 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:33,493 - INFO - ✅ Updated phone 5141 with 4 comprehensive specs
+2025-08-31 16:13:33,493 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold4
+2025-08-31 16:13:37,498 - INFO - 
+📱 Processing phone 26/27: Samsung Galaxy Z Fold5
+2025-08-31 16:13:37,498 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold5
+2025-08-31 16:13:37,961 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 16:13:38,433 - INFO - ✅ Screen Size: 8.0"
+2025-08-31 16:13:38,433 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:13:38,434 - INFO - ✅ Battery: 4400mAh
+2025-08-31 16:13:38,434 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:13:38,434 - INFO - ✅ Weight: 215g
+2025-08-31 16:13:38,434 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:38,441 - INFO - ✅ Updated phone 5136 with 4 comprehensive specs
+2025-08-31 16:13:38,441 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold5
+2025-08-31 16:13:42,446 - INFO - 
+📱 Processing phone 27/27: Samsung Galaxy Z Fold6
+2025-08-31 16:13:42,447 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Samsung+Galaxy+Z+Fold6
+2025-08-31 16:13:42,918 - INFO - Found match: https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php
+2025-08-31 16:13:43,396 - INFO - ✅ Screen Size: 8.0"
+2025-08-31 16:13:43,396 - INFO - ✅ RAM: 12/16GB RAM
+2025-08-31 16:13:43,397 - INFO - ✅ Battery: 4400mAh
+2025-08-31 16:13:43,397 - INFO - ✅ Storage Summary: 256GB/512GB/1TB storage, no card slot
+2025-08-31 16:13:43,397 - INFO - ✅ Weight: 215g
+2025-08-31 16:13:43,397 - INFO - Extracted specs for https://www.gsmarena.com/samsung_galaxy_z_fold7-13826.php: ['screen_size', 'ram', 'battery', 'storage_summary', 'weight']
+2025-08-31 16:13:43,404 - INFO - ✅ Updated phone 5131 with 4 comprehensive specs
+2025-08-31 16:13:43,404 - INFO - ✅ Successfully updated Samsung Galaxy Z Fold6
+2025-08-31 16:13:47,409 - INFO - 
+🎯 Comprehensive Specs Crawling completed!
+2025-08-31 16:13:47,409 - INFO - ✅ Success: 27
+2025-08-31 16:13:47,409 - INFO - ❌ Failed: 0
+2025-08-31 16:13:47,410 - INFO - 📊 Total: 27

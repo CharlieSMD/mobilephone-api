@@ -1,0 +1,837 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro Max",
+    "year": 2024
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16 Plus",
+    "year": 2024
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 16",
+    "year": 2024
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro Max",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15 Plus",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 15",
+    "year": 2023
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro Max",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14 Plus",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 14",
+    "year": 2022
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 mini",
+    "year": 2021
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro Max",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone 12 mini",
+    "year": 2020
+  },
+  {
+    "brand": "Apple",
+    "model": "iPhone SE",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24 Ultra",
+    "year": 2024
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24+",
+    "year": 2024
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S24",
+    "year": 2024
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold6",
+    "year": 2024
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip6",
+    "year": 2024
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23 Ultra",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23+",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S23",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold5",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip5",
+    "year": 2023
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22 Ultra",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22+",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S22",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold4",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip4",
+    "year": 2022
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21 Ultra",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21+",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S21",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold3",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip3",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note20 Ultra",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Note20",
+    "year": 2021
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20 Ultra",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20+",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy S20",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Fold2",
+    "year": 2020
+  },
+  {
+    "brand": "Samsung",
+    "model": "Galaxy Z Flip",
+    "year": 2020
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9 Pro XL",
+    "year": 2024
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 9",
+    "year": 2024
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 8 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 8",
+    "year": 2023
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7a",
+    "year": 2023
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 7",
+    "year": 2022
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6",
+    "year": 2021
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 5a",
+    "year": 2021
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 5",
+    "year": 2020
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 4a",
+    "year": 2020
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 VI",
+    "year": 2024
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 V",
+    "year": 2024
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 10 VI",
+    "year": 2024
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 V",
+    "year": 2023
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 10 V",
+    "year": 2023
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 IV",
+    "year": 2022
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 IV",
+    "year": 2022
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 10 IV",
+    "year": 2022
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "year": 2021
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 III",
+    "year": 2021
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 10 III",
+    "year": 2021
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 II",
+    "year": 2020
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 5 II",
+    "year": 2020
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 10 II",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Ultra",
+    "year": 2024
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 14",
+    "year": 2024
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 13 Ultra",
+    "year": 2023
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 13 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 13",
+    "year": 2023
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12S Ultra",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Xiaomi 12",
+    "year": 2022
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Ultra",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 11",
+    "year": 2021
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10 Ultra",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "Xiaomi",
+    "model": "Mi 10",
+    "year": 2020
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X7 Ultra",
+    "year": 2024
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X7 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X7",
+    "year": 2024
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X6 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X6",
+    "year": 2023
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X5 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X5",
+    "year": 2022
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X3 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X3",
+    "year": 2021
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X2 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X2",
+    "year": 2020
+  },
+  {
+    "brand": "vivo",
+    "model": "X100 Ultra",
+    "year": 2024
+  },
+  {
+    "brand": "vivo",
+    "model": "X100 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "vivo",
+    "model": "X100",
+    "year": 2024
+  },
+  {
+    "brand": "vivo",
+    "model": "X90 Pro+",
+    "year": 2023
+  },
+  {
+    "brand": "vivo",
+    "model": "X90 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "vivo",
+    "model": "X90",
+    "year": 2023
+  },
+  {
+    "brand": "vivo",
+    "model": "X80 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "vivo",
+    "model": "X80",
+    "year": 2022
+  },
+  {
+    "brand": "vivo",
+    "model": "X70 Pro+",
+    "year": 2021
+  },
+  {
+    "brand": "vivo",
+    "model": "X70 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "vivo",
+    "model": "X70",
+    "year": 2021
+  },
+  {
+    "brand": "vivo",
+    "model": "X60 Pro+",
+    "year": 2020
+  },
+  {
+    "brand": "vivo",
+    "model": "X60 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "vivo",
+    "model": "X60",
+    "year": 2020
+  },
+  {
+    "brand": "OnePlus",
+    "model": "12",
+    "year": 2024
+  },
+  {
+    "brand": "OnePlus",
+    "model": "12R",
+    "year": 2024
+  },
+  {
+    "brand": "OnePlus",
+    "model": "11",
+    "year": 2023
+  },
+  {
+    "brand": "OnePlus",
+    "model": "10 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "OnePlus",
+    "model": "10T",
+    "year": 2022
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9",
+    "year": 2021
+  },
+  {
+    "brand": "OnePlus",
+    "model": "9RT",
+    "year": 2021
+  },
+  {
+    "brand": "OnePlus",
+    "model": "8 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "OnePlus",
+    "model": "8",
+    "year": 2020
+  },
+  {
+    "brand": "OnePlus",
+    "model": "8T",
+    "year": 2020
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 8 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 8",
+    "year": 2024
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 7 Ultimate",
+    "year": 2023
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 7",
+    "year": 2023
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 6 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 6",
+    "year": 2022
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 5 Ultimate",
+    "year": 2021
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 5 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 5",
+    "year": 2021
+  },
+  {
+    "brand": "ASUS",
+    "model": "ROG Phone 3",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "Pura 70 Ultra",
+    "year": 2024
+  },
+  {
+    "brand": "Huawei",
+    "model": "Pura 70 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "Huawei",
+    "model": "Pura 70",
+    "year": 2024
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 60 Pro+",
+    "year": 2023
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 60 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 60",
+    "year": 2023
+  },
+  {
+    "brand": "Huawei",
+    "model": "P60 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Huawei",
+    "model": "P60",
+    "year": 2023
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 50 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 50",
+    "year": 2022
+  },
+  {
+    "brand": "Huawei",
+    "model": "P50 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Huawei",
+    "model": "P50",
+    "year": 2021
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 40 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 40",
+    "year": 2021
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40 Pro+",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "P40",
+    "year": 2020
+  },
+  {
+    "brand": "Huawei",
+    "model": "Mate 30 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic6 Pro",
+    "year": 2024
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic6",
+    "year": 2024
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic5 Pro",
+    "year": 2023
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic5",
+    "year": 2023
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic4 Ultimate",
+    "year": 2022
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic4 Pro",
+    "year": 2022
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic4",
+    "year": 2022
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic3 Pro+",
+    "year": 2021
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic3 Pro",
+    "year": 2021
+  },
+  {
+    "brand": "Honor",
+    "model": "Magic3",
+    "year": 2021
+  },
+  {
+    "brand": "Honor",
+    "model": "30 Pro+",
+    "year": 2020
+  },
+  {
+    "brand": "Honor",
+    "model": "30 Pro",
+    "year": 2020
+  },
+  {
+    "brand": "Honor",
+    "model": "30",
+    "year": 2020
+  }
+]

@@ -1,0 +1,162 @@
+2025-08-31 16:35:38,030 - INFO - Found 15 Apple phones to fix
+2025-08-31 16:35:38,030 - INFO - 
+📱 Processing iPhone 1/15: iPhone 12
+2025-08-31 16:35:38,030 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12
+2025-08-31 16:35:39,373 - ERROR - Search error for Apple iPhone 12: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12
+2025-08-31 16:35:39,373 - ERROR - ❌ No product page found for Apple iPhone 12
+2025-08-31 16:35:39,373 - INFO - 
+📱 Processing iPhone 2/15: iPhone 12 Pro
+2025-08-31 16:35:39,373 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro
+2025-08-31 16:35:39,720 - ERROR - Search error for Apple iPhone 12 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro
+2025-08-31 16:35:39,721 - ERROR - ❌ No product page found for Apple iPhone 12 Pro
+2025-08-31 16:35:39,721 - INFO - 
+📱 Processing iPhone 3/15: iPhone 12 Pro Max
+2025-08-31 16:35:39,721 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro+Max
+2025-08-31 16:35:40,069 - ERROR - Search error for Apple iPhone 12 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro+Max
+2025-08-31 16:35:40,069 - ERROR - ❌ No product page found for Apple iPhone 12 Pro Max
+2025-08-31 16:35:40,069 - INFO - 
+📱 Processing iPhone 4/15: iPhone 12 mini
+2025-08-31 16:35:40,069 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+mini
+2025-08-31 16:35:40,361 - ERROR - Search error for Apple iPhone 12 mini: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+mini
+2025-08-31 16:35:40,361 - ERROR - ❌ No product page found for Apple iPhone 12 mini
+2025-08-31 16:35:40,361 - INFO - 
+📱 Processing iPhone 5/15: iPhone 13
+2025-08-31 16:35:40,361 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13
+2025-08-31 16:35:40,653 - ERROR - Search error for Apple iPhone 13: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13
+2025-08-31 16:35:40,653 - ERROR - ❌ No product page found for Apple iPhone 13
+2025-08-31 16:35:40,653 - INFO - 
+📱 Processing iPhone 6/15: iPhone 13 Pro
+2025-08-31 16:35:40,653 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro
+2025-08-31 16:35:40,947 - ERROR - Search error for Apple iPhone 13 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro
+2025-08-31 16:35:40,947 - ERROR - ❌ No product page found for Apple iPhone 13 Pro
+2025-08-31 16:35:40,947 - INFO - 
+📱 Processing iPhone 7/15: iPhone 13 Pro Max
+2025-08-31 16:35:40,947 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro+Max
+2025-08-31 16:35:41,241 - ERROR - Search error for Apple iPhone 13 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro+Max
+2025-08-31 16:35:41,241 - ERROR - ❌ No product page found for Apple iPhone 13 Pro Max
+2025-08-31 16:35:41,241 - INFO - 
+📱 Processing iPhone 8/15: iPhone 13 mini
+2025-08-31 16:35:41,241 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+mini
+2025-08-31 16:35:41,605 - ERROR - Search error for Apple iPhone 13 mini: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+mini
+2025-08-31 16:35:41,605 - ERROR - ❌ No product page found for Apple iPhone 13 mini
+2025-08-31 16:35:41,605 - INFO - 
+📱 Processing iPhone 9/15: iPhone 14
+2025-08-31 16:35:41,605 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14
+2025-08-31 16:35:41,905 - ERROR - Search error for Apple iPhone 14: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14
+2025-08-31 16:35:41,906 - ERROR - ❌ No product page found for Apple iPhone 14
+2025-08-31 16:35:41,906 - INFO - 
+📱 Processing iPhone 10/15: iPhone 14 Plus
+2025-08-31 16:35:41,906 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Plus
+2025-08-31 16:35:42,213 - ERROR - Search error for Apple iPhone 14 Plus: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Plus
+2025-08-31 16:35:42,213 - ERROR - ❌ No product page found for Apple iPhone 14 Plus
+2025-08-31 16:35:42,213 - INFO - 
+📱 Processing iPhone 11/15: iPhone 14 Pro
+2025-08-31 16:35:42,213 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro
+2025-08-31 16:35:42,521 - ERROR - Search error for Apple iPhone 14 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro
+2025-08-31 16:35:42,521 - ERROR - ❌ No product page found for Apple iPhone 14 Pro
+2025-08-31 16:35:42,521 - INFO - 
+📱 Processing iPhone 12/15: iPhone 14 Pro Max
+2025-08-31 16:35:42,521 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro+Max
+2025-08-31 16:35:42,827 - ERROR - Search error for Apple iPhone 14 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro+Max
+2025-08-31 16:35:42,827 - ERROR - ❌ No product page found for Apple iPhone 14 Pro Max
+2025-08-31 16:35:42,827 - INFO - 
+📱 Processing iPhone 13/15: iPhone 15
+2025-08-31 16:35:42,827 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15
+2025-08-31 16:35:43,136 - ERROR - Search error for Apple iPhone 15: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15
+2025-08-31 16:35:43,136 - ERROR - ❌ No product page found for Apple iPhone 15
+2025-08-31 16:35:43,136 - INFO - 
+📱 Processing iPhone 14/15: iPhone 15 Plus
+2025-08-31 16:35:43,136 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Plus
+2025-08-31 16:35:43,431 - ERROR - Search error for Apple iPhone 15 Plus: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Plus
+2025-08-31 16:35:43,431 - ERROR - ❌ No product page found for Apple iPhone 15 Plus
+2025-08-31 16:35:43,431 - INFO - 
+📱 Processing iPhone 15/15: iPhone 15 Pro
+2025-08-31 16:35:43,431 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Pro
+2025-08-31 16:35:43,726 - ERROR - Search error for Apple iPhone 15 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Pro
+2025-08-31 16:35:43,727 - ERROR - ❌ No product page found for Apple iPhone 15 Pro
+2025-08-31 16:35:43,727 - INFO - 
+🎯 Apple iPhone Fix completed!
+2025-08-31 16:35:43,727 - INFO - ✅ Success: 0
+2025-08-31 16:35:43,727 - INFO - ❌ Failed: 15
+2025-08-31 16:35:43,727 - INFO - 📊 Total: 15
+2025-08-31 16:38:12,879 - INFO - Found 15 Apple phones to fix
+2025-08-31 16:38:12,879 - INFO - 
+📱 Processing iPhone 1/15: iPhone 12
+2025-08-31 16:38:12,879 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12
+2025-08-31 16:38:14,186 - ERROR - Search error for Apple iPhone 12: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12
+2025-08-31 16:38:14,186 - ERROR - ❌ No product page found for Apple iPhone 12
+2025-08-31 16:38:14,186 - INFO - 
+📱 Processing iPhone 2/15: iPhone 12 Pro
+2025-08-31 16:38:14,186 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro
+2025-08-31 16:38:14,515 - ERROR - Search error for Apple iPhone 12 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro
+2025-08-31 16:38:14,516 - ERROR - ❌ No product page found for Apple iPhone 12 Pro
+2025-08-31 16:38:14,516 - INFO - 
+📱 Processing iPhone 3/15: iPhone 12 Pro Max
+2025-08-31 16:38:14,516 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro+Max
+2025-08-31 16:38:14,932 - ERROR - Search error for Apple iPhone 12 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+Pro+Max
+2025-08-31 16:38:14,932 - ERROR - ❌ No product page found for Apple iPhone 12 Pro Max
+2025-08-31 16:38:14,932 - INFO - 
+📱 Processing iPhone 4/15: iPhone 12 mini
+2025-08-31 16:38:14,932 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+mini
+2025-08-31 16:38:15,235 - ERROR - Search error for Apple iPhone 12 mini: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+12+mini
+2025-08-31 16:38:15,235 - ERROR - ❌ No product page found for Apple iPhone 12 mini
+2025-08-31 16:38:15,235 - INFO - 
+📱 Processing iPhone 5/15: iPhone 13
+2025-08-31 16:38:15,235 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13
+2025-08-31 16:38:15,736 - ERROR - Search error for Apple iPhone 13: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13
+2025-08-31 16:38:15,736 - ERROR - ❌ No product page found for Apple iPhone 13
+2025-08-31 16:38:15,736 - INFO - 
+📱 Processing iPhone 6/15: iPhone 13 Pro
+2025-08-31 16:38:15,737 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro
+2025-08-31 16:38:16,097 - ERROR - Search error for Apple iPhone 13 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro
+2025-08-31 16:38:16,097 - ERROR - ❌ No product page found for Apple iPhone 13 Pro
+2025-08-31 16:38:16,097 - INFO - 
+📱 Processing iPhone 7/15: iPhone 13 Pro Max
+2025-08-31 16:38:16,097 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro+Max
+2025-08-31 16:38:16,432 - ERROR - Search error for Apple iPhone 13 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+Pro+Max
+2025-08-31 16:38:16,432 - ERROR - ❌ No product page found for Apple iPhone 13 Pro Max
+2025-08-31 16:38:16,432 - INFO - 
+📱 Processing iPhone 8/15: iPhone 13 mini
+2025-08-31 16:38:16,432 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+mini
+2025-08-31 16:38:16,740 - ERROR - Search error for Apple iPhone 13 mini: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+13+mini
+2025-08-31 16:38:16,741 - ERROR - ❌ No product page found for Apple iPhone 13 mini
+2025-08-31 16:38:16,741 - INFO - 
+📱 Processing iPhone 9/15: iPhone 14
+2025-08-31 16:38:16,741 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14
+2025-08-31 16:38:17,041 - ERROR - Search error for Apple iPhone 14: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14
+2025-08-31 16:38:17,041 - ERROR - ❌ No product page found for Apple iPhone 14
+2025-08-31 16:38:17,041 - INFO - 
+📱 Processing iPhone 10/15: iPhone 14 Plus
+2025-08-31 16:38:17,041 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Plus
+2025-08-31 16:38:17,346 - ERROR - Search error for Apple iPhone 14 Plus: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Plus
+2025-08-31 16:38:17,347 - ERROR - ❌ No product page found for Apple iPhone 14 Plus
+2025-08-31 16:38:17,347 - INFO - 
+📱 Processing iPhone 11/15: iPhone 14 Pro
+2025-08-31 16:38:17,347 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro
+2025-08-31 16:38:17,647 - ERROR - Search error for Apple iPhone 14 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro
+2025-08-31 16:38:17,648 - ERROR - ❌ No product page found for Apple iPhone 14 Pro
+2025-08-31 16:38:17,648 - INFO - 
+📱 Processing iPhone 12/15: iPhone 14 Pro Max
+2025-08-31 16:38:17,648 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro+Max
+2025-08-31 16:38:18,090 - ERROR - Search error for Apple iPhone 14 Pro Max: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+14+Pro+Max
+2025-08-31 16:38:18,090 - ERROR - ❌ No product page found for Apple iPhone 14 Pro Max
+2025-08-31 16:38:18,090 - INFO - 
+📱 Processing iPhone 13/15: iPhone 15
+2025-08-31 16:38:18,090 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15
+2025-08-31 16:38:18,499 - ERROR - Search error for Apple iPhone 15: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15
+2025-08-31 16:38:18,500 - ERROR - ❌ No product page found for Apple iPhone 15
+2025-08-31 16:38:18,500 - INFO - 
+📱 Processing iPhone 14/15: iPhone 15 Plus
+2025-08-31 16:38:18,500 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Plus
+2025-08-31 16:38:19,031 - ERROR - Search error for Apple iPhone 15 Plus: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Plus
+2025-08-31 16:38:19,031 - ERROR - ❌ No product page found for Apple iPhone 15 Plus
+2025-08-31 16:38:19,031 - INFO - 
+📱 Processing iPhone 15/15: iPhone 15 Pro
+2025-08-31 16:38:19,031 - INFO - Searching: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Pro
+2025-08-31 16:38:19,331 - ERROR - Search error for Apple iPhone 15 Pro: 429 Client Error: Too Many Requests for url: https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName=Apple+iPhone+15+Pro
+2025-08-31 16:38:19,331 - ERROR - ❌ No product page found for Apple iPhone 15 Pro
+2025-08-31 16:38:19,331 - INFO - 
+🎯 Apple iPhone Fix completed!
+2025-08-31 16:38:19,331 - INFO - ✅ Success: 0
+2025-08-31 16:38:19,332 - INFO - ❌ Failed: 15
+2025-08-31 16:38:19,332 - INFO - 📊 Total: 15

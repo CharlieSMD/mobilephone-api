@@ -35,27 +35,27 @@ public class Phone
     // New fields for detailed specifications
     public decimal? Weight { get; set; } // Weight in grams
     
-    [MaxLength(50)]
+    [MaxLength(100)]
     public string? Dimensions { get; set; } // Format: "L x W x H mm"
     
-    [MaxLength(100)]
+    [MaxLength(200)]
     public string? Processor { get; set; }
     
-    [MaxLength(50)]
+    [MaxLength(100)]
     public string? Os { get; set; }
     
     public int? ReleaseYear { get; set; }
     
-    [MaxLength(50)]
+    [MaxLength(100)]
     public string? NetworkType { get; set; }
     
-    [MaxLength(20)]
+    [MaxLength(100)]
     public string? ChargingPower { get; set; }
     
-    [MaxLength(20)]
+    [MaxLength(100)]
     public string? WaterResistance { get; set; }
     
-    [MaxLength(50)]
+    [MaxLength(200)]
     public string? Material { get; set; }
     
     [MaxLength(200)]

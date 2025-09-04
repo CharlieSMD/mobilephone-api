@@ -1,0 +1,69 @@
+2025-08-31 16:39:02,149 - INFO - Found 21 iPhones to fix
+2025-08-31 16:39:02,149 - INFO - 
+📱 Processing: iPhone 12
+2025-08-31 16:39:02,155 - INFO - ✅ Updated iPhone 12: 6.1", 4GB, 2815mAh
+2025-08-31 16:39:02,155 - INFO - 
+📱 Processing: iPhone 12 Pro
+2025-08-31 16:39:02,159 - INFO - ✅ Updated iPhone 12 Pro: 6.1", 6GB, 2815mAh
+2025-08-31 16:39:02,159 - INFO - 
+📱 Processing: iPhone 12 Pro Max
+2025-08-31 16:39:02,163 - INFO - ✅ Updated iPhone 12 Pro Max: 6.7", 6GB, 3687mAh
+2025-08-31 16:39:02,163 - INFO - 
+📱 Processing: iPhone 12 mini
+2025-08-31 16:39:02,167 - INFO - ✅ Updated iPhone 12 mini: 5.4", 4GB, 2227mAh
+2025-08-31 16:39:02,167 - INFO - 
+📱 Processing: iPhone 13
+2025-08-31 16:39:02,170 - INFO - ✅ Updated iPhone 13: 6.1", 4GB, 3240mAh
+2025-08-31 16:39:02,170 - INFO - 
+📱 Processing: iPhone 13 Pro
+2025-08-31 16:39:02,174 - INFO - ✅ Updated iPhone 13 Pro: 6.1", 6GB, 3095mAh
+2025-08-31 16:39:02,174 - INFO - 
+📱 Processing: iPhone 13 Pro Max
+2025-08-31 16:39:02,177 - INFO - ✅ Updated iPhone 13 Pro Max: 6.7", 6GB, 4352mAh
+2025-08-31 16:39:02,177 - INFO - 
+📱 Processing: iPhone 13 mini
+2025-08-31 16:39:02,179 - INFO - ✅ Updated iPhone 13 mini: 5.4", 4GB, 2406mAh
+2025-08-31 16:39:02,179 - INFO - 
+📱 Processing: iPhone 14
+2025-08-31 16:39:02,182 - INFO - ✅ Updated iPhone 14: 6.1", 6GB, 3279mAh
+2025-08-31 16:39:02,182 - INFO - 
+📱 Processing: iPhone 14 Plus
+2025-08-31 16:39:02,185 - INFO - ✅ Updated iPhone 14 Plus: 6.7", 6GB, 4325mAh
+2025-08-31 16:39:02,185 - INFO - 
+📱 Processing: iPhone 14 Pro
+2025-08-31 16:39:02,187 - INFO - ✅ Updated iPhone 14 Pro: 6.1", 6GB, 3200mAh
+2025-08-31 16:39:02,187 - INFO - 
+📱 Processing: iPhone 14 Pro Max
+2025-08-31 16:39:02,189 - INFO - ✅ Updated iPhone 14 Pro Max: 6.7", 6GB, 4323mAh
+2025-08-31 16:39:02,189 - INFO - 
+📱 Processing: iPhone 15
+2025-08-31 16:39:02,192 - INFO - ✅ Updated iPhone 15: 6.1", 6GB, 3349mAh
+2025-08-31 16:39:02,192 - INFO - 
+📱 Processing: iPhone 15 Plus
+2025-08-31 16:39:02,194 - INFO - ✅ Updated iPhone 15 Plus: 6.7", 6GB, 4383mAh
+2025-08-31 16:39:02,194 - INFO - 
+📱 Processing: iPhone 15 Pro
+2025-08-31 16:39:02,196 - INFO - ✅ Updated iPhone 15 Pro: 6.1", 8GB, 3274mAh
+2025-08-31 16:39:02,196 - INFO - 
+📱 Processing: iPhone 15 Pro Max
+2025-08-31 16:39:02,198 - INFO - ✅ Updated iPhone 15 Pro Max: 6.7", 8GB, 4441mAh
+2025-08-31 16:39:02,198 - INFO - 
+📱 Processing: iPhone 16
+2025-08-31 16:39:02,200 - INFO - ✅ Updated iPhone 16: 6.1", 8GB, 3561mAh
+2025-08-31 16:39:02,200 - INFO - 
+📱 Processing: iPhone 16 Plus
+2025-08-31 16:39:02,202 - INFO - ✅ Updated iPhone 16 Plus: 6.7", 8GB, 4674mAh
+2025-08-31 16:39:02,202 - INFO - 
+📱 Processing: iPhone 16 Pro
+2025-08-31 16:39:02,204 - INFO - ✅ Updated iPhone 16 Pro: 6.3", 8GB, 3582mAh
+2025-08-31 16:39:02,204 - INFO - 
+📱 Processing: iPhone 16 Pro Max
+2025-08-31 16:39:02,206 - INFO - ✅ Updated iPhone 16 Pro Max: 6.9", 8GB, 4685mAh
+2025-08-31 16:39:02,206 - INFO - 
+📱 Processing: iPhone SE
+2025-08-31 16:39:02,206 - WARNING - ❌ No specs data found for iPhone SE
+2025-08-31 16:39:02,207 - INFO - 
+🎯 iPhone Manual Fix completed!
+2025-08-31 16:39:02,207 - INFO - ✅ Success: 20
+2025-08-31 16:39:02,207 - INFO - ❌ Failed: 1
+2025-08-31 16:39:02,207 - INFO - 📊 Total: 21

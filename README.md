@@ -59,3 +59,38 @@ Added HTTP client, built login/registration forms, implemented authentication st
 Database Integration:
 backend/MobilePhoneAPI/Migrations/
 Generated database migrations for user table creation
+
+----------------------------
+
+
+Week 4 
+1. Find data from Kaggle Datasets – Mobile Phones
+2. Backend:
+•	Created Phone data model with fields: brand, model, storage, RAM, screen, camera, battery, price
+•	Implemented PhoneService with data reading, search, and brand filtering capabilities
+•	Developed PhoneController with 5 API endpoints:
+•	Get all phones
+•	Get specific phone
+•	Search phones
+•	Filter by brand
+•	Get all brands
+
+3. Frontend:
+•	Updated Home component to use real API data
+•	Implemented real-time search functionality supporting brand, model, and storage search
+•	Optimized interface, such as removing images and displaying brand names in headers
+
+
+----------
+Week 5 Summary
+Main Goal
+Extend mobile phone data with detailed specifications and implement "View Details" functionality.
+Backend
+Extended Phone Model: Added 12 new fields (weight, dimensions, processor, OS, release year, etc.)
+Database Migration: Updated PostgreSQL schema with new fields
+Data Import: Switched from JSON to direct CSV import to database
+PhoneService Update: Changed from reading JSON file to database queries
+Frontend
+View Details Component: Created modal dialog for detailed specifications
+Interface Optimization: Removed price display, added product image placeholder
+Real-time Integration: Connected to updated backend API
