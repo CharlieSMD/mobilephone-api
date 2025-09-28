@@ -20,7 +20,7 @@ public class DataImportController : ControllerBase
         try
         {
             // Path to CSV file (relative to project root)
-            var csvFilePath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "complete_phones_with_details.csv");
+            var csvFilePath = Path.Combine(Directory.GetCurrentDirectory(), "complete_phones_final.csv");
             
             var importedCount = await _dataImportService.ImportPhonesFromCsvAsync(csvFilePath);
             
@@ -56,7 +56,7 @@ public class DataImportController : ControllerBase
     {
         try
         {
-            var csvFilePath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "complete_phones_with_details.csv");
+            var csvFilePath = Path.Combine(Directory.GetCurrentDirectory(), "complete_phones_final.csv");
             var fileExists = System.IO.File.Exists(csvFilePath);
             
             return Ok(new ImportStatus

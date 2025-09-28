@@ -2,6 +2,7 @@ using CsvHelper;
 using CsvHelper.Configuration;
 using CsvHelper.Configuration.Attributes;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using MobilePhoneAPI.Data;
 using MobilePhoneAPI.Models;
 using System.Globalization;
@@ -17,10 +18,12 @@ public interface IDataImportService
 public class DataImportService : IDataImportService
 {
     private readonly ApplicationDbContext _context;
+    private readonly IConfiguration _configuration;
 
-    public DataImportService(ApplicationDbContext context)
+    public DataImportService(ApplicationDbContext context, IConfiguration configuration)
     {
         _context = context;
+        _configuration = configuration;
     }
 
     public async Task<int> ImportPhonesFromCsvAsync(string csvFilePath)
@@ -78,7 +81,7 @@ public class DataImportService : IDataImportService
                 ScreenSize = record.ScreenSize?.Trim() ?? "",
                 Camera = record.Camera?.Trim() ?? "",
                 Battery = record.Battery?.Trim() ?? "",
-                ImageUrl = record.ImageUrl?.Trim() ?? GeneratePlaceholderImageUrl(record.Brand, record.Model),
+                ImageUrl = GetPrimaryImageUrl(record.ImageUrl, record.ColorImages, record.Brand, record.Model),
                 // Detailed specifications
                 Weight = record.Weight,
                 Dimensions = record.Dimensions?.Trim(),
@@ -102,6 +105,61 @@ public class DataImportService : IDataImportService
 
         await _context.SaveChangesAsync();
         return importedCount;
+    }
+
+    private string GetPrimaryImageUrl(string? imageUrl, string? colorImages, string? brand, string? model)
+    {
+        // Try to extract first image from colorImages JSON (priority)
+        if (!string.IsNullOrEmpty(colorImages))
+        {
+            try
+            {
+                // Parse JSON to get first color image
+                var colorImagesObj = System.Text.Json.JsonSerializer.Deserialize<Dictionary<string, string>>(colorImages);
+                if (colorImagesObj != null && colorImagesObj.Count > 0)
+                {
+                    var firstImage = colorImagesObj.Values.FirstOrDefault();
+                    if (!string.IsNullOrEmpty(firstImage))
+                    {
+                        return ConvertToAbsoluteUrl(firstImage);
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Failed to parse colorImages JSON: {ex.Message}");
+            }
+        }
+        
+        // If we have a valid imageUrl (not placeholder), use it
+        if (!string.IsNullOrEmpty(imageUrl) && !imageUrl.Contains("via.placeholder.com"))
+        {
+            return ConvertToAbsoluteUrl(imageUrl.Trim());
+        }
+        
+        // Fall back to placeholder
+        return GeneratePlaceholderImageUrl(brand, model);
+    }
+
+    private string ConvertToAbsoluteUrl(string imagePath)
+    {
+        // If it's already an absolute URL, return as is
+        if (imagePath.StartsWith("http://") || imagePath.StartsWith("https://"))
+        {
+            return imagePath;
+        }
+        
+        // Get base URL from configuration
+        var cloudFrontUrl = _configuration["ImageSettings:CloudFrontUrl"];
+        var baseUrl = _configuration["ImageSettings:BaseUrl"];
+        
+        // Prefer CloudFront URL for production, fallback to base URL
+        var rootUrl = !string.IsNullOrEmpty(cloudFrontUrl) ? cloudFrontUrl : baseUrl;
+        
+        // Remove leading slash if present
+        var cleanPath = imagePath.TrimStart('/');
+        
+        return $"{rootUrl}/{cleanPath}";
     }
 
     private string GeneratePlaceholderImageUrl(string? brand, string? model)

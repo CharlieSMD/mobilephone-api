@@ -1,14 +1,19 @@
 // Centralized frontend configuration
 
-// Prefer environment variable in production builds, fallback to localhost for dev
+// API Base URL - prefer environment variable in production builds
 export const API_BASE_URL =
   (process.env.REACT_APP_API_BASE_URL as string | undefined)?.replace(/\/+$/, '') ||
-  'http://13.222.58.155:5198';
+  'http://localhost:5198';
+
+// Image Base URL - prefer CloudFront for production
+export const IMAGE_BASE_URL =
+  (process.env.REACT_APP_IMAGE_BASE_URL as string | undefined)?.replace(/\/+$/, '') ||
+  API_BASE_URL;
 
 export const getAbsoluteImageUrl = (path?: string): string => {
   if (!path) return '';
   if (path.startsWith('http://') || path.startsWith('https://')) return path;
-  return `${API_BASE_URL}/${path.replace(/^\/+/, '')}`;
+  return `${IMAGE_BASE_URL}/${path.replace(/^\/+/, '')}`;
 };
 
 
