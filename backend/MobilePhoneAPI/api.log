@@ -1849,3 +1849,8 @@ info: Microsoft.EntityFrameworkCore.Database.Command[20101]
       SELECT p."Id", p."Battery", p."Brand", p."Camera", p."ChargingPower", p."ColorImages", p."Colors", p."Dimensions", p."ImageBack", p."ImageFront", p."ImageSide", p."ImageUrl", p."Material", p."Model", p."NetworkType", p."Os", p."Processor", p."Ram", p."ReleaseYear", p."ScreenSize", p."Storage", p."WaterResistance", p."Weight"
       FROM "Phones" AS p
       ORDER BY p."Brand", p."Model"
+info: Microsoft.EntityFrameworkCore.Database.Command[20101]
+      Executed DbCommand (4ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+      SELECT p."Id", p."Battery", p."Brand", p."Camera", p."ChargingPower", p."ColorImages", p."Colors", p."Dimensions", p."ImageBack", p."ImageFront", p."ImageSide", p."ImageUrl", p."Material", p."Model", p."NetworkType", p."Os", p."Processor", p."Ram", p."ReleaseYear", p."ScreenSize", p."Storage", p."WaterResistance", p."Weight"
+      FROM "Phones" AS p
+      ORDER BY p."Brand", p."Model"

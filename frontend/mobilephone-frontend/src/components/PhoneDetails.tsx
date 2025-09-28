@@ -39,11 +39,19 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
 
   // Get current display image
   const getCurrentImage = () => {
-    if (selectedColorImage) {
+    console.log('getCurrentImage called:', { selectedColorImage, phoneImageUrl: phone.imageUrl });
+    
+    if (selectedColorImage && selectedColorImage.trim()) {
       // Add server address for relative paths
-      return getAbsoluteImageUrl(selectedColorImage);
+      const absoluteUrl = getAbsoluteImageUrl(selectedColorImage);
+      console.log('Using color image:', absoluteUrl);
+      return absoluteUrl;
     }
-    return phone.imageUrl || '';
+    
+    // Fallback to main phone image
+    const fallbackUrl = phone.imageUrl || '';
+    console.log('Using fallback image:', fallbackUrl);
+    return fallbackUrl;
   };
 
   return (
