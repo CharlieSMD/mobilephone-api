@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-手动填充手机规格数据
-基于公开的官方规格信息，手动填充缺失的ScreenSize、Ram、Battery字段
+Manual phone specs data filler
+Fill missing ScreenSize, Ram, Battery fields based on publicly available official specifications
 """
 
 import psycopg2
@@ -10,9 +10,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# 手机规格数据库 - 基于官方公开信息
+# Phone specs database - Based on official public information
 PHONE_SPECS = {
-    # ASUS ROG系列
+    # ASUS ROG series
     'ASUS ROG Phone 7': {
         'screen_size': '6.78"',
         'ram': '12GB/16GB',
@@ -381,7 +381,7 @@ PHONE_SPECS = {
         'storage': '256GB/512GB'
     },
     
-    # ASUS ROG系列
+    # ASUS ROG series
     'ASUS ROG Phone 6': {
         'screen_size': '6.78"',
         'ram': '12GB/16GB',

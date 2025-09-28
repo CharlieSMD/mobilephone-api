@@ -8,40 +8,35 @@ import {
   AppBar,
   Toolbar,
   Button,
-  Avatar,
   Menu,
   MenuItem,
   Chip,
   TextField,
   InputAdornment
 } from '@mui/material';
-import { AccountCircle, Logout, Phone, Search } from '@mui/icons-material';
+import { AccountCircle, Logout, Phone as PhoneIcon, Search, CompareArrows } from '@mui/icons-material';
 import { useAuth } from '../contexts/AuthContext';
 import PhoneDetails from './PhoneDetails';
-import axios from 'axios';
+import PhoneCompare from './PhoneCompare';
+import FavoriteStar from './FavoriteStar';
+import CompactLogin from './CompactLogin';
+import CompactRegister from './CompactRegister';
+import { getAllPhones, getPhoneById } from '../api/phone';
+import type { Phone } from '../types/phone';
 
-interface Phone {
-  id: number;
-  brand: string;
-  model: string;
-  storage: string;
-  ram: string;
-  screenSize: string;
-  camera: string;
-  battery: string;
-  imageUrl: string;
-}
+// Phone type moved to shared types
 
 const Home: React.FC = () => {
-  const { user, logout } = useAuth();
+  const { user, logout, login } = useAuth();
   const [phones, setPhones] = useState<Phone[]>([]);
   const [filteredPhones, setFilteredPhones] = useState<Phone[]>([]);
   const [loading, setLoading] = useState(true);
   const [searchTerm, setSearchTerm] = useState('');
   const [anchorEl, setAnchorEl] = useState<null | HTMLElement>(null);
-  const [imageErrors, setImageErrors] = useState<Set<number>>(new Set());
   const [selectedPhone, setSelectedPhone] = useState<Phone | null>(null);
   const [isDetailsModalOpen, setIsDetailsModalOpen] = useState(false);
+  const [isCompareModalOpen, setIsCompareModalOpen] = useState(false);
+  const [comparePhones, setComparePhones] = useState<Phone[]>([]);
 
   useEffect(() => {
     fetchPhones();
@@ -49,9 +44,9 @@ const Home: React.FC = () => {
 
   const fetchPhones = async () => {
     try {
-      const response = await axios.get('http://localhost:5198/api/phone');
-      setPhones(response.data);
-      setFilteredPhones(response.data);
+      const list = await getAllPhones();
+      setPhones(list);
+      setFilteredPhones(list);
     } catch (error) {
       console.error('Failed to fetch phones:', error);
     } finally {
@@ -74,11 +69,6 @@ const Home: React.FC = () => {
       setFilteredPhones(filtered);
     }
   };
-
-  const handleImageError = (phoneId: number) => {
-    setImageErrors(prev => new Set(prev).add(phoneId));
-  };
-
   const handleMenuOpen = (event: React.MouseEvent<HTMLElement>) => {
     setAnchorEl(event.currentTarget);
   };
@@ -92,14 +82,44 @@ const Home: React.FC = () => {
     handleMenuClose();
   };
 
-  const handlePhoneDetailsOpen = (phone: Phone) => {
-    setSelectedPhone(phone);
-    setIsDetailsModalOpen(true);
+  const handleLoginSuccess = (token: string, userData: any) => {
+    login(token, userData);
+  };
+
+  const handlePhoneDetailsOpen = async (phone: Phone) => {
+    try {
+      // Always fetch the latest record by id to ensure fields like Colors are up to date
+      const data = await getPhoneById(phone.id);
+      setSelectedPhone(data as Phone);
+    } catch (err) {
+      // Fallback to the cached list item if fetch fails
+      setSelectedPhone(phone);
+    } finally {
+      setIsDetailsModalOpen(true);
+    }
   };
 
   const handlePhoneDetailsClose = () => {
     setIsDetailsModalOpen(false);
     setSelectedPhone(null);
+  };
+
+  const handleCompareOpen = async (phone: Phone) => {
+    try {
+      // Always fetch the latest record by id to ensure fields like Colors are up to date
+      const data = await getPhoneById(phone.id);
+      setComparePhones([data as Phone]);
+      setIsCompareModalOpen(true);
+    } catch (err) {
+      // Fallback to the cached list item if fetch fails
+      setComparePhones([phone]);
+      setIsCompareModalOpen(true);
+    }
+  };
+
+  const handleCompareClose = () => {
+    setIsCompareModalOpen(false);
+    setComparePhones([]);
   };
 
   const getUserInitials = () => {
@@ -114,12 +134,12 @@ const Home: React.FC = () => {
       {/* App Bar */}
       <AppBar position="static">
         <Toolbar>
-          <Phone sx={{ mr: 2 }} />
+          <PhoneIcon sx={{ mr: 2 }} />
           <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
             Mobile Phone Catalogue
           </Typography>
           
-          {user && (
+          {user ? (
             <Box sx={{ display: 'flex', alignItems: 'center' }}>
               <Chip
                 label={`Welcome, ${user.firstName || user.username}`}
@@ -148,6 +168,11 @@ const Home: React.FC = () => {
                   Logout
                 </MenuItem>
               </Menu>
+            </Box>
+          ) : (
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+              <CompactLogin onLoginSuccess={handleLoginSuccess} />
+              <CompactRegister onRegisterSuccess={handleLoginSuccess} />
             </Box>
           )}
         </Toolbar>
@@ -207,6 +232,29 @@ const Home: React.FC = () => {
                     borderBottom: '1px solid #f0f0f0'
                   }}
                 >
+                  {/* Compare Icon */}
+                  <Box
+                    sx={{
+                      position: 'absolute',
+                      top: 8,
+                      left: 8,
+                      zIndex: 1,
+                      backgroundColor: 'rgba(255, 255, 255, 0.8)',
+                      borderRadius: '50%',
+                      '&:hover': {
+                        backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                        transform: 'scale(1.1)'
+                      },
+                      transition: 'all 0.2s ease',
+                      cursor: 'pointer'
+                    }}
+                    onClick={() => handleCompareOpen(phone)}
+                  >
+                    <CompareArrows sx={{ p: 0.5, color: '#667eea' }} />
+                  </Box>
+                  
+                  {/* Favorite Star */}
+                  <FavoriteStar phoneId={phone.id} position="card" />
                   {phone.imageUrl ? (
                     <img
                       src={phone.imageUrl}
@@ -302,6 +350,12 @@ const Home: React.FC = () => {
           onClose={handlePhoneDetailsClose}
         />
       )}
+
+      <PhoneCompare
+        phones={comparePhones}
+        open={isCompareModalOpen}
+        onClose={handleCompareClose}
+      />
     </Box>
   );
 };

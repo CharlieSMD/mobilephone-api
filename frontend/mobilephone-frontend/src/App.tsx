@@ -53,22 +53,7 @@ const AppContent: React.FC = () => {
     );
   }
 
-  // Show authentication pages if not authenticated
-  if (!isAuthenticated) {
-    return showLogin ? (
-      <Login 
-        onLoginSuccess={handleLoginSuccess}
-        onSwitchToRegister={switchToRegister}
-      />
-    ) : (
-      <Register 
-        onRegisterSuccess={handleRegisterSuccess}
-        onSwitchToLogin={switchToLogin}
-      />
-    );
-  }
-
-  // Show main app if authenticated
+  // Show main app (Home component handles authentication for protected features)
   return <Home />;
 };
 

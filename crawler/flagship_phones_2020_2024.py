@@ -350,7 +350,7 @@ def rebuild_flagship_database(connection_string: str):
                         ''', (
                             phone['brand'],
                             phone['model'],
-                            'TBD',  # 待爬虫填充
+                            'TBD',  # To be filled by crawler
                             'TBD',
                             'TBD', 
                             'TBD',
@@ -361,13 +361,13 @@ def rebuild_flagship_database(connection_string: str):
                         inserted += 1
                     except Exception as e:
                         failed += 1
-                        print(f"  ❌ 插入失败: {phone['brand']} {phone['model']} ({phone['year']}) - {e}")
+                        print(f"  ❌ Insert failed: {phone['brand']} {phone['model']} ({phone['year']}) - {e}")
                 
                 conn.commit()
                 
-                print(f"✅ 成功插入: {inserted}款")
+                print(f"✅ Successfully inserted: {inserted} phones")
                 if failed > 0:
-                    print(f"❌ 失败: {failed}款")
+                    print(f"❌ Failed: {failed} phones")
                 
                 # 验证最终数量
                 cur.execute('SELECT COUNT(*) FROM "Phones"')

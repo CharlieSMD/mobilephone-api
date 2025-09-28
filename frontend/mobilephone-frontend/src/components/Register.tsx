@@ -11,7 +11,7 @@ import {
   Link
 } from '@mui/material';
 import { PersonAddOutlined } from '@mui/icons-material';
-import axios from 'axios';
+import { register as registerApi } from '../api/auth';
 
 interface RegisterProps {
   onRegisterSuccess: (token: string, user: any) => void;
@@ -113,15 +113,13 @@ const Register: React.FC<RegisterProps> = ({ onRegisterSuccess, onSwitchToLogin 
     setLoading(true);
 
     try {
-      const response = await axios.post('http://localhost:5198/api/user/register', {
+      const { token, user } = await registerApi({
         username: formData.username,
         email: formData.email,
         password: formData.password,
         firstName: formData.firstName,
         lastName: formData.lastName
       });
-      
-      const { token, user } = response.data;
       
       // Save token to localStorage
       localStorage.setItem('token', token);

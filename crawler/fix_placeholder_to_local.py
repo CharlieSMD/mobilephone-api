@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-修复数据库中的placeholder链接
-将有对应图片文件的手机从placeholder改为本地图片路径
+Fix placeholder links in database
+Change phones with corresponding image files from placeholder to local image paths
 """
 
 import os

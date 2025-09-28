@@ -11,7 +11,7 @@ import {
   Link
 } from '@mui/material';
 import { LockOutlined } from '@mui/icons-material';
-import axios from 'axios';
+import { login as loginApi } from '../api/auth';
 
 interface LoginProps {
   onLoginSuccess: (token: string, user: any) => void;
@@ -77,9 +77,7 @@ const Login: React.FC<LoginProps> = ({ onLoginSuccess, onSwitchToRegister }) => 
     setLoading(true);
 
     try {
-      const response = await axios.post('http://localhost:5198/api/user/login', formData);
-      
-      const { token, user } = response.data;
+      const { token, user } = await loginApi(formData);
       
       // Save token to localStorage
       localStorage.setItem('token', token);

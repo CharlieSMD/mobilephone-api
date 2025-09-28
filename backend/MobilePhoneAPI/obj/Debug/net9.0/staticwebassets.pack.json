@@ -1,44 +1,48 @@
 {
   "Files": [
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_3_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_3_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/hello.txt",
+      "PackagePath": "staticwebassets/hello.txt"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_3_Black_Glare.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_3_Black_Glare.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_Ultimate_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_Ultimate_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_Pro_Matte_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_Pro_Matte_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_Storm_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_Storm_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_6_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_6_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_5_Ultimate_Matte_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_5_Ultimate_Matte_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_6_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_6_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_6_Pro_Storm_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_6_Pro_Storm_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_7_Ultimate_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_7_Ultimate_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_6_Storm_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_6_Storm_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_7_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_7_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_7_Pro_Storm_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_7_Pro_Storm_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_8_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_8_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_7_Storm_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_7_Storm_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_8_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_8_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_8_Pro_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_8_Pro_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/ASUS_ROG_Phone_8_Rebel_Grey.jpg",
+      "PackagePath": "staticwebassets/images/phones/ASUS_ROG_Phone_8_Rebel_Grey.jpg"
     },
     {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_11.jpg",
@@ -49,352 +53,1092 @@
       "PackagePath": "staticwebassets/images/phones/Apple_iPhone_11_Pro_Max.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Max_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Max_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Graphite.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Graphite.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Max_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Max_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Max_Graphite.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Max_Graphite.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Max_Pacific_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Max_Pacific_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Max_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Max_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Max_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Max_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Pacific_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Pacific_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Pro_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Pro_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Max_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Max_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Max_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Max_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_12_mini_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_12_mini_White.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_SE_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_SE_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_4a_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_4a_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_5_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_5_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Midnight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Midnight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_5a_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_5a_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pink.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Alpine_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Alpine_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Graphite.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Graphite.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_Alpine_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_Alpine_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7a_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7a_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_Graphite.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_Graphite.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_Sierra_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_Sierra_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_XL_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_XL_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Max_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Max_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Sierra_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Sierra_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Pro_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Pro_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_30_Pro__front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_30_Pro__front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_30_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_30_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_Starlight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_Starlight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_30_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_30_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic3_Pro__front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic3_Pro__front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic3_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic3_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Midnight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Midnight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic3_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic3_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Pink.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic4_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic4_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic4_Ultimate_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic4_Ultimate_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_13_mini_Starlight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_13_mini_Starlight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic4_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic4_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic5_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic5_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Midnight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Midnight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic5_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic5_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic6_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic6_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Midnight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Midnight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Honor_Magic6_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Honor_Magic6_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_30_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_30_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_40_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_40_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Starlight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Starlight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_40_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_40_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Plus_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Plus_Yellow.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_50_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_50_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Deep_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Deep_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_50_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_50_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_60_Pro__front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_60_Pro__front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Max_Deep_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Max_Deep_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_60_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_60_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Max_Gold.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Max_Gold.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Mate_60_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Mate_60_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Max_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Max_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P40_Pro__front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P40_Pro__front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Max_Space_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Max_Space_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P40_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P40_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Silver.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P40_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P40_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Pro_Space_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Pro_Space_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P50_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P50_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Purple.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P50_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P50_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Red.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P60_Pro_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P60_Pro_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Starlight.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Starlight.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_P60_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_P60_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_14_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_14_Yellow.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Huawei_Pura_70_front.jpg",
-      "PackagePath": "staticwebassets/images/phones/Huawei_Pura_70_front.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X2.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X2.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X2_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X2_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X3.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X3.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pink.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X3_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X3_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X5.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X5.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_Blue.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X5_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X5_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_Green.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X6.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X6.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_Pink.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X6_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X6_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Plus_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Plus_Yellow.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OPPO_Find_X7.jpg",
-      "PackagePath": "staticwebassets/images/phones/OPPO_Find_X7.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Black_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Black_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_10T.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_10T.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Blue_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Blue_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_10_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_10_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Max_Black_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Max_Black_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_11.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_11.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Max_Blue_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Max_Blue_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_12.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_12.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Max_Natural_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Max_Natural_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_12R.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_12R.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Max_White_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Max_White_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_8.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_8.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_Natural_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_Natural_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_8T.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_8T.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Pro_White_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Pro_White_Titanium.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_8_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_8_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_15_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_15_Yellow.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_9.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_9.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Black.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_9RT.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_9RT.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pink.jpg"
     },
     {
-      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/OnePlus_9_Pro.jpg",
-      "PackagePath": "staticwebassets/images/phones/OnePlus_9_Pro.jpg"
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_Pink.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_Teal.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_Teal.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_Ultramarine.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_Ultramarine.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Plus_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Plus_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Black_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Black_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Desert_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Desert_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Max_Black_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Max_Black_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Max_Desert_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Max_Desert_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Max_Natural_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Max_Natural_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Max_White_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Max_White_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_Natural_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_Natural_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Pro_White_Titanium.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Pro_White_Titanium.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Teal.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Teal.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_Ultramarine.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_Ultramarine.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_16_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_16_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_SE_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_SE_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Apple_iPhone_SE_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Apple_iPhone_SE_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_4a_Barely_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_4a_Barely_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_4a_Just_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_4a_Just_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_5_Just_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_5_Just_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_5_Sorta_Sage.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_5_Sorta_Sage.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_5a_Mostly_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_5a_Mostly_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Cloudy_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Cloudy_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Pro_CloudyWhite.png",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Pro_CloudyWhite.png"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Pro_SortaSunny.png",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Pro_SortaSunny.png"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Pro_StormyBlack.png",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Pro_StormyBlack.png"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Sorta_Sunny.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Sorta_Sunny.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_6_Stormy_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_6_Stormy_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Mint.png",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Mint.png"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Pro_Hazel.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Pro_Hazel.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Pro_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Pro_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Pro_Snow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Pro_Snow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7_Snow.png",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7_Snow.png"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7a_Charcoal.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7a_Charcoal.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7a_Coral.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7a_Coral.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7a_Sea.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7a_Sea.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_7a_Snow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_7a_Snow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Hazel.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Hazel.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Pro_Bay.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Pro_Bay.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Pro_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Pro_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Pro_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Pro_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Pro_Porcelain.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Pro_Porcelain.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_8_Rose.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_8_Rose.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Hazel.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Hazel.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pink.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_Hazel.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_Hazel.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_Pink.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_Whitegreen.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_Whitegreen.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_XL_Hazel.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_XL_Hazel.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_XL_Obsidian.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_XL_Obsidian.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_XL_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_XL_Pink.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Pro_XL_Whitegreen.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Pro_XL_Whitegreen.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Google_Pixel_9_Whitegreen.jpg",
+      "PackagePath": "staticwebassets/images/phones/Google_Pixel_9_Whitegreen.jpg"
     },
     {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20.jpg",
       "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20.jpg"
     },
     {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Mystic_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Mystic_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Mystic_Bronze.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Mystic_Bronze.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Mystic_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Mystic_Green.jpg"
+    },
+    {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Ultra.jpg",
       "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Ultra.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_Bronze.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_Bronze.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Note20_Ultra_Mystic_White.jpg"
     },
     {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20.jpg",
       "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20.jpg"
     },
     {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Aura_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Aura_Red.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Cloud_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Cloud_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Cloud_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Cloud_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Plus_Aura_Red.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Plus_Aura_Red.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Plus_Cloud_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Plus_Cloud_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Plus_Cloud_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Plus_Cloud_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Plus_Cosmic_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Plus_Cosmic_Black.jpg"
+    },
+    {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Ultra.jpg",
       "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Ultra.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Ultra_Cloud_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Ultra_Cloud_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Ultra_Cosmic_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Ultra_Cosmic_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S20_Ultra_Cosmic_Grey.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S20_Ultra_Cosmic_Grey.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_PhantomViolet.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_PhantomViolet.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Phantom_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Phantom_Silver.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Plus_PhantomViolet.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Plus_PhantomViolet.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Plus_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Plus_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Plus_Phantom_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Plus_Phantom_Silver.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Ultra.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Ultra.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Ultra_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Ultra_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S21_Ultra_Phantom_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S21_Ultra_Phantom_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Bora_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Bora_Purple.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Plus_Bora_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Plus_Bora_Purple.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Plus_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Plus_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Plus_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Plus_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Plus_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Plus_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Ultra.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Ultra.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Ultra_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Ultra_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Ultra_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Ultra_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Ultra_Sky_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Ultra_Sky_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_Ultra_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_Ultra_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S22_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S22_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23+.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23+.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Cream.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Cream.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Lavender.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Lavender.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Plus_Cream.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Plus_Cream.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Plus_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Plus_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Plus_Lavender.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Plus_Lavender.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Plus_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Plus_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Ultra_Cream.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Ultra_Cream.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Ultra_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Ultra_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Ultra_Lavender.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Ultra_Lavender.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S23_Ultra_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S23_Ultra_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24+.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24+.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Orange.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Orange.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Gray.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Gray.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Orange.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Orange.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Violet.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Violet.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Ultra_Titanium_Yellow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_S24_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_S24_Yellow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip3.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip3.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip3_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip3_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip3_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip3_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip3_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip3_Purple.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip3_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip3_Yellow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip4.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip4.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip4_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip4_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip4_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip4_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip4_Golden.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip4_Golden.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip4_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip4_Purple.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Cream.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Cream.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Graphite.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Graphite.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Lavender.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Lavender.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip5_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip5_Silver.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_Grey.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_Grey.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_Orange.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_Orange.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_SkyBlue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_SkyBlue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_White.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_White.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip6_Yellow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip6_Yellow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip7_BlueShadow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip7_BlueShadow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip7_Coralred.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip7_Coralred.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip7_Jetblack.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip7_Jetblack.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip7_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip7_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip_Golden.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip_Golden.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip_Jet_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip_Jet_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Flip_Purple.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Flip_Purple.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold2.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold2.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold2_Mystic_Bronze.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold2_Mystic_Bronze.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold3.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold3.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Green.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Green.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold3_Phantom_Silver.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold4.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold4.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold4_Beige.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold4_Beige.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold4_Graygreen.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold4_Graygreen.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold4_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold4_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5_Cream.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5_Cream.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5_Golden.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5_Golden.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5_Icy_Blue.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5_Icy_Blue.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold5_Phantom_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold5_Phantom_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold6.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold6.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold6_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold6_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold6_Navy.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold6_Navy.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold6_Pink.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold6_Pink.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold6_Silver_Shadow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold6_Silver_Shadow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold7_BlueShadow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold7_BlueShadow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold7_JetBlack.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold7_JetBlack.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold7_Mint.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold7_Mint.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold7_SilverShadow.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold7_SilverShadow.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold_Mystic_Black.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold_Mystic_Black.jpg"
+    },
+    {
+      "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/images/phones/Samsung_Galaxy_Z_Fold_Mystic_Silver.jpg",
+      "PackagePath": "staticwebassets/images/phones/Samsung_Galaxy_Z_Fold_Mystic_Silver.jpg"
     },
     {
       "Id": "/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/wwwroot/test.txt",

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Samsung Z Series Precise Image Crawler
-使用精确搜索词为三星Z Flip和Z Fold系列下载正确图片的爬虫
+Crawler using precise search terms to download correct images for Samsung Z Flip and Z Fold series
 """
 
 import requests
@@ -15,12 +15,12 @@ import re
 from urllib.parse import urljoin, urlparse
 import json
 
-# 获取脚本所在目录的上级目录（项目根目录）
+# Get parent directory of script location (project root)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 IMAGES_DIR = os.path.join(PROJECT_ROOT, "images", "phones")
 
-# 数据库配置
+# Database configuration
 DB_CONFIG = {
     'host': 'localhost',
     'database': 'mobilephone_db',
@@ -28,11 +28,11 @@ DB_CONFIG = {
     'password': 'postgres'
 }
 
-# GSMArena基础URL
+# GSMArena base URL
 GSMARENA_BASE = "https://www.gsmarena.com"
 SEARCH_URL = "https://www.gsmarena.com/results.php3?sQuickSearch=yes&sName="
 
-# 请求头
+# Request headers
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -42,7 +42,7 @@ HEADERS = {
     'Upgrade-Insecure-Requests': '1',
 }
 
-# 精确的搜索词映射
+# Precise search term mapping
 PRECISE_SEARCH_TERMS = {
     'Galaxy Z Flip': 'Samsung Galaxy Z Flip 5G',
     'Galaxy Z Flip3': 'Samsung Galaxy Z Flip3 5G',
@@ -57,16 +57,16 @@ PRECISE_SEARCH_TERMS = {
 }
 
 def get_db_connection():
-    """获取数据库连接"""
+    """Get database connection"""
     try:
         conn = psycopg2.connect(**DB_CONFIG)
         return conn
     except Exception as e:
-        print(f"数据库连接失败: {e}")
+        print(f"Database connection failed: {e}")
         return None
 
 def get_samsung_z_series_phones():
-    """获取三星Z系列手机"""
+    """Get Samsung Z series phones"""
     conn = get_db_connection()
     if not conn:
         return []
@@ -87,56 +87,56 @@ def get_samsung_z_series_phones():
         
         return phones
     except Exception as e:
-        print(f"查询数据库失败: {e}")
+        print(f"Database query failed: {e}")
         if conn:
             conn.close()
         return []
 
 def search_phone_on_gsmarena(phone_model):
-    """在GSMArena搜索手机"""
-    # 使用精确的搜索词
+    """Search phone on GSMArena"""
+    # Use precise search terms
     search_term = PRECISE_SEARCH_TERMS.get(phone_model, f"Samsung {phone_model}")
     search_url = SEARCH_URL + requests.utils.quote(search_term)
     
     try:
-        print(f"🔍 搜索: {search_term}")
+        print(f"🔍 Search: {search_term}")
         response = requests.get(search_url, headers=HEADERS, timeout=10)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # 查找搜索结果
+        # Find search results
         results = soup.find_all('div', class_='makers')
         if not results:
             return None
         
-        # 获取第一个结果
+        # Get first result
         first_result = results[0].find('a')
         if not first_result:
             return None
         
         phone_url = urljoin(GSMARENA_BASE, first_result['href'])
-        print(f"✅ 找到手机页面: {phone_url}")
+        print(f"✅ Found phone page: {phone_url}")
         
         return phone_url
         
     except Exception as e:
-        print(f"❌ 搜索失败: {e}")
+        print(f"❌ Search failed: {e}")
         return None
 
 def get_phone_images(phone_url):
-    """获取手机图片"""
+    """Fetch phone images"""
     try:
-        print(f"📱 获取手机图片: {phone_url}")
+        print(f"📱 Fetch phone images: {phone_url}")
         response = requests.get(phone_url, headers=HEADERS, timeout=10)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # 查找图片
+        # Find images
         images = []
         
-        # 查找主图片
+        # Find main image
         main_image = soup.find('div', class_='specs-photo-main')
         if main_image:
             img_tag = main_image.find('img')
@@ -144,7 +144,7 @@ def get_phone_images(phone_url):
                 img_url = urljoin(GSMARENA_BASE, img_tag['src'])
                 images.append(img_url)
         
-        # 查找其他图片
+        # Find other images
         photo_gallery = soup.find('div', class_='specs-photo-main')
         if photo_gallery:
             gallery_images = photo_gallery.find_all('img')
@@ -154,36 +154,36 @@ def get_phone_images(phone_url):
                     if img_url not in images:
                         images.append(img_url)
         
-        print(f"📸 找到 {len(images)} 张图片")
+        print(f"📸 Found {len(images)} images")
         return images
         
     except Exception as e:
-        print(f"❌ 获取图片失败: {e}")
+        print(f"❌ Failed to fetch images: {e}")
         return []
 
 def download_image(image_url, local_path):
-    """下载图片"""
+    """Download image"""
     try:
-        print(f"⬇️ 下载图片: {image_url}")
+        print(f"⬇️ Download image: {image_url}")
         response = requests.get(image_url, headers=HEADERS, timeout=15)
         response.raise_for_status()
         
-        # 确保目录存在
+        # Ensure directory exists
         os.makedirs(os.path.dirname(local_path), exist_ok=True)
         
-        # 保存图片
+        # Save image
         with open(local_path, 'wb') as f:
             f.write(response.content)
         
-        print(f"✅ 图片已保存: {local_path}")
+        print(f"✅ Image saved: {local_path}")
         return True
         
     except Exception as e:
-        print(f"❌ 下载失败: {e}")
+        print(f"❌ Download failed: {e}")
         return False
 
 def update_database_image_url(phone_model, image_url):
-    """更新数据库中的图片URL"""
+    """Update image URL in database"""
     conn = get_db_connection()
     if not conn:
         return False
@@ -200,83 +200,83 @@ def update_database_image_url(phone_model, image_url):
         cursor.close()
         conn.close()
         
-        print(f"✅ 数据库已更新: {phone_model}")
+        print(f"✅ Database updated: {phone_model}")
         return True
         
     except Exception as e:
-        print(f"❌ 数据库更新失败: {e}")
+        print(f"❌ Database update failed: {e}")
         if conn:
             conn.close()
         return False
 
 def process_samsung_z_phone(phone_model):
-    """处理单个三星Z系列手机"""
-    print(f"\n🚀 开始处理: Samsung {phone_model}")
+    """Process a single Samsung Z series phone"""
+    print(f"\n🚀 Start processing: Samsung {phone_model}")
     
-    # 搜索手机
+    # Search phone
     phone_url = search_phone_on_gsmarena(phone_model)
     if not phone_url:
-        print(f"❌ 未找到手机: {phone_model}")
+        print(f"❌ Phone not found: {phone_model}")
         return False
     
-    # 获取图片
+    # Fetch images
     images = get_phone_images(phone_url)
     if not images:
-        print(f"❌ 未找到图片: {phone_model}")
+        print(f"❌ No images found: {phone_model}")
         return False
     
-    # 下载第一张图片
+    # Download the first image
     image_url = images[0]
     local_filename = f"Samsung_{phone_model.replace(' ', '_')}.jpg"
     local_path = os.path.join(IMAGES_DIR, local_filename)
     
     if download_image(image_url, local_path):
-        # 更新数据库
+        # Update database
         db_url = f"http://localhost:5198/images/phones/{local_filename}"
         if update_database_image_url(phone_model, db_url):
-            print(f"🎉 成功处理: {phone_model}")
+            print(f"🎉 Processed successfully: {phone_model}")
             return True
     
     return False
 
 def main():
-    """主函数"""
-    print("🔄 三星Z系列精确图片爬虫启动")
+    """Main function"""
+    print("🔄 Samsung Z series precise image crawler started")
     print("=" * 50)
-    print(f"📁 图片保存目录: {IMAGES_DIR}")
+    print(f"📁 Image save directory: {IMAGES_DIR}")
     
-    # 获取需要处理的手机
+    # Get phones to process
     phones = get_samsung_z_series_phones()
     if not phones:
-        print("✅ 没有找到三星Z系列手机！")
+        print("✅ No Samsung Z series phones found!")
         return
     
-    print(f"📱 找到 {len(phones)} 部三星Z系列手机:")
+    print(f"📱 Found {len(phones)} Samsung Z series phones:")
     for brand, model, image_url in phones:
         print(f"  • {model}")
     
     print("\n" + "=" * 50)
     
-    # 处理每部手机
+    # Process each phone
     success_count = 0
     total_count = len(phones)
     
     for i, (brand, model, image_url) in enumerate(phones, 1):
-        print(f"\n📊 进度: {i}/{total_count}")
+        print(f"\n📊 Progress: {i}/{total_count}")
         
         if process_samsung_z_phone(model):
             success_count += 1
         
-        # 随机延迟，避免被限制
+        # Random delay to avoid being rate-limited
         if i < total_count:
             delay = random.uniform(5, 10)
-            print(f"⏳ 等待 {delay:.1f} 秒...")
+            print(f"⏳ Waiting {delay:.1f} seconds...")
             time.sleep(delay)
     
     print("\n" + "=" * 50)
-    print(f"🎉 爬虫完成！")
-    print(f"✅ 成功: {success_count}/{total_count}")
-    print(f"❌ 失败: {total_count - success_count}/{total_count}")
+    print(f"🎉 Crawler finished!")
+    print(f"✅ Success: {success_count}/{total_count}")
+    print(f"❌ Failed: {total_count - success_count}/{total_count}")
 
 if __name__ == "__main__":
     main()

@@ -56,6 +56,9 @@ builder.Services.AddScoped<IPhoneService, PhoneService>();
 // Add data import service
 builder.Services.AddScoped<IDataImportService, DataImportService>();
 
+// Add favorite service
+builder.Services.AddScoped<IFavoriteService, FavoriteService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

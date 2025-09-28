@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-修复剩余的图片路径匹配问题
-处理文件名格式不匹配的情况
+Fix remaining image path matching issues
+Handle filename format mismatches
 """
 
 import os
@@ -13,9 +13,9 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 def fix_remaining_images():
-    """修复剩余的图片路径匹配问题"""
+    """Fix remaining image path matching issues"""
     try:
-        # 连接数据库
+        # Connect to database
         conn = psycopg2.connect(host='localhost', database='mobilephone_db', user='postgres')
         cur = conn.cursor()
         

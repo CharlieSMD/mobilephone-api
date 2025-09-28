@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-整合所有图片到统一位置
-将 COMPX576/images/phones/ 中的所有图片移动到 COMPX576/MobilePhone/images/phones/
+Consolidate all images to a unified location
+Move all images from COMPX576/images/phones/ to COMPX576/MobilePhone/images/phones/
 """
 
 import os
@@ -19,11 +19,11 @@ class ImageConsolidator:
         self.old_images_dir = self.base_dir / "images" / "phones"
         self.new_images_dir = self.base_dir / "MobilePhone" / "images" / "phones"
         
-        # 确保目标目录存在
+        # Ensure destination directory exists
         self.new_images_dir.mkdir(parents=True, exist_ok=True)
         
     def move_all_images(self):
-        """将旧目录中的所有图片移动到新目录"""
+        """Move all images from old directory to new directory"""
         if not self.old_images_dir.exists():
             logger.info(f"❌ Source directory not found: {self.old_images_dir}")
             return 0
@@ -31,28 +31,28 @@ class ImageConsolidator:
         moved_count = 0
         duplicate_count = 0
         
-        # 获取所有图片文件
+        # Get all image files
         for image_file in self.old_images_dir.glob("*.jpg"):
             target_path = self.new_images_dir / image_file.name
             
             try:
                 if target_path.exists():
-                    # 如果目标文件已存在，比较大小决定是否替换
+                    # If destination exists, compare size to decide replacement
                     old_size = image_file.stat().st_size
                     new_size = target_path.stat().st_size
                     
                     if old_size > new_size:
-                        # 如果旧文件更大，替换
+                        # Replace if old file is larger
                         shutil.move(str(image_file), str(target_path))
                         logger.info(f"🔄 Replaced larger: {image_file.name} ({old_size} > {new_size} bytes)")
                         moved_count += 1
                     else:
-                        # 删除旧文件
+                        # Delete old file
                         image_file.unlink()
                         logger.info(f"⏭️ Kept existing: {image_file.name}")
                         duplicate_count += 1
                 else:
-                    # 移动文件
+                    # Move file
                     shutil.move(str(image_file), str(target_path))
                     logger.info(f"✅ Moved: {image_file.name}")
                     moved_count += 1
@@ -63,12 +63,12 @@ class ImageConsolidator:
         return moved_count, duplicate_count
     
     def update_database_paths(self):
-        """更新数据库中的图片路径到新位置"""
+        """Update image paths in database to new location"""
         try:
             conn = psycopg2.connect(host='localhost', database='mobilephone_db', user='postgres')
             cur = conn.cursor()
             
-            # 更新所有本地图片路径
+            # Update all local image paths
             cur.execute('''
                 UPDATE "Phones" 
                 SET "ImageUrl" = REPLACE("ImageUrl", 
@@ -77,8 +77,8 @@ class ImageConsolidator:
                 WHERE "ImageUrl" LIKE 'http://localhost:5198/images/%'
             ''')
             
-            # 确保路径正确指向MobilePhone目录
-            # 注意：后端Program.cs应该配置静态文件服务指向MobilePhone/images目录
+            # Ensure path points to MobilePhone directory
+            # Note: Backend Program.cs should serve static files from MobilePhone/images
             
             updated_count = cur.rowcount
             conn.commit()
@@ -93,12 +93,12 @@ class ImageConsolidator:
             return 0
     
     def verify_consolidation(self):
-        """验证整合结果"""
+        """Verify consolidation results"""
         try:
-            # 统计新目录中的图片
+            # Count images in new directory
             new_images = list(self.new_images_dir.glob("*.jpg"))
             
-            # 检查旧目录是否还有图片
+            # Check if old directory still has images
             old_images = list(self.old_images_dir.glob("*.jpg")) if self.old_images_dir.exists() else []
             
             logger.info(f"📊 Consolidation verification:")
@@ -107,12 +107,12 @@ class ImageConsolidator:
             
             if old_images:
                 logger.warning(f"⚠️ Still {len(old_images)} images in old directory")
-                for img in old_images[:5]:  # 显示前5个
+                for img in old_images[:5]:  # Show first 5
                     logger.warning(f"   - {img.name}")
             else:
                 logger.info("✅ All images successfully consolidated!")
             
-            # 显示一些示例
+            # Show some examples
             logger.info("📱 Sample consolidated images:")
             for img in sorted(new_images)[:10]:
                 logger.info(f"   - {img.name}")
@@ -124,18 +124,18 @@ class ImageConsolidator:
             return 0, 0
     
     def cleanup_old_directory(self):
-        """清理旧的图片目录（如果为空）"""
+        """Clean up old image directories (if empty)"""
         try:
             if self.old_images_dir.exists():
-                # 检查是否还有文件
+                # Check if any files remain
                 remaining_files = list(self.old_images_dir.iterdir())
                 
                 if not remaining_files:
-                    # 目录为空，可以删除
+                    # Directory is empty, safe to delete
                     self.old_images_dir.rmdir()
                     logger.info(f"🗑️ Removed empty directory: {self.old_images_dir}")
                     
-                    # 尝试删除父目录（如果也为空）
+                    # Try deleting parent directory (if empty as well)
                     parent_dir = self.old_images_dir.parent
                     if parent_dir.name == "images" and not any(parent_dir.iterdir()):
                         parent_dir.rmdir()
@@ -153,17 +153,17 @@ def main():
     logger.info(f"   📂 From: {consolidator.old_images_dir}")
     logger.info(f"   📂 To: {consolidator.new_images_dir}")
     
-    # 步骤1: 移动所有图片
+    # Step 1: Move all images
     moved_count, duplicate_count = consolidator.move_all_images()
     logger.info(f"📦 Moved {moved_count} images, {duplicate_count} duplicates handled")
     
-    # 步骤2: 更新数据库路径
+    # Step 2: Update database paths
     updated_count = consolidator.update_database_paths()
     
-    # 步骤3: 验证结果
+    # Step 3: Verify results
     total_images, remaining_old = consolidator.verify_consolidation()
     
-    # 步骤4: 清理旧目录
+    # Step 4: Clean old directories
     consolidator.cleanup_old_directory()
     
     logger.info(f"""

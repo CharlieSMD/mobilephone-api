@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-通用规格修复器 - 按Samsung Note20标准修复所有手机数据
-修复字段: ScreenSize, Ram, Battery, Storage (如果缺失)
+Universal specs fixer - Fix all phone data according to Samsung Note20 standards
+Fix fields: ScreenSize, Ram, Battery, Storage (if missing)
 适用于: Apple, Google, Honor, Huawei, ASUS, Sony, Xiaomi, vivo等所有品牌
 """
 

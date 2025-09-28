@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import {
   Dialog,
   DialogTitle,
@@ -10,31 +10,13 @@ import {
   Divider
 } from '@mui/material';
 import { Close, Info, Storage, Memory, Monitor, Camera, BatteryFull } from '@mui/icons-material';
+import ColorSelector from './ColorSelector';
+import { getAbsoluteImageUrl } from '../config';
+import { Phone } from '../types/phone';
+import FavoriteStar from './FavoriteStar';
+import { formatSpec } from '../utils/format';
 
-interface Phone {
-  id: number;
-  brand: string;
-  model: string;
-  storage: string;
-  ram: string;
-  screenSize: string;
-  camera: string;
-  battery: string;
-  imageUrl: string;
-  weight?: number;
-  dimensions?: string;
-  processor?: string;
-  os?: string;
-  releaseYear?: number;
-  networkType?: string;
-  chargingPower?: string;
-  waterResistance?: string;
-  material?: string;
-  colors?: string;
-  imageFront?: string;
-  imageBack?: string;
-  imageSide?: string;
-}
+// Phone type moved to shared types
 
 interface PhoneDetailsProps {
   phone: Phone | null;
@@ -43,11 +25,25 @@ interface PhoneDetailsProps {
 }
 
 const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => {
+  const [selectedColor, setSelectedColor] = useState<string>('');
+  const [selectedColorImage, setSelectedColorImage] = useState<string>('');
+
   if (!phone) return null;
 
-  const formatSpec = (value?: string | number) => {
-    if (!value) return 'Not specified';
-    return value.toString();
+  // formatting moved to utils
+
+  const handleColorChange = (color: string, imagePath?: string) => {
+    setSelectedColor(color);
+    setSelectedColorImage(imagePath || '');
+  };
+
+  // Get current display image
+  const getCurrentImage = () => {
+    if (selectedColorImage) {
+      // Add server address for relative paths
+      return getAbsoluteImageUrl(selectedColorImage);
+    }
+    return phone.imageUrl || '';
   };
 
   return (
@@ -77,12 +73,15 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
             Detailed Specifications
           </Typography>
         </Box>
-        <Button
-          onClick={onClose}
-          sx={{ minWidth: 'auto', p: 1 }}
-        >
-          <Close />
-        </Button>
+        <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+          <FavoriteStar phoneId={phone.id} position="details" />
+          <Button
+            onClick={onClose}
+            sx={{ minWidth: 'auto', p: 1 }}
+          >
+            <Close />
+          </Button>
+        </Box>
       </DialogTitle>
 
       <DialogContent sx={{ pt: 2 }}>
@@ -127,10 +126,24 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
 
           <Divider />
 
+          {/* Color Selector */}
+          {phone.colors && (
+            <Box>
+              <ColorSelector
+                colors={phone.colors}
+                colorImages={phone.colorImages}
+                selectedColor={selectedColor}
+                onColorChange={handleColorChange}
+              />
+            </Box>
+          )}
+
+          <Divider />
+
           {/* Product Image */}
           <Box>
             <Typography variant="h6" gutterBottom sx={{ color: '#667eea' }}>
-              Product Image
+              Product Image {selectedColor && `(${selectedColor})`}
             </Typography>
             <Box sx={{ 
               display: 'flex', 
@@ -139,17 +152,19 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
               minHeight: '200px',
               border: '2px dashed #e0e0e0',
               borderRadius: 2,
-              bgcolor: '#fafafa'
+              bgcolor: '#fafafa',
+              position: 'relative'
             }}>
-              {phone.imageUrl ? (
+              {getCurrentImage() ? (
                 <img 
-                  src={phone.imageUrl}
-                  alt={`${phone.brand} ${phone.model}`}
+                  src={getCurrentImage()}
+                  alt={`${phone.brand} ${phone.model} ${selectedColor || ''}`}
                   style={{ 
                     maxWidth: '100%', 
                     maxHeight: '180px', 
                     objectFit: 'contain',
-                    borderRadius: '8px'
+                    borderRadius: '8px',
+                    transition: 'opacity 0.3s ease'
                   }}
                   onError={(e) => {
                     const target = e.target as HTMLImageElement;
@@ -162,7 +177,7 @@ const PhoneDetails: React.FC<PhoneDetailsProps> = ({ phone, open, onClose }) => 
                 variant="body2" 
                 color="text.secondary" 
                 sx={{ 
-                  display: phone.imageUrl ? 'none' : 'block',
+                  display: getCurrentImage() ? 'none' : 'block',
                   textAlign: 'center'
                 }}
               >

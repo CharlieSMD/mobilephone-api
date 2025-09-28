@@ -61,6 +61,9 @@ public class Phone
     [MaxLength(200)]
     public string? Colors { get; set; } // Comma-separated color options
     
+    [MaxLength(2000)]
+    public string? ColorImages { get; set; } // JSON string mapping colors to image paths
+    
     // Image fields
     [MaxLength(255)]
     public string? ImageFront { get; set; }

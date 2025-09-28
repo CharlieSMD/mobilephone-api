@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-修复缺失的图片路径
-将不存在的本地图片路径改为合适的placeholder
+Fix missing image paths
+Change non-existent local image paths to appropriate placeholders
 """
 
 import psycopg2

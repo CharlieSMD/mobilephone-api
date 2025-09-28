@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-下载所有手机图片到本地
-将GSMArena图片和其他外部图片下载到本地images文件夹
+Download all phone images to local storage
+Download GSMArena images and other external images to local images folder
 """
 
 import requests
@@ -31,11 +31,11 @@ class ImageDownloader:
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
         })
         
-        # 确保目录存在
+        # Ensure directory exists
         os.makedirs(self.phones_dir, exist_ok=True)
         
     def get_images_to_download(self):
-        """获取需要下载的图片列表"""
+        """Get list of images that need to be downloaded"""
         try:
             conn = psycopg2.connect(host='localhost', database='mobilephone_db', user='postgres')
             cur = conn.cursor()

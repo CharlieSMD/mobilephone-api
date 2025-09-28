@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-紧急恢复原始图片链接！
-撤销刚才错误的placeholder替换操作
+Emergency restore original image links
+Revert the recent incorrect placeholder replacement
 """
 
 import psycopg2
@@ -11,12 +11,12 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 def restore_original_images():
-    """恢复原始图片链接"""
+    """Restore original image links"""
     try:
         conn = psycopg2.connect(host='localhost', database='mobilephone_db', user='postgres')
         cur = conn.cursor()
         
-        # 恢复Apple iPhone的本地图片路径
+        # Restore local image paths for Apple iPhone
         apple_phones = [
             ('iPhone 12', 'Apple_iPhone_12_front.jpg'),
             ('iPhone 12 Pro', 'Apple_iPhone_12_Pro_front.jpg'),
@@ -51,7 +51,7 @@ def restore_original_images():
                 logger.info(f"✅ Restored Apple {model}")
                 restored_count += 1
         
-        # 恢复ASUS ROG Phone的本地图片路径
+        # Restore local image paths for ASUS ROG Phone
         asus_phones = [
             ('ROG Phone 3', 'ASUS_ROG_Phone_3_front.jpg'),
             ('ROG Phone 5', 'ASUS_ROG_Phone_5_front.jpg'),
@@ -73,7 +73,7 @@ def restore_original_images():
                 logger.info(f"✅ Restored ASUS {model}")
                 restored_count += 1
         
-        # 恢复Google Pixel的本地图片路径
+        # Restore local image paths for Google Pixel
         google_phones = [
             ('Pixel 4a', 'Google_Pixel_4a_front.jpg'),
             ('Pixel 5', 'Google_Pixel_5_front.jpg'),
@@ -98,7 +98,7 @@ def restore_original_images():
                 logger.info(f"✅ Restored Google {model}")
                 restored_count += 1
         
-        # 恢复Huawei的本地图片路径
+        # Restore local image paths for Huawei
         huawei_phones = [
             ('Mate 30 Pro', 'Huawei_Mate_30_Pro_front.jpg'),
             ('Mate 40', 'Huawei_Mate_40_front.jpg'),
@@ -126,7 +126,7 @@ def restore_original_images():
                 logger.info(f"✅ Restored Huawei {model}")
                 restored_count += 1
         
-        # 恢复Honor的本地图片路径
+        # Restore local image paths for Honor
         honor_phones = [
             ('30', 'Honor_30_front.jpg'),
             ('30 Pro', 'Honor_30_Pro_front.jpg'),

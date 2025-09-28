@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Comprehensive Specs Crawler - 修复所有字段
-正确抓取ScreenSize, RAM, Battery等字段
+Comprehensive Specs Crawler - Fix all fields
+Correctly crawl ScreenSize, RAM, Battery and other fields
 """
 
 import requests

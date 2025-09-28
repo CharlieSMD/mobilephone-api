@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-完整规格补充器 - 基于网络搜索结果补充Camera、Weight、Processor、Dimensions等缺失字段
+Complete specs filler - Fill missing Camera, Weight, Processor, Dimensions fields based on web search results
 """
 
 import psycopg2
@@ -9,9 +9,9 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# 完整手机规格数据库 - 基于网络搜索的权威信息
+# Complete phone specs database - Authoritative information based on web search
 COMPLETE_PHONE_SPECS = {
-    # Samsung Galaxy系列
+    # Samsung Galaxy series
     'Samsung Galaxy Z Flip3': {
         'camera': 'Dual',
         'weight': 183,
@@ -67,7 +67,7 @@ COMPLETE_PHONE_SPECS = {
         'dimensions': '153.5 x 132.6 x 5.6 mm'
     },
     
-    # OnePlus系列 - 基于官方规格
+    # OnePlus series - Based on official specifications
     'OnePlus 10 Pro': {
         'camera': 'Triple',
         'weight': 200.5,

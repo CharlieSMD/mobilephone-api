@@ -140,3 +140,4 @@
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/MobilePhoneAPI.pdb
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/MobilePhoneAPI.genruntimeconfig.cache
 /Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/ref/MobilePhoneAPI.dll
+/Users/shenmeidun/UoW_IT/COMPX576/MobilePhone/backend/MobilePhoneAPI/obj/Debug/net9.0/compressed/eu742ws86t-0641mkaajd.gz
