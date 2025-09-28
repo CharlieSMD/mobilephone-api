@@ -78,7 +78,22 @@ public class DataImportService : IDataImportService
                 ScreenSize = record.ScreenSize?.Trim() ?? "",
                 Camera = record.Camera?.Trim() ?? "",
                 Battery = record.Battery?.Trim() ?? "",
-                ImageUrl = GeneratePlaceholderImageUrl(record.Brand, record.Model)
+                ImageUrl = record.ImageUrl?.Trim() ?? GeneratePlaceholderImageUrl(record.Brand, record.Model),
+                // Detailed specifications
+                Weight = record.Weight,
+                Dimensions = record.Dimensions?.Trim(),
+                Processor = record.Processor?.Trim(),
+                Os = record.Os?.Trim(),
+                ReleaseYear = record.ReleaseYear,
+                NetworkType = record.NetworkType?.Trim(),
+                ChargingPower = record.ChargingPower?.Trim(),
+                WaterResistance = record.WaterResistance?.Trim(),
+                Material = record.Material?.Trim(),
+                Colors = record.Colors?.Trim(),
+                ColorImages = record.ColorImages?.Trim(),
+                ImageFront = record.ImageFront?.Trim(),
+                ImageBack = record.ImageBack?.Trim(),
+                ImageSide = record.ImageSide?.Trim()
             };
 
             _context.Phones.Add(phone);
@@ -106,18 +121,64 @@ public class CsvPhoneRecord
     [Name("Model")]
     public string? Model { get; set; }
     
-    [Name("Storage ")]
+    [Name("Storage")]
     public string? Storage { get; set; }
     
-    [Name("RAM ")]
+    [Name("Ram")]
     public string? Ram { get; set; }
     
-    [Name("Screen Size (inches)")]
+    [Name("ScreenSize")]
     public string? ScreenSize { get; set; }
     
-    [Name("Camera (MP)")]
+    [Name("Camera")]
     public string? Camera { get; set; }
     
-    [Name("Battery Capacity (mAh)")]
+    [Name("Battery")]
     public string? Battery { get; set; }
+    
+    // Detailed specifications
+    [Name("Weight")]
+    public decimal? Weight { get; set; }
+    
+    [Name("Dimensions")]
+    public string? Dimensions { get; set; }
+    
+    [Name("Processor")]
+    public string? Processor { get; set; }
+    
+    [Name("Os")]
+    public string? Os { get; set; }
+    
+    [Name("ReleaseYear")]
+    public int? ReleaseYear { get; set; }
+    
+    [Name("NetworkType")]
+    public string? NetworkType { get; set; }
+    
+    [Name("ChargingPower")]
+    public string? ChargingPower { get; set; }
+    
+    [Name("WaterResistance")]
+    public string? WaterResistance { get; set; }
+    
+    [Name("Material")]
+    public string? Material { get; set; }
+    
+    [Name("Colors")]
+    public string? Colors { get; set; }
+    
+    [Name("ColorImages")]
+    public string? ColorImages { get; set; }
+    
+    [Name("ImageFront")]
+    public string? ImageFront { get; set; }
+    
+    [Name("ImageBack")]
+    public string? ImageBack { get; set; }
+    
+    [Name("ImageSide")]
+    public string? ImageSide { get; set; }
+    
+    [Name("ImageUrl")]
+    public string? ImageUrl { get; set; }
 }
