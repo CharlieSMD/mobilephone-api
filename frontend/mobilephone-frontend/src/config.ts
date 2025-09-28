@@ -3,7 +3,7 @@
 // Prefer environment variable in production builds, fallback to localhost for dev
 export const API_BASE_URL =
   (process.env.REACT_APP_API_BASE_URL as string | undefined)?.replace(/\/+$/, '') ||
-  'http://localhost:5198';
+  'http://13.222.58.155:5198';
 
 export const getAbsoluteImageUrl = (path?: string): string => {
   if (!path) return '';
